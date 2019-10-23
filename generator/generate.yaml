@@ -1,6 +1,6 @@
 local_paths:
-  includes: /home/pi/adguard-home-filters/repo/generator/includes/
-  output: /home/pi/adguard-home-filters/repo/
+  includes: /home/travis/build/FenghenHome/adguard-home-filters/generator/includes/
+  output: /home/travis/build/FenghenHome/adguard-home-filters/rules/
 file_include:
   header: tm_header.txt
   filter_whitelist: fl_whitelist.txt
@@ -13,15 +13,17 @@ file_output:
     desc: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
 remote_files:
   hosts:
-    - https://hosts-file.net/ad_servers.txt
-    - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-    - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
-    - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
-    - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
-    - https://www.malwaredomainlist.com/hostslist/hosts.txt
+    - https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/127.0.0.1/full/hosts
+    - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+    - https://raw.githubusercontent.com/vokins/yhosts/master/hosts
   regex:
     - https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
   filters:
-    - https://easylist.to/easylist/easylist.txt
-    - https://easylist.to/easylist/easyprivacy.txt
-    - https://filters.adtidy.org/extension/chromium/filters/15.txt
+    - https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
+    - https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
+    - http://tools.yiclear.com/ChinaList2.0.txt
+    - https://easylist-downloads.adblockplus.org/easyprivacy.txt
+    - https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+    - https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/HalfLife.txt
+    - https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/ADgk.txt
+    - https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/Adbyby.txt
