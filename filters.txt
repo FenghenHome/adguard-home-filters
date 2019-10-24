@@ -1,15 +1,15 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-10-2019 02:54 UTC
-! Count: 39,369
+! Last Modified: 24-10-2019 04:52 UTC
+! Count: 39,379
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
 ! https://easylist-downloads.adblockplus.org/easyprivacy.txt
-! https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/ADgk.txt
+! https://gitee.com/banbendalao/adguard/raw/master/ADgk.txt
+! https://gitee.com/halflife/list/raw/master/ad.txt
 ! https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/Adbyby.txt
-! https://raw.githubusercontent.com/FenghenHome/adguard-home-filters/master/rules/HalfLife.txt
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ! https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 ! https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/127.0.0.1/full/hosts
@@ -1162,6 +1162,7 @@
 ||70fd25cf5a7b1c57.com^
 ||70lm.com^
 ||70yst.cn^
+||71.am^
 ||710070.com^
 ||711983.com^
 ||711kk.com^
@@ -4557,7 +4558,6 @@
 ||api.newad.ifeng.com^
 ||api.newbelden.com^
 ||api.nobeta.com.br^
-||api.node4.ts.feedback.71.am^
 ||api.open.uc.cn^
 ||api.pingstart.com^
 ||api.primecaster.net^
@@ -4572,7 +4572,6 @@
 ||api.ssp.zxrtb.com^
 ||api.tinyhoneybee.com^
 ||api.tongji.today^
-||api.ts.feedback.71.am^
 ||api.tuisong.baidu.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.union.vip.com^
@@ -6611,6 +6610,7 @@
 ||broomboxmain.com^
 ||brothersincash.com^
 ||browser-statistik.de^
+||browserkernel.baidu.com^
 ||browsermine.com^
 ||browsers.support^
 ||browsersfeedback.com^
@@ -6641,7 +6641,6 @@
 ||bsaixnxcpaai.com^
 ||bsepyppitmkkf.com^
 ||bshare.cn^
-||bsiet.husky.sogou.com^
 ||bsjhbxtrbvkr.com^
 ||bskijhtct.com^
 ||bskwrsjudrp.com^
@@ -11543,7 +11542,6 @@
 ||e.yu3p7m.cn^
 ||e.yycqc.com^
 ||e.zg39b.cn^
-||e.zu08e.cn^
 ||e.zvfuka.cn^
 ||e0663490cca0296f7.com^
 ||e0a42e1a21669b.com^
@@ -12969,6 +12967,7 @@
 ||feifish66.com^
 ||feih.com.cn^
 ||feihongjiaoyu.com^
+||feipaihehuoren.cn^
 ||feisia1.cn^
 ||feitian001.com^
 ||feitianma.com^
@@ -14765,6 +14764,8 @@
 ||googletagservices.com^
 ||googletakes.com^
 ||googletrackmanager.com^
+||googlevideo.com^
+||googlevideoads.com^
 ||goolpter.com^
 ||gooo.al^
 ||goowurzdotcom.bid^
@@ -14932,6 +14933,7 @@
 ||gringrin.cn^
 ||gripdownload.co^
 ||grjs01.com^
+||grjs02.com^
 ||grkrkurbyykok.com^
 ||grlehzdbzmstb.com^
 ||grllopa.com^
@@ -15147,7 +15149,6 @@
 ||gx38.cn^
 ||gxdhgb.com^
 ||gxdyluyqciac.com^
-||gxe.husky.sogou.com^
 ||gxejgs.com^
 ||gxeoadmo.com^
 ||gxfzlnwlizmur.com^
@@ -15605,6 +15606,7 @@
 ||heydqkfbglbu.com^
 ||heygugu.com^
 ||heyhelga.net^
+||heylookhere.top^
 ||heystaks.com^
 ||hezasoiduicbha.com^
 ||hezhenzi.com^
@@ -16302,6 +16304,7 @@
 ||hurra.com^
 ||hurterkranach.net^
 ||husetdmrejiyjy.bid^
+||husky.sogou.com^
 ||hutfora.info^
 ||hutkuzwropgf.com^
 ||hutrcksp.com^
@@ -17234,6 +17237,7 @@
 ||inetinteractive.com^
 ||inewcontentdelivery.info^
 ||inewoioxxdbm.com^
+||inews.qq.com^
 ||infectiousmedia.com^
 ||inferclick.com^
 ||infinigraph.com^
@@ -19466,6 +19470,7 @@
 ||kraken.giantrealm.com^
 ||krakeshlaja.com^
 ||kraruzatefci.com^
+||krboeyeq.com^
 ||krdvzahyr.com^
 ||krezqajxv.bid^
 ||krfbhbhal.com^
@@ -19553,6 +19558,7 @@
 ||kuaigao.rrsdl.com^
 ||kuaikan.netmon.360safe.com^
 ||kuaipai666.cn^
+||kuaipaobiaoju.com^
 ||kuaishang.cn^
 ||kuaituisss.com^
 ||kuaizitech.com^
@@ -20677,6 +20683,7 @@
 ||lotteryaffiliates.com^
 ||loudloss.com^
 ||loupan99.com^
+||lousivency.com.cn^
 ||lovacmar.click^
 ||lovdkmqvoc.bid^
 ||love-banner.com^
@@ -21554,7 +21561,6 @@
 ||m.zkp53.cn^
 ||m.zosue.cn^
 ||m.zq4ka.cn^
-||m.zu08e.cn^
 ||m.zvfuka.cn^
 ||m1.27com.com^
 ||m1.51kaowang.com^
@@ -22941,7 +22947,6 @@
 ||mse2v5oglm.com^
 ||msecure108.com^
 ||msegeqxwopq.com^
-||msg.71.am^
 ||msg.douyu.com^
 ||msg.eclicks.cn^
 ||msg.ettoday.net^
@@ -22953,7 +22958,6 @@
 ||msg.umengcloud.com^
 ||msg.video.qiyi.com^
 ||msg2.video.qiyi.com^
-||msga.71.am^
 ||msga.cupid.iqiyi.com^
 ||msga.ptqy.gitv.tv^
 ||msgapp.com^
@@ -23259,6 +23263,7 @@
 ||mytictac.com^
 ||mytrack.pro^
 ||mytzdhz.cn^
+||myuf6.xyz^
 ||myunion1.qm120.com^
 ||myunion1.tupians.com^
 ||myuniques.ru^
@@ -27389,6 +27394,7 @@
 ||qjobvxqp.com^
 ||qjoqfapllsbtw.bid^
 ||qjpxalhvenbt.com^
+||qjrlcrkhnj.com^
 ||qjskosdsxanp.com^
 ||qjttowndvet.com^
 ||qjueu.com^
@@ -35523,6 +35529,7 @@
 ||vweit.com^
 ||vwfvnfvelrvvww.com^
 ||vwgffbknpgxe.com^
+||vwhi.gou.sogou.com^
 ||vwimfzntn.bid^
 ||vwkhdi.cn^
 ||vwkyuawm.com^
@@ -38036,6 +38043,7 @@
 ||yishuifa.org^
 ||yisloda.com^
 ||yisscbyq.com^
+||yitiaoyu.top^
 ||yivsfcxf.bid^
 ||yiwad.com^
 ||yiwuds.com^
@@ -38835,6 +38843,7 @@
 ||zgyiyi.com^
 ||zgyxizppxf.com^
 ||zgzczklewpt.com^
+||zgzxs.weathercn.com^
 ||zh1144.com^
 ||zhabyesrdnvn.com^
 ||zhaibei112.top^
@@ -39234,6 +39243,7 @@
 ||ztyrgxdelngf.com^
 ||ztyumn.ifeng.com^
 ||ztzfcmbsycout.bid^
+||zu08e.cn^
 ||zu4l167j77.com^
 ||zualhpolssus.com^
 ||zucnclozfb.com^
