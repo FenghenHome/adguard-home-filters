@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 26-10-2019 14:38 UTC
-! Count: 39,460
+! Last Modified: 26-10-2019 14:46 UTC
+! Count: 39,465
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -5795,6 +5795,8 @@
 ||beacons.helium.com^
 ||beacons.mediamelon.com^
 ||beacons3.gvt2.com^
+||beacons4.gvt2.com^
+||beacons5.gvt2.com^
 ||beaconstreetservices.com^
 ||beacyoryjkbhqb.com^
 ||beamkite.com^
@@ -25123,6 +25125,7 @@
 ||otherelis.info^
 ||otherprofit.com^
 ||othersonline.com^
+||otheve.beacon.qq.com^
 ||otheve.play.aiseet.atianqi.com^
 ||othstr.play.aiseet.atianqi.com^
 ||otiqknmqyibci.com^
@@ -25333,6 +25336,7 @@
 ||p.tamenshuo.com^
 ||p.tencentmind.com^
 ||p.travelsmarter.net^
+||p.typekit.net^
 ||p.yizuya.com^
 ||p.yotpo.com^
 ||p.zol-img.com.cn^
@@ -26069,7 +26073,6 @@
 ||pixel.usrsync.com^
 ||pixel.watch^
 ||pixel.wp.com^
-||pixel.wp.come^
 ||pixel.wp.pl^
 ||pixel.xmladfeed.com^
 ||pixel.yabidos.com^
@@ -28305,6 +28308,7 @@
 ||report-uri.com^
 ||report-uri.io^
 ||report-zt.allmusic.com^
+||report.appmetrica.yandex.net^
 ||report.downloastar.com^
 ||report.meituan.com^
 ||report.qcloud.com^
@@ -28737,6 +28741,7 @@
 ||roredi.com^
 ||roritabo.com^
 ||rosemand.pro^
+||rosenberg.appmetrica.yandex.net^
 ||rotaban.ru^
 ||rotabanner.kulichki.net^
 ||rotate4all.com^
