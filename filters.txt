@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 28-10-2019 02:56 UTC
-! Count: 39,503
+! Last Modified: 28-10-2019 14:25 UTC
+! Count: 39,505
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -5644,7 +5644,6 @@
 ||bd1.heiguang.cn^
 ||bd1.home8080.cn^
 ||bd1.idgdmg.com.cn^
-||bd1.idgdmgroup.com.cn^
 ||bd1.jinbaozy.com^
 ||bd1.jobui.com^
 ||bd1.ningboseo0574.com^
@@ -5663,16 +5662,13 @@
 ||bd2.flfgw.cn^
 ||bd2.home8080.cn^
 ||bd2.idgdmg.com.cn^
-||bd2.idgdmgroup.com.cn^
 ||bd2.jobui.com^
 ||bd2.nipic.com^
 ||bd2.pipaw.com^
 ||bd202457b.com^
 ||bd3.chuiyue.com^
-||bd3.idgdmgroup.com.cn^
 ||bd3.jobui.com^
 ||bd4.chuiyue.com^
-||bd4.idgdmgroup.com.cn^
 ||bdad.gaotie.net^
 ||bdad.hao224.com^
 ||bdafhnltyxlw.com^
@@ -11349,6 +11345,7 @@
 ||dzyqqwixizp.com^
 ||dzz.wankeedu.com^
 ||dzzawlkmtvug.com^
+||dzznyesmwj.com^
 ||dzztjcbt.com^
 ||e-contenta.com^
 ||e-demx.com^
@@ -15524,14 +15521,12 @@
 ||hd100546b.com^
 ||hd149026b.com^
 ||hda.maxli.cn^
-||hda.watchtimes.com.cn^
 ||hdad.baike.com^
 ||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdat.xyz^
 ||hdb.maxli.cn^
 ||hdc.maxli.cn^
-||hdc.watchtimes.com.cn^
 ||hdcfyrzx.com^
 ||hddgigiwip.bid^
 ||hddzzizitskc.com^
@@ -16731,6 +16726,7 @@
 ||idernzastoeok.com^
 ||idexoro.info^
 ||idfybbol.com^
+||idgdmgroup.com.cn^
 ||idianfang.com^
 ||idio.co^
 ||idissynmirkw.com^
@@ -18647,7 +18643,6 @@
 ||js.high-minded.net^
 ||js.hkslg520.com^
 ||js.idgdmg.com.cn^
-||js.idgdmgroup.com.cn^
 ||js.itaiju.com^
 ||js.kt250.com^
 ||js.lieqitianxia.cn^
@@ -20528,6 +20523,7 @@
 ||lnvnzrqdajau.com^
 ||lnwbiuetoymifj.com^
 ||lnwqvhcqw.com^
+||lnyypjocad.com^
 ||lnzcmgguxlac.com^
 ||loa-traffic.com^
 ||loadercdn.com^
@@ -21906,6 +21902,7 @@
 ||mbmwfufkaxll.com^
 ||mbn.com.ua^
 ||mbotvisit.com^
+||mbpjpmcz.com^
 ||mbrxgolis.com^
 ||mbs.hao.360.cn^
 ||mbs.weathercn.com^
@@ -23128,6 +23125,7 @@
 ||mujap.com^
 ||mujiangdashi.cn^
 ||mujilora.com^
+||mujzsntbwzwc.com^
 ||mukkkoi.cn^
 ||mukwonagoacampo.com^
 ||mukxblrkoaaa.com^
@@ -27796,6 +27794,7 @@
 ||quqyiobevrc.com^
 ||qurhdjkms.com^
 ||quw18.com^
+||quyaoya.com^
 ||quyxxofx.com^
 ||qveoxhidesgy.bid^
 ||qveuxmbhbhmg.com^
@@ -32598,6 +32597,7 @@
 ||tkoatkkdwyky.com^
 ||tkpi.delta.com^
 ||tkqlhce.com^
+||tkroqotredk.com^
 ||tkshyp.com^
 ||tksljtdqkqxh.com^
 ||tkssw.com^
@@ -35860,6 +35860,7 @@
 ||watchmygf.to^
 ||watchnowlive.eu^
 ||watchsk.com^
+||watchtimes.com.cn^
 ||wateristian.com^
 ||watson.live.com^
 ||watson.microsoft.com^
@@ -37056,6 +37057,7 @@
 ||xbbcwbsadlrn.com^
 ||xbdlsolradeh.com^
 ||xberu.com^
+||xbfuorhxpa.com^
 ||xbgoulaxoen.com^
 ||xbinjxvdnjqllh.com^
 ||xblcqncce.com^
@@ -37562,6 +37564,7 @@
 ||xrpva.cn^
 ||xrqkzdbnybod.com^
 ||xrrwwxfj.bid^
+||xrsfwclojycu.com^
 ||xruuohzpxmmw.com^
 ||xrvyetdriwzp.com^
 ||xrzjigahrnxsr.bid^
@@ -39479,6 +39482,7 @@
 ||zybztgtsxq.bid^
 ||zycvyudt.com^
 ||zydfsiuhqkbsqh.com^
+||zydvsvwgqqyxb.com^
 ||zydyjzw.cn^
 ||zyeawuzisttu.com^
 ||zyfuywrjbxyf.com^
@@ -39539,6 +39543,4 @@
 ||zzwajufm.com^
 ||zzwzjidz.bid^
 ||zzxosget.com^
-||zzy.quyaoya.com^
-||zzy1.quyaoya.com^
 ||zzyonghao.com^
