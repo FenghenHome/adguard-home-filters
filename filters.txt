@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 13-11-2019 03:04 UTC
-! Count: 39,988
+! Last Modified: 13-11-2019 14:34 UTC
+! Count: 40,038
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -614,6 +614,7 @@
 ||2pxg8bcf.top^
 ||2r3485.cn^
 ||2scjbg.com^
+||2shouhc.com^
 ||2shoushi.com^
 ||2ssltome.ga^
 ||2st5ne.cn^
@@ -627,7 +628,6 @@
 ||2zm4.cn^
 ||3.chuanyi5.com^
 ||3.guidaye.com^
-||3.iscrv.com^
 ||3.ssqzj.com^
 ||300ca0d0.space^
 ||301848.com^
@@ -1158,7 +1158,6 @@
 ||6zo8wfs96aqp5cpgj20m.com^
 ||6zw2rcfd.com^
 ||6zy9yqe1ew.com^
-||7.iscrv.com^
 ||700900.com^
 ||700ok.net^
 ||7011.stia.cn^
@@ -4044,6 +4043,7 @@
 ||alog.umeng.co^
 ||alog.umengcloud.com^
 ||alogationa.co^
+||alogs.umengcloud.com^
 ||alpha.telemetry.microsft.com^
 ||alphabird.com^
 ||alphabirdnetwork.com^
@@ -4569,6 +4569,7 @@
 ||api-u-ssl.xunlei.com^
 ||api.140proof.com^
 ||api.22lianmeng.com^
+||api.24kidea.com^
 ||api.ad.xv555.com^
 ||api.adcome.cn^
 ||api.adfurikun.jp^
@@ -4630,6 +4631,7 @@
 ||api.tinyhoneybee.com^
 ||api.tongji.today^
 ||api.tuisong.baidu.com^
+||api.tv.sohu.com^
 ||api.tw06.xlmc.sec.miui.com^
 ||api.union.vip.com^
 ||api.viglink.com^
@@ -4705,6 +4707,7 @@
 ||app01.nodes.gslb.mi-idc.com^
 ||app02.nodes.gslb.mi-idc.com^
 ||appads.com^
+||appapisdk.tanv.com^
 ||appared.online^
 ||apparede.com^
 ||apparest.com^
@@ -5458,6 +5461,7 @@
 ||baidujs.cnys.com^
 ||baidujs.vip^
 ||baidulao.com^
+||baidushifen.com^
 ||baiduspider1.cn^
 ||baidut.github.io^
 ||baidutv.baidu.com^
@@ -5595,6 +5599,7 @@
 ||bat.adforum.com^
 ||bat.bing.com^
 ||batigfkcbwpb.com^
+||batnhiyilyvvdo.com^
 ||bats.video.yahoo.com^
 ||bauersagtnein.myeffect.net^
 ||bauffnmtou.com^
@@ -5658,6 +5663,7 @@
 ||bccyyc.com^
 ||bcdn.men^
 ||bce.baidu.com^
+||bcebos.com^
 ||bcfeedback.taobao.com^
 ||bcgcvepi.com^
 ||bchur.com^
@@ -6237,7 +6243,6 @@
 ||bizx.info^
 ||bizzclick.com^
 ||bj-bytsk.com^
-||bj.bcebos.com^
 ||bj1110.online^
 ||bj14.9669.cn^
 ||bjbrtc.com^
@@ -7324,6 +7329,7 @@
 ||caughinga.info^
 ||cavdzowr.com^
 ||cawcwpvmpcje.com^
+||caxiqapecuop.com^
 ||caxvm62zyz.com^
 ||cayaaebmb.com^
 ||cayanfang.com^
@@ -8999,7 +9005,6 @@
 ||cpt.itv.com^
 ||cptrack.de^
 ||cpu-admin.baidu.com^
-||cpu-baidu-com-block.cdn.bcebos.com^
 ||cpu.baidu.com^
 ||cpu2cash.link^
 ||cpucdn.baidu.com^
@@ -9965,6 +9970,7 @@
 ||danitabedtick.net^
 ||danmeneldur.com^
 ||danpinwu.com^
+||danqingschool.com^
 ||dante2007.com^
 ||danunnpvy.com^
 ||danzabucks.com^
@@ -11104,6 +11110,7 @@
 ||dreamrecord.cn^
 ||dredkcyex.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
+||drevozone.com.cn^
 ||dreyeli.info^
 ||drf8e429z5jzt.cloudfront.net^
 ||drgykb.cn^
@@ -14102,7 +14109,6 @@
 ||g.bitauto.com^
 ||g.bitmag.com.br^
 ||g.chuiyao.com^
-||g.csdnimg.cn^
 ||g.daman.cc^
 ||g.deathandtaxesmag.com^
 ||g.delivery.net^
@@ -14362,6 +14368,7 @@
 ||gdsqwy.org^
 ||gdt.qq.com^
 ||gdtbpaqa.com^
+||gdtqq.cn^
 ||gdunt.com^
 ||gduubghr.bid^
 ||gdwwpvwq.com^
@@ -15202,6 +15209,7 @@
 ||gsp3.baidu.com^
 ||gsqhqbaysfmp.bid^
 ||gsqwxrtcabdftt.com^
+||gss0.bdstatic.com^
 ||gsspat.jp^
 ||gsspcln.jp^
 ||gssprt.jp^
@@ -16698,7 +16706,6 @@
 ||hzxfmc.com^
 ||hzxma.com^
 ||hzxtamstwecry.bid^
-||hzyd.cdn.bcebos.com^
 ||hzyuw.com^
 ||hzyvjghy.bid^
 ||hzyxaqdr.bid^
@@ -16914,6 +16921,7 @@
 ||idiyejpux.bid^
 ||idkyfrsbzesx.com^
 ||idm-su.baidu.com^
+||idmfdmoli.com^
 ||idntfy.ru^
 ||idolbucks.com^
 ||idopjddmtzo.bid^
@@ -17306,6 +17314,7 @@
 ||img1.pcfg.cache.wps.cn^
 ||img1.pszyzxh.org^
 ||img1.sj.qq.com^
+||img1.tanv.com^
 ||img1.ysts8.com^
 ||img16.diyifanwen.com^
 ||img2.126.net^
@@ -17315,6 +17324,7 @@
 ||img2.km.com^
 ||img2.pengfu.net^
 ||img2.qekun.com^
+||img2.tanv.com^
 ||img2.titan007.com^
 ||img2.user.kanimg.com^
 ||img3.126.net^
@@ -17350,6 +17360,7 @@
 ||imgtrack.domainmarket.com^
 ||imgtty.com^
 ||imgwebfeed.com^
+||imhizxejm.com^
 ||imho.ru^
 ||imhvlhaelvvbrq.ru^
 ||imiclk.com^
@@ -17867,6 +17878,7 @@
 ||isapi.solutions^
 ||isbzjaedbdjr.com^
 ||iscaebizkzyd.com^
+||iscrv.com^
 ||isdlyvhegxxz.com^
 ||isdspeed.qq.com^
 ||isfmvohloskgw.com^
@@ -18495,6 +18507,8 @@
 ||jitvspfwwmzcu.com^
 ||jiubuhua.com^
 ||jiudianhudong.com^
+||jiudianxing.cn^
+||jiudianxing.com^
 ||jiuku.cc^
 ||jiumishow.com^
 ||jiupinshan.cn^
@@ -18660,6 +18674,7 @@
 ||joamwtfpppibtj.com^
 ||joaqicgtmndbc.bid^
 ||job.510mall.com^
+||jobduo.cn^
 ||jobs.hrkspjbs.com^
 ||jobsyndicate.com^
 ||jobtarget.com^
@@ -19105,6 +19120,7 @@
 ||jxxcfd.com^
 ||jxxiangchu.com^
 ||jxxjndvcf.bid^
+||jxyufa.com^
 ||jy135.com^
 ||jyaaeiqm.com^
 ||jyahmckzsbh.com^
@@ -19213,6 +19229,7 @@
 ||kamnebo.info^
 ||kampyle.com^
 ||kang08.com^
+||kanghuaixin.cn^
 ||kanjiantu.com^
 ||kanjiaqun.cn^
 ||kanoodle.com^
@@ -19312,6 +19329,7 @@
 ||kdvcvkwwtbwn.com^
 ||kdwygzatplqrao.bid^
 ||kdyfsgpa.com^
+||kdzbg.xyz^
 ||keapeiros.xyz^
 ||keaven.pw^
 ||kecldktirqzk.com^
@@ -20061,9 +20079,11 @@
 ||ladsblue.com^
 ||ladsbrown.com^
 ||ladsinfo.com^
+||ladslims.com^
 ||ladsp.com^
 ||laferia.cr^
 ||lafvopkskbeuj.bid^
+||lahvliitxeb.com^
 ||laifu365.com^
 ||laim.tv^
 ||laiququan.com^
@@ -20167,6 +20187,7 @@
 ||lcmwchhybzik.bid^
 ||lcnvxuipvq.bid^
 ||lcolevwciuwj.com^
+||lcpcjnsu.com^
 ||lcpqoewrzuxh.com^
 ||lcqnkwcfwrkvh.com^
 ||lcrdolxjoxxlr.com^
@@ -20540,6 +20561,7 @@
 ||listrakbi.com^
 ||listtop.ru^
 ||lite.hupu.com^
+||liteapp.mobi^
 ||litix.io^
 ||litlif.net^
 ||littitte.online^
@@ -22625,6 +22647,7 @@
 ||mieru-ca.com^
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
+||migdtqq.com^
 ||might-stay.info^
 ||mightiger.net^
 ||mignpaybmqkcy.com^
@@ -23500,6 +23523,7 @@
 ||mxxrzwibnlnmd.bid^
 ||mxzxeersjv.com^
 ||my-layer.net^
+||my-material.zone1.meitudata.com^
 ||my-ranking.de^
 ||my-stats.info^
 ||my.gz2010.cn^
@@ -23586,6 +23610,7 @@
 ||mystat.it^
 ||mystaticfiles.com^
 ||mystats.nl^
+||mysty.com.cn^
 ||mysumo.de^
 ||mytanwan.com^
 ||mytestminer.xyz^
@@ -24266,6 +24291,7 @@
 ||nmpcdn.com^
 ||nmpmgmldzvrmra.com^
 ||nmqbg.com^
+||nmqdnykj.com^
 ||nmqgjoytd.com^
 ||nmrcieuvb.com^
 ||nmtikqygo.com^
@@ -25568,6 +25594,7 @@
 ||owqvhdxlscv.bid^
 ||owrqvyeyrzhy.com^
 ||owtezan.ru^
+||owueis.com^
 ||owwewfaxvpch.com^
 ||owykrhaic.com^
 ||ox-i.cordillera.tv^
@@ -27819,6 +27846,7 @@
 ||qjvzbfym.com^
 ||qjwanedlhedm.com^
 ||qjwkyhlxa.com^
+||qjyzj.cn^
 ||qkarmotdhhgeuy.com^
 ||qkcl.o7z0k.cn^
 ||qkdywnhtmpgc.com^
@@ -28828,6 +28856,7 @@
 ||rfebbtvbojc.com^
 ||rfecjuzp.bid^
 ||rfese.com^
+||rfewgthorann.com^
 ||rffjopgiuhsx.com^
 ||rffqzbqqmuhaomjpwatukocrykmesssfdhpjuoptovsthbsswd.com^
 ||rfghdzcbpogph.com^
@@ -29067,6 +29096,7 @@
 ||rnzgebpy.com^
 ||rnzzrylopa.bid^
 ||ro88qcuy.com^
+||roakicat.net^
 ||roarmyng.bid^
 ||roastedvoice.com^
 ||roay.cn^
@@ -29730,6 +29760,7 @@
 ||sb88b.com^
 ||sba.about.co.kr^
 ||sbaffiliates.com^
+||sbardlhk.com^
 ||sbbd1.qulishi.com^
 ||sbcpower.com^
 ||sbdedksgqu.com^
@@ -29949,6 +29980,7 @@
 ||searchswapper.com^
 ||searchx.eu^
 ||seavideo-ak.espn.go.com^
+||seawayz.com.cn^
 ||seaxhrqc.bid^
 ||seaxm.com^
 ||sebadu.com^
@@ -30391,6 +30423,7 @@
 ||sigbusa.com^
 ||signifyd.com^
 ||signout.website^
+||signstu.top^
 ||signup-way.com^
 ||sigo99.com^
 ||siguatv.cn^
@@ -31242,6 +31275,7 @@
 ||sspsky.com^
 ||ssqzsdcnoqv.com^
 ||ssraju3n.com^
+||sss.bxnms.com^
 ||sss.sege.xxx^
 ||sss.soarfi.cn^
 ||sss.zbred.com^
@@ -32394,6 +32428,7 @@
 ||taodggarfrmd.com^
 ||taodropship.com^
 ||taohanpai.com^
+||taojin1688.com^
 ||taojingu.cn^
 ||taotu001.com^
 ||taou.cn^
@@ -34210,6 +34245,7 @@
 ||txvxzkwyelnvb.bid^
 ||txwdabikzvw.com^
 ||txwfpcfdgepzmp.com^
+||txwhds.com.cn^
 ||txwnwvhkbtzb.com^
 ||txwvuadjcknuj.bid^
 ||txwzdalmamma.com^
@@ -36103,6 +36139,7 @@
 ||vxnejgcewmbuk.com^
 ||vxqhchlyijwu.com^
 ||vxrpmslex.com^
+||vxsnk.com^
 ||vxuhavco.com^
 ||vxumimuhg.com^
 ||vxuradoiwrwqga.bid^
@@ -36248,6 +36285,7 @@
 ||wangqing7.top^
 ||wangqipu.com^
 ||wangsufast.com^
+||wannianli.mobi^
 ||wanproxy.127.net^
 ||wanrenshe.com^
 ||wanrtqneiissrb.com^
@@ -36751,6 +36789,7 @@
 ||wibiya-actions.conduit-data.com^
 ||wibiya-june-new-log.conduit-data.com^
 ||wibvytsxrm.bid^
+||wicanwfobqiz.com^
 ||wichnqeikfdp.com^
 ||wicktrown.co^
 ||wicxfvlozsqz.com^
@@ -36800,6 +36839,7 @@
 ||wifelovers.com^
 ||wiffqhum.com^
 ||wifi33.com^
+||wifidown.com^
 ||wifijia.net^
 ||wifishow.ggsafe.com^
 ||wifteakcp.bid^
@@ -36874,6 +36914,7 @@
 ||wjuowevxibmg.com^
 ||wjvwxcnavjodj.com^
 ||wjwontqlqchq.com^
+||wjxcdn.com^
 ||wjyljl.cn^
 ||wka8.com^
 ||wkanx.com^
@@ -36921,6 +36962,7 @@
 ||wlpinnaclesports.eacdn.com^
 ||wlqpzcbme.com^
 ||wlrzptntiqez.com^
+||wlshotel.cn^
 ||wlszodcfwqk.com^
 ||wltoyqyynkbcc.com^
 ||wluzajogsxoy.com^
@@ -37229,6 +37271,7 @@
 ||wuqdejnjxj.bid^
 ||wurea.com^
 ||wurgaxfamfgyo.com^
+||wushuangjiexi.top^
 ||wusstrack.wunderground.com^
 ||wusxwgotv.com^
 ||wuthucbqpd.bid^
@@ -37290,6 +37333,7 @@
 ||www-777563.com^
 ||www-path.com^
 ||www-protection.com^
+||www.adidaschile62tracksuit.com^
 ||www.adm668.com^
 ||www.assoc-amazon.cn^
 ||www.baifubao.com^
@@ -37540,6 +37584,9 @@
 ||xcelsiusadserver.com^
 ||xcf-bd-js.chuimg.com^
 ||xcgebfplttrdg.com^
+||xcggpt.cn^
+||xcggpt.com^
+||xcggpt.net^
 ||xchangebanners.com^
 ||xchgx.com^
 ||xcjelwzs.com^
@@ -37745,6 +37792,7 @@
 ||xindelin.cn^
 ||xineday.com^
 ||xing678.com^
+||xingchenjia.com^
 ||xinghao89.com^
 ||xingjuhe.com^
 ||xingmengxia.cn^
@@ -38990,6 +39038,7 @@
 ||yu987.com^
 ||yuanaayutyd.com^
 ||yuanchengxiezuo.com^
+||yuanhangpiju.cn^
 ||yuanhsu.com^
 ||yuanming.net^
 ||yuanyanglw.com^
@@ -39043,6 +39092,7 @@
 ||yuxiangrc.com^
 ||yuxiny.com^
 ||yuxyz.com^
+||yuyanbaojie.cn^
 ||yuyue008.cn^
 ||yuywwcizs.com^
 ||yuyxslrprv.com^
