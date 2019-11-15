@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 14-11-2019 14:57 UTC
-! Count: 40,072
+! Last Modified: 15-11-2019 03:05 UTC
+! Count: 40,049
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -1285,6 +1285,7 @@
 ||7insight.com^
 ||7jiajiao.com^
 ||7ldou.com^
+||7lstw4cd.top^
 ||7m307.cn^
 ||7mad.7m.cn^
 ||7mnpeh.com1.z0.glb.clouddn.com^
@@ -1614,9 +1615,7 @@
 ||a.bizhiku.net^
 ||a.booksir.cn^
 ||a.bshu.com^
-||a.cdngeek.net^
 ||a.clickdata.37wan.com^
-||a.clipconverter.cc^
 ||a.cn.duoyi.com^
 ||a.dangdang.com^
 ||a.diaoyu.cn^
@@ -1627,18 +1626,14 @@
 ||a.epinv.com^
 ||a.eporner.com^
 ||a.exam58.com^
-||a.extremetech.com^
 ||a.fengyx.com^
 ||a.fwsir.com^
 ||a.gerensuodeshui.cn^
-||a.giantrealm.com^
-||a.gifs.com^
 ||a.glcdn.co^
 ||a.heavy-r.com^
 ||a.hl.mi.com^
 ||a.holagames.com^
 ||a.hsbianma.com^
-||a.i-sgcm.com^
 ||a.icdol.com^
 ||a.ihref.com^
 ||a.imgso.cn^
@@ -1650,7 +1645,6 @@
 ||a.killergram-girls.com^
 ||a.ligatus.com^
 ||a.livesportmedia.eu^
-||a.lolwot.com^
 ||a.lwinl.com^
 ||a.lz13.cn^
 ||a.m.gxwztv.com^
@@ -2139,16 +2133,12 @@
 ||ad.cacafly.com^
 ||ad.caiyunapp.com^
 ||ad.cdn.sex^
-||ad.cooks.com^
-||ad.crichd.in^
 ||ad.csdn.net^
 ||ad.dedecms.com^
 ||ad.dev.360.cn^
 ||ad.digitimes.com.tw^
-||ad.directmirror.com^
 ||ad.dokrmob.com^
 ||ad.doubanio.com^
-||ad.download.cnet.com^
 ||ad.dqwjzm.com^
 ||ad.duga.jp^
 ||ad.dzwindows.com^
@@ -2161,7 +2151,6 @@
 ||ad.favod.net^
 ||ad.flipboard.com^
 ||ad.flux.com^
-||ad.fnnews.com^
 ||ad.foxnetworks.com^
 ||ad.funp.com^
 ||ad.funshion.org.cn^
@@ -2190,7 +2179,6 @@
 ||ad.itweb.co.za^
 ||ad.jamba.net^
 ||ad.jamster.co.uk^
-||ad.jamster.com^
 ||ad.jiemian.com^
 ||ad.jokeroo.com^
 ||ad.jsnbrynb.com^
@@ -2203,11 +2191,9 @@
 ||ad.linkstorms.com^
 ||ad.livere.co.kr^
 ||ad.lqalm.com^
-||ad.lyricswire.com^
 ||ad.madvertise.de^
 ||ad.mail.ru^
 ||ad.mail.sohu.com^
-||ad.mangareader.net^
 ||ad.mediabong.net^
 ||ad.mesomorphosis.com^
 ||ad.mnt123.com^
@@ -2218,11 +2204,9 @@
 ||ad.netcommunities.com^
 ||ad.netmedia.hu^
 ||ad.netowl.jp^
-||ad.newegg.com^
 ||ad.obuy.tw^
 ||ad.openmultimedia.biz^
 ||ad.outsidehub.com^
-||ad.pandora.tv^
 ||ad.pchome.com.tw^
 ||ad.pickple.net^
 ||ad.pixnet.in^
@@ -2243,7 +2227,6 @@
 ||ad.search.ch^
 ||ad.seeyouyima.com^
 ||ad.sensismediasmart.com.au^
-||ad.services.distractify.com^
 ||ad.sharethis.com^
 ||ad.shuoshuomi.com^
 ||ad.sinovision.net^
@@ -2255,7 +2238,6 @@
 ||ad.spreaker.com^
 ||ad.style^
 ||ad.tatatimes.com^
-||ad.theepochtimes.com^
 ||ad.thisav.com^
 ||ad.thsi.cn^
 ||ad.toutiao.com^
@@ -2464,7 +2446,6 @@
 ||address9.com^
 ||addroid.com^
 ||addroplet.com^
-||adds.weatherology.com^
 ||addynamics.eu^
 ||addynamix.com^
 ||addynamo.net^
@@ -2967,7 +2948,6 @@
 ||ads.service.kugou.com^
 ||ads.sina.com^
 ||ads.sohu.com^
-||ads.sportradar.com^
 ||ads.supfast.net^
 ||ads.tripod.lycos.co.uk^
 ||ads.tripod.lycos.de^
@@ -3145,7 +3125,6 @@
 ||adsonar.com^
 ||adsoptimal.com^
 ||adsopx.com^
-||adsor.openrunner.com^
 ||adsovo.com^
 ||adsp.com^
 ||adsp.xunlei.com^
@@ -4886,7 +4865,6 @@
 ||as.sinahk.net^
 ||as.trklinklog.com^
 ||as.yomonda.de^
-||as01.dotabuff.com^
 ||as07d698u9.com^
 ||as1.m.hao123.com^
 ||as1.wenku.baidu.com^
@@ -5397,9 +5375,7 @@
 ||b9a861044f1.com^
 ||b9ba73f1cd9b6.com^
 ||b9c73b037e8c27df5.com^
-||ba.ccm2.net^
 ||ba.cydp5.com^
-||ba.kioskea.net^
 ||ba6af3a0099c6cb9eb5.com^
 ||baa2e174884c9c0460e.com^
 ||bab.frb.io^
@@ -6127,7 +6103,6 @@
 ||bictxzszwkwghn.com^
 ||bid.run^
 ||bidadx.com^
-||bidbarrel.cbsnews.com^
 ||bidderrtb.com^
 ||biddingx.com^
 ||bidfppkjo.com^
@@ -6237,7 +6212,6 @@
 ||biz.gexing.com^
 ||biz.weibo.com^
 ||biz5.kankan.com^
-||bizanti.youwatch.org^
 ||bizfo.co.uk^
 ||bizible.com^
 ||bizo.com^
@@ -6527,8 +6501,6 @@
 ||bonnieradnetwork.se^
 ||bonsai.internetbrands.com^
 ||bontech-zh.com^
-||bontent.powvideo.net^
-||bonus.tvmaze.com^
 ||bonuscounter.de^
 ||bonusfapturbo.com^
 ||bonxsqstn.com^
@@ -6933,7 +6905,6 @@
 ||bwoefrhtycp.com^
 ||bwohgwrk.com^
 ||bwoipfjnvbw.com^
-||bwp.theinsider.com.com^
 ||bwpqqofejekh.com^
 ||bwssvome.com^
 ||bwuqqnxubseq.com^
@@ -7184,8 +7155,6 @@
 ||cadreon.s3.amazonaws.com^
 ||caduka.cn^
 ||cadulscdfhtcb.bid^
-||cadvv.heraldm.com^
-||cadvv.koreaherald.com^
 ||cafe58cc6d0ac.com^
 ||cafvzpusl.com^
 ||cahepysgenpb.com^
@@ -7254,7 +7223,6 @@
 ||canopylabs.com^
 ||canvas-ping.conduit-data.com^
 ||canvas-usage-v2.conduit-data.com^
-||canvas.thenextweb.com^
 ||caob5.info^
 ||caolvch.com^
 ||cap-cap-pop.com^
@@ -13162,6 +13130,7 @@
 ||feedperfect.com^
 ||feeds.videosz.com^
 ||feesocrald.com^
+||feewoajy.net^
 ||fefzohgedqp.com^
 ||fegyacmbobil.com^
 ||fehsnwiem.com^
@@ -15622,6 +15591,7 @@
 ||hasxepvkld.com^
 ||hatagashira.com^
 ||hatcalter.com^
+||hatchord.com^
 ||hats.haibao.cn^
 ||hattifkklbo.bid^
 ||hauchi.com.tw^
@@ -18178,6 +18148,7 @@
 ||ja9377.com^
 ||jaaqcdrpmyju.com^
 ||jaat3ax.site^
+||jaavpuhxrsryk.com^
 ||jabcdkwmwnek.com^
 ||jack.allday.com^
 ||jackao.net^
@@ -19409,6 +19380,7 @@
 ||kfjgnunsuy.bid^
 ||kflimllvanjv.com^
 ||kfluoa.com^
+||kfozongcvn.com^
 ||kfpkzbgwuxm.bid^
 ||kfpwayrztgjj.com^
 ||kfqronzxcrdt.com^
@@ -21384,6 +21356,7 @@
 ||lzmovatu.com^
 ||lzoloro.info^
 ||lzopoqzlihfbc.com^
+||lzowrfhqy.com^
 ||lzpgstae.com^
 ||lzpqpstowpvz.bid^
 ||lzpv4rsmat.com^
@@ -24782,6 +24755,7 @@
 ||oaibzaqh.com^
 ||oainternetservices.com^
 ||oalicqudnfhf.com^
+||oalselry.com^
 ||oamhzvwle.com^
 ||oamrraft.com^
 ||oangm.com^
@@ -25375,6 +25349,7 @@
 ||opqsr.com^
 ||oprivi.info^
 ||oproi.com^
+||opsivesh.net^
 ||opt-intelligence.com^
 ||opt-n.net^
 ||optad360.io^
@@ -37402,6 +37377,7 @@
 ||wx.paigu.com^
 ||wx.xwjqr.com^
 ||wx.zx590.com^
+||wxaeamianbg.com^
 ||wxbdfm.com^
 ||wxbgf.top^
 ||wxbrdppfpr.com^
@@ -37984,6 +37960,7 @@
 ||xn--mtsr39cnql.video^
 ||xn--wxt79hbyb675a.online^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
+||xn--xhq9mt12cf5v.site^
 ||xn6ffc.com^
 ||xncgroup.cn^
 ||xndjh.hebiz.cn^
