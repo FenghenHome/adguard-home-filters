@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 21-12-2019 15:14 UTC
-! Count: 15,727
+! Last Modified: 22-12-2019 15:14 UTC
+! Count: 15,729
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -8536,6 +8536,7 @@
 ||loandatec.com^
 ||loc.rediff.com^
 ||localads-statistics.maps.me^
+||location.bloomberg.com^
 ||log-dmp.suishenyun.cn^
 ||log-stats.weathercn.com^
 ||log.120ask.com^
@@ -14915,6 +14916,7 @@
 ||wzus1.ask.com^
 ||wzus1.reference.com^
 ||wzus1.thesaurus.com^
+||wzxw7.com^
 ||x-ssp.com^
 ||x.120ask.com^
 ||x.9dagui.com^
