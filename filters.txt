@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-12-2019 15:16 UTC
-! Count: 15,739
+! Last Modified: 24-12-2019 15:16 UTC
+! Count: 15,743
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -1108,7 +1108,6 @@
 ||acookie.alibaba.com^
 ||acookie.alimama.com^
 ||acrabakasaka.com^
-||acs.m.taobao.com^
 ||acs4baichuan.m.taobao.com^
 ||acsystem.wasu.cn^
 ||act.acotedemoi.com^
@@ -1437,6 +1436,7 @@
 ||admarket.21cn.com^
 ||admarket.mobi^
 ||admarvel.s3.amazonaws.com^
+||admarvel.top^
 ||admaster.com.cn^
 ||admd.housefun.com.tw^
 ||admd.yam.com^
@@ -1630,6 +1630,7 @@
 ||adservice.google.co.jp^
 ||adservice.google.com.hk^
 ||adservice.google.com^
+||adservice.sigmob.cn^
 ||adserviceretry.kglink.cn^
 ||adserviceretry.kugou.com^
 ||adsfactor.net^
@@ -1673,6 +1674,7 @@
 ||adsystem.wasu.tv^
 ||adszui.com^
 ||adtaily.com^
+||adtiming.com^
 ||adtng.com^
 ||adui.tg.meitu.com^
 ||aduic.com^
@@ -2791,6 +2793,7 @@
 ||bdjs.jb51.net^
 ||bdjs.kaixin100.com^
 ||bdjs.laonanren.com^
+||bdjs.shangc.net^
 ||bdjs.uimg.cn^
 ||bdjs.ylq.com^
 ||bdjs1.ixiumei.com^
@@ -5002,7 +5005,6 @@
 ||dl392qndlveq0.cloudfront.net^
 ||dl5v5atodo7gn.cloudfront.net^
 ||dlads.cn^
-||dldir1.qq.com^
 ||dldsrs.com^
 ||dleke.com^
 ||dlhygj.com^
@@ -5667,7 +5669,6 @@
 ||ee.8tk5d.cn^
 ||ee.9e6zb.cn^
 ||ee.hdboping.com^
-||ee.i36mf.cn^
 ||ee.j5s9b.cn^
 ||ee.shixunwang.net^
 ||ee.t3j6a.cn^
@@ -6237,6 +6238,7 @@
 ||g.f11w.com^
 ||g.f5gh.com^
 ||g.fastapi.net^
+||g.gegeyingshi.com^
 ||g.gridsum.com^
 ||g.guanxiwen.cn^
 ||g.haluoha.com^
@@ -7184,6 +7186,7 @@
 ||i1.services.social.microsoft.com^
 ||i1236.net^
 ||i2.akjunshi.com^
+||i36mf.cn^
 ||i3818.com^
 ||i4.fuimg.com^
 ||i5.akjunshi.com^
@@ -7408,6 +7411,7 @@
 ||img01.taotaosou.cn^
 ||img1.126.net^
 ||img1.18183.com^
+||img1.360buyimg.com^
 ||img1.biyan8.com^
 ||img1.eywdf.com^
 ||img1.g.pptv.com^
@@ -9075,7 +9079,6 @@
 ||m.hvjxf.cn^
 ||m.hyzui.com^
 ||m.hzuic.com^
-||m.i36mf.cn^
 ||m.i810c.cn^
 ||m.ib345.cn^
 ||m.icoc2018.cn^
@@ -9361,7 +9364,6 @@
 ||mad1.jirou.com^
 ||madadsmedia.com^
 ||madhouse.cn^
-||madmen.alastonsuomi.com^
 ||mads.amazon-adsystem.com^
 ||mads.aol.com^
 ||magararepublic.com^
@@ -9490,6 +9492,7 @@
 ||mdzvoi.cn^
 ||me-cdn.effectivemeasure.net^
 ||measure.ameblo.jp^
+||measure.office.com^
 ||measurementaz.com^
 ||medal.blog.csdn.net^
 ||media-static.jointreport-switch.com^
@@ -13433,7 +13436,6 @@
 ||tm.tradetracker.net^
 ||tm.uol.com.br^
 ||tm.vendemore.com^
-||tmge.alicdn.com^
 ||tmgr.ccmbg.com^
 ||tmisc.home.news.cn^
 ||tmmjgcp.cn^
@@ -13525,6 +13527,7 @@
 ||tr1.mailperformance.com^
 ||tra.pmdstatic.net^
 ||tra.scds.pmdstatic.net^
+||traccoon.intellectsoft.net^
 ||trace.m1905.cn^
 ||trace.qq.com^
 ||trace.rtbasia.com^
@@ -15560,6 +15563,7 @@
 ||zcaod.com^
 ||zcdor.com^
 ||zconfig.alibabausercontent.com^
+||zcoup.com^
 ||zcpap.cn^
 ||zcpnq.cn^
 ||zcrtd.com^
