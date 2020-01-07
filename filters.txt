@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-01-2020 15:22 UTC
-! Count: 15,726
+! Last Modified: 07-01-2020 15:23 UTC
+! Count: 15,709
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -3436,6 +3436,7 @@
 ||cdn.popmyads.com^
 ||cdn.puata.info^
 ||cdn.rhombusads.com^
+||cdn.runative-syndicate.com^
 ||cdn.scdng.com^
 ||cdn.segment.com^
 ||cdn.segment.io^
@@ -3506,7 +3507,6 @@
 ||cfqpxzx.com^
 ||cg2017.com^
 ||cgaij.com^
-||cgi.connect.qq.com^
 ||cgi.tbs.co.jp^
 ||cgicounter.oneandone.co.uk^
 ||cgicounter.onlinehome.de^
@@ -3942,6 +3942,7 @@
 ||config.push.sogou.com^
 ||confirm-referer.glrsales.com^
 ||connect.summit.co.uk^
+||consent.cookiebot.com^
 ||consent.truste.com^
 ||contadores.bolsamania.com^
 ||contadores.miarroba.com^
@@ -4358,7 +4359,6 @@
 ||d1aqvw7cn4ydzo.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
 ||d1cerpgff739r9.cloudfront.net^
-||d1cl1sqtf3o420.cloudfront.net^
 ||d1clfvuu2240eh.cloudfront.net^
 ||d1clufhfw8sswh.cloudfront.net^
 ||d1cr9zxt7u0sgu.cloudfront.net^
@@ -4596,6 +4596,7 @@
 ||daima123.cc^
 ||daimaceshi.8809.cn^
 ||daishuxy.com^
+||daiwofei2019.top^
 ||daizhankj.cn^
 ||dajean.com^
 ||dajiyuan.com^
@@ -4912,7 +4913,6 @@
 ||dlsear.com^
 ||dlsw.baidu.com^
 ||dlsw.br.baidu.com^
-||dlupv9uqtjlie.cloudfront.net^
 ||dlvkf5067xruv.cloudfront.net^
 ||dlvnxf.cn^
 ||dlzjdesign.com^
@@ -4957,7 +4957,6 @@
 ||dm1.zjydt.com^
 ||dm50.jkyd.net^
 ||dm50.yxlady.com^
-||dm8srf206hien.cloudfront.net^
 ||dma.15tianqi.com^
 ||dmapp.youku.com^
 ||dmeserv.newsinc.com^
@@ -5004,7 +5003,6 @@
 ||domob.com.cn^
 ||dongtaiwang.com^
 ||dongtaiwang.org^
-||dontibar.com^
 ||door2new.net^
 ||doowe.cn^
 ||dorangesource.alicdn.com^
@@ -5057,7 +5055,6 @@
 ||dp.im.weibo.cn^
 ||dp3.play.aiseet.atianqi.com^
 ||dp3.qq.com^
-||dp51h10v6ggpa.cloudfront.net^
 ||dpc6.cn^
 ||dpjszs.com^
 ||dpm.bluray-disc.de^
@@ -5072,7 +5069,6 @@
 ||dpvc2.qqyy.com^
 ||dpvchos.qqyy.com^
 ||dpvcimg.qqyy.com^
-||dq2tgxnc2knif.cloudfront.net^
 ||dqgpb.com^
 ||dqhi3ea93ztgv.cloudfront.net^
 ||dqsft.com^
@@ -5147,12 +5143,10 @@
 ||du4rq1xqh3i1k.cloudfront.net^
 ||dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com^
 ||duapps.com^
-||duct5ntjian71.cloudfront.net^
 ||dudm.qingsj.cn^
 ||dufue2m4sondk.cloudfront.net^
 ||dugbvb.com^
 ||duiwai.baidu.com^
-||dulderbulder.com^
 ||duobaoqj.com^
 ||duoduo.icu^
 ||duoduo.net^
@@ -5172,7 +5166,6 @@
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvb.pandora.xiaomi.com^
 ||dvc8653ec6uyk.cloudfront.net^
-||dvf2u7vwmkr5w.cloudfront.net^
 ||dvnafl0qtqz9k.cloudfront.net^
 ||dvr8.com^
 ||dvs.china.com^
@@ -5193,26 +5186,20 @@
 ||dwtrack.qidian.com^
 ||dwtracking.sdo.com^
 ||dx1200.com^
-||dx5qvhwg92mjd.cloudfront.net^
 ||dxcssc.cn^
 ||dxmci.com^
 ||dxp.baidu.com^
 ||dxprla.m.qxs.la^
 ||dxprljqoay4rt.cloudfront.net^
-||dxq6c0tx3v6mm.cloudfront.net^
-||dxqd86uz345mg.cloudfront.net^
 ||dxssiyi.com^
 ||dxwgpw0lkcum5.cloudfront.net^
 ||dy2xcjk8s1dbz.cloudfront.net^
-||dy48bnzanqw0v.cloudfront.net^
 ||dy886.cn^
 ||dy8nb.com^
 ||dyb.jdcbuy.com^
 ||dybxezbel1g44.cloudfront.net^
-||dycpc40hvg4ki.cloudfront.net^
 ||dydab.com^
 ||dydyhg.com^
-||dyl3p6so5yozo.cloudfront.net^
 ||dymlo6ffhj97l.cloudfront.net^
 ||dyn.empflix.com^
 ||dyn.tnaflix.com^
@@ -5604,7 +5591,6 @@
 ||ek8.voyage-prive.com^
 ||ekeide.com^
 ||ekg.riotgames.com^
-||ekolamis.com^
 ||elabalar.pw^
 ||eland.doublemax.net^
 ||elmenor.xyz^
@@ -5791,7 +5777,6 @@
 ||experience.contextly.com^
 ||expo123.net^
 ||ext.baidu.com^
-||ext.theglobalweb.com^
 ||exter.weilanshan.com^
 ||extlog.snssdk.com^
 ||extmoney.i1608.com^
@@ -5837,7 +5822,6 @@
 ||fab.interia.pl^
 ||fabrkrup.com^
 ||facebookma.cn^
-||factorcontest.com^
 ||faggrim.com^
 ||fair.sogou.com^
 ||fallbacks.carbonads.com^
@@ -5856,7 +5840,6 @@
 ||fans.bestvogue.com^
 ||fanxing.kugou.com^
 ||fanyi100.com.cn^
-||farfarida.com^
 ||farm-cn.plista.com^
 ||farpeiros.pw^
 ||fast.appcues.com^
@@ -5936,7 +5919,6 @@
 ||fexiaen.com^
 ||ff.guidaye.com^
 ||ff.meikanguo.com^
-||ff.nsg.org.ua^
 ||ff.xue163.net^
 ||ff.xue63.com^
 ||ff112244.com^
@@ -5963,7 +5945,6 @@
 ||files.adform.net^
 ||files2.sogou.com^
 ||filmoljupci.com^
-||filtonay.com^
 ||fimg-resp.seznam.cz^
 ||findicons.com^
 ||finead.cn^
@@ -6072,7 +6053,6 @@
 ||fsz1.francoisesaget.com^
 ||fszhxd.com^
 ||ft.moad.cn^
-||ft.pnop.com^
 ||ft76531.com^
 ||fthcz.com^
 ||ftpcontent.worldnow.com^
@@ -6232,7 +6212,6 @@
 ||gasxf.com^
 ||gateway.foresee.com^
 ||gateway.fortunelounge.com^
-||gateway.proxyportal.eu^
 ||gateways.s3.amazonaws.com^
 ||gather.hankyung.com^
 ||gay-hotvideo.net^
@@ -6532,7 +6511,6 @@
 ||gsp1.baidu.com^
 ||gsp2.baidu.com^
 ||gsp3.baidu.com^
-||gss0.bdstatic.com^
 ||gstat.bitauto.com^
 ||gstat.orange.fr^
 ||gsycdb.com^
@@ -7683,6 +7661,7 @@
 ||jiangmg.com^
 ||jianjiaovip.vip^
 ||jianmei123.com^
+||jianyousj.com^
 ||jiaoben.eastday.com^
 ||jiaoben.ganji.cn^
 ||jiaoben.jucanw.com^
@@ -8430,6 +8409,7 @@
 ||ll.songlaoban.cn^
 ||ll38.com^
 ||lletd.cn^
+||llguandongyan.com^
 ||llk.dlingtalk.cn^
 ||llqss.top^
 ||lltrsknoob.click^
@@ -10049,6 +10029,7 @@
 ||nidorivo.com^
 ||niegg.com^
 ||nihao987654.top^
+||nihaomama.monster^
 ||niholaev.com^
 ||nijiua.com^
 ||niklesrov.com^
@@ -10230,6 +10211,7 @@
 ||oddomane.com^
 ||odin.goo.mx^
 ||odin.mic.com^
+||odr.mookie1.com^
 ||oe.tredsd.com^
 ||oebadu.com^
 ||oei1.gq^
@@ -13367,6 +13349,7 @@
 ||tjqonline.cn^
 ||tjs.sjs.sinajs.cn^
 ||tjshuimu.com^
+||tjys88.com^
 ||tk.504pk.com^
 ||tk.baidu.com^
 ||tk.kargo.com^
