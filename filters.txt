@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 08-01-2020 15:26 UTC
-! Count: 15,715
+! Last Modified: 09-01-2020 15:25 UTC
+! Count: 15,752
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -569,6 +569,7 @@
 ||5egk.com^
 ||5eln.cn^
 ||5eyz.flzee.com^
+||5ijo.01net.com^
 ||5imoney.com^
 ||5jcom.com.cn^
 ||5kmm.top^
@@ -765,6 +766,7 @@
 ||8j24h.cn^
 ||8jd2lfsq.me^
 ||8jkx.com^
+||8jzw.com^
 ||8ls3n.cn^
 ||8mfty.com^
 ||8ox.cn^
@@ -1173,6 +1175,7 @@
 ||ad.beihai365.com^
 ||ad.bitmedia.io^
 ||ad.bloggerads.net^
+||ad.bobi.tw^
 ||ad.cacafly.com^
 ||ad.caiyunapp.com^
 ||ad.cdn.sex^
@@ -2120,6 +2123,7 @@
 ||analytics.upworthy.com^
 ||analytics.urx.io^
 ||analytics.us.archive.org^
+||analytics.valiuz.com^
 ||analytics.vanillaforums.com^
 ||analytics.vendemore.com^
 ||analytics.volvocars.com^
@@ -3372,7 +3376,6 @@
 ||ccv.ybt999.com^
 ||ccvwtdtwyu.trade^
 ||cd-best.cn^
-||cd.bendibao.com^
 ||cd.jejre.cn^
 ||cd.musicmass.com^
 ||cd23b.h8hypjvr9.com^
@@ -3705,6 +3708,7 @@
 ||clk-can.com^
 ||clk-sec.com^
 ||clk.about.com^
+||clk.boulanger.com^
 ||clk.dxpmedia.com^
 ||clk.gentags.net^
 ||clk.madserving.com^
@@ -3850,6 +3854,7 @@
 ||cod.southmoney.com^
 ||code.3shangyou.com^
 ||code.ditiezu.net^
+||code.ts166.net^
 ||code.ttpaper.com^
 ||code.tui80.com^
 ||code1.2chcn.net^
@@ -3929,6 +3934,7 @@
 ||commsvc.stern.de^
 ||compare.easyviaggio.com^
 ||compare.easyviajar.com^
+||compare.liligo.com^
 ||compass-fit.jp^
 ||compteur.developpez.com^
 ||compteur.websiteout.net^
@@ -4068,6 +4074,7 @@
 ||counter.theconversation.edu.au^
 ||counter.tianjimedia.com^
 ||counter.tldw.me^
+||counter.top.ge^
 ||counter.tovarro.com^
 ||counter.ukr.net^
 ||counter.wapstart.ru^
@@ -4920,6 +4927,7 @@
 ||dlvnxf.cn^
 ||dlzjdesign.com^
 ||dm.300zi.com^
+||dm.3454.com^
 ||dm.388g.cc^
 ||dm.51okc.com^
 ||dm.66qw.net^
@@ -5519,6 +5527,7 @@
 ||ecmb.bdimg.com^
 ||ecmc.bdimg.com^
 ||eco.myt7th.xyz^
+||eco.qasdw3.xyz^
 ||eco.taobao.com^
 ||eco.vcbn65.xyz^
 ||ecpm.tanx.com^
@@ -5553,6 +5562,7 @@
 ||ee.6x53p.cn^
 ||ee.6xr2j.cn^
 ||ee.86rtg.cn^
+||ee.89kvh.cn^
 ||ee.8h3mc.cn^
 ||ee.8t5xo.cn^
 ||ee.8tk5d.cn^
@@ -5561,13 +5571,17 @@
 ||ee.j5s9b.cn^
 ||ee.shixunwang.net^
 ||ee.t3j6a.cn^
+||ee.w82ph.cn^
+||ee.wv26d.cn^
 ||ee.x0u4o.cn^
+||ee.zq13n.cn^
 ||eed.ntjrh.com^
 ||eee.eh39.co^
 ||eee.kj78.org^
 ||eee.ttyy888.co^
 ||eeee500.com^
 ||eeeqi.cn^
+||eei.lobbycafe.cn^
 ||eer.zhthf.com^
 ||eezdx.erc.18183.com^
 ||ef-dongfeng.tanx.com^
@@ -6166,6 +6180,7 @@
 ||g3.letv.com^
 ||g3ao2q.cn^
 ||g4.iqilu.com^
+||g4p.redtram.com^
 ||g4rre.xyz^
 ||g8f.ifeng.com^
 ||ga-beacon.appspot.com^
@@ -7002,6 +7017,7 @@
 ||hxueu.code.weddingeeos.com^
 ||hxyifu.com^
 ||hxyx360.com^
+||hy-dy.cn^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
 ||hycfxdc.com^
@@ -7609,6 +7625,7 @@
 ||jcaip.com^
 ||jcboloni.cn^
 ||jcdb88.com^
+||jcdfdhx.top^
 ||jcm.jd.com^
 ||jct.maptu.cn^
 ||jcwwxn.com^
@@ -8385,6 +8402,7 @@
 ||live.simcitybuildit.com^
 ||live.tvpot.daum.net^
 ||live.xunlei.com^
+||liveappgirl.net^
 ||livecounter.theyosh.nl^
 ||livehapp.com^
 ||livep.l.aiseet.atianqi.com^
@@ -8699,6 +8717,7 @@
 ||m.0vj6i.cn^
 ||m.0wnz6g.cn^
 ||m.107279.com^
+||m.1234567.com.cn^
 ||m.131pu.cn^
 ||m.168ey.com^
 ||m.16qijf.cn^
@@ -8787,6 +8806,7 @@
 ||m.80o4j.cn^
 ||m.86rtg.cn^
 ||m.89bia.cn^
+||m.89kvh.cn^
 ||m.8b7zja.cn^
 ||m.8h3mc.cn^
 ||m.8of9hd.cn^
@@ -9059,6 +9079,7 @@
 ||m.nmsxi.cn^
 ||m.nouaa.com^
 ||m.nqut.cn^
+||m.nydjsm.cn^
 ||m.o4hpc.cn^
 ||m.o5vm6c.cn^
 ||m.o89ia.cn^
@@ -9157,6 +9178,7 @@
 ||m.w6xj6.cn^
 ||m.w720p.cn^
 ||m.w7xj7.cn^
+||m.w82ph.cn^
 ||m.wanjiahao.top^
 ||m.wbaie.com^
 ||m.wbaiz.com^
@@ -9174,6 +9196,7 @@
 ||m.wqiuj.com^
 ||m.wrating.com^
 ||m.wuqutu.com^
+||m.wv26d.cn^
 ||m.wxjrd.cn^
 ||m.x2e8id.cn^
 ||m.x316f.cn^
@@ -9226,6 +9249,7 @@
 ||m.zhipianwu.com^
 ||m.zkp53.cn^
 ||m.zosue.cn^
+||m.zq13n.cn^
 ||m.zq4ka.cn^
 ||m.zvfuka.cn^
 ||m1.27com.com^
@@ -9842,6 +9866,7 @@
 ||mvo.myt7th.xyz^
 ||mvo.nefcd.xyz^
 ||mvo.nwffx.xyz^
+||mvo.qasdw3.xyz^
 ||mvo.sqa54e.xyz^
 ||mvo.vcbn65.xyz^
 ||mvo.ythbr.xyz^
@@ -10119,6 +10144,7 @@
 ||nq37f.cn^
 ||nqfwx.cn^
 ||nr1234.com^
+||nrg.red-by-sfr.fr^
 ||nryiou.cn^
 ||ns.jasnk.com^
 ||ns.rvmkitt.com^
@@ -10995,6 +11021,7 @@
 ||push.zdworks.com^
 ||push.zhangyue.com^
 ||push.zhanzhang.baidu.com^
+||push2.eastmoney.com^
 ||pushapi.lenovomm.com^
 ||puzwb.cn^
 ||pv.anzhi.com^
@@ -11762,6 +11789,7 @@
 ||sbenx.com^
 ||sbiim.com^
 ||sbinx.com^
+||sboite.cn^
 ||sbpb1.qulishi.com^
 ||sbrqp.com^
 ||sc.58mingtian.cn^
@@ -12506,6 +12534,7 @@
 ||stat.m.jd.com^
 ||stat.matichon.co.th^
 ||stat.mixi.media^
+||stat.moevideo.net^
 ||stat.moji.com^
 ||stat.mql5.com^
 ||stat.mtv3.fi^
@@ -13015,6 +13044,7 @@
 ||t-l.play.aiseet.atianqi.com^
 ||t-staging.powerreviews.com^
 ||t.3apf.com^
+||t.58xs.com^
 ||t.91dijiu.com^
 ||t.9gag.com^
 ||t.a3cloud.net^
@@ -13225,10 +13255,12 @@
 ||tdayi.com^
 ||tdc.qq.com^
 ||tdcv3.talkingdata.net^
+||tdep.vacansoleil.fr^
 ||tdf.ringier.ch^
 ||tdf1.admyjob.com^
 ||tdoup.com^
 ||tdtsd.com^
+||te.mytoys.de^
 ||te.supportfreecontent.com^
 ||te37w.cn^
 ||tebadu.com^
@@ -13300,6 +13332,7 @@
 ||tianhuafund.cn^
 ||tianjieleather.com^
 ||tianjin4.com^
+||tianjiunion.cn^
 ||tiankongzudui.com^
 ||tianqi777.com^
 ||tianxiazhenji.com^
@@ -13887,6 +13920,7 @@
 ||ttlowe.com^
 ||tts.178ud.com^
 ||ttts.miyue17.com^
+||ttyyuuoo.com^
 ||tu.szefe.com^
 ||tu.zx110.org^
 ||tuadong.com^
@@ -14621,6 +14655,7 @@
 ||weldc1.021ye.com^
 ||wemdsm.com^
 ||wenbangsh.com.cn^
+||wenxuemi6.com^
 ||wenzhougy.cn^
 ||weq.me^
 ||wer.bendougou.cn^
@@ -15111,6 +15146,7 @@
 ||xs.houyi.baofeng.net^
 ||xs.searchacg.org^
 ||xs.swagger1.com^
+||xsapp.cdn.bcebos.com^
 ||xshellcn.com^
 ||xsl280.com^
 ||xsl281.com^
@@ -15703,6 +15739,7 @@
 ||zuopp.com^
 ||zutodu.cn^
 ||zvsuhljiha-a.akamaihd.net^
+||zwda.com^
 ||zwkssb.com^
 ||zwsteel.cn^
 ||zwychain.cn^
