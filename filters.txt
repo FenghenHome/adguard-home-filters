@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 13-01-2020 15:26 UTC
-! Count: 15,340
+! Last Modified: 14-01-2020 15:27 UTC
+! Count: 15,358
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -99,8 +99,10 @@
 ||0592weixin.com^
 ||05q9n.cn^
 ||06362.com^
+||0755man.cn^
 ||0756sjlm.com.cn^
 ||0796gou.com^
+||0798ls.com^
 ||07kfh.cn^
 ||080644.com^
 ||0851ok.com^
@@ -347,6 +349,7 @@
 ||2144.cn^
 ||215to.cn^
 ||216pu.cn^
+||21kk.cc^
 ||21u8f.cn^
 ||21xsk.com^
 ||22.qingsongbar.com^
@@ -529,6 +532,7 @@
 ||51sxzz.com^
 ||51weidashi.com^
 ||51xumei.com^
+||51xvc.cn^
 ||51yes.com^
 ||5207470.com^
 ||520meirenyu.com^
@@ -665,6 +669,7 @@
 ||716703.com^
 ||71mxc6.cn^
 ||71sem.com^
+||71zrh.cn^
 ||73cm.com^
 ||749558.com^
 ||749808.com^
@@ -2654,6 +2659,7 @@
 ||bbsimages.zkxf119.com^
 ||bbvjs.com^
 ||bc.geocities.yahoo.co.jp^
+||bc.marfeelcache.com^
 ||bc.qunar.com^
 ||bccyyc.com^
 ||bce.baidu.com^
@@ -2971,6 +2977,7 @@
 ||bnnr.pornpics.com^
 ||bnq86.com^
 ||bnr.alza.cz^
+||bnzxc.xyz^
 ||bo.jumptap.com^
 ||boardx.huanqiu.com^
 ||boardy.huanqiu.com^
@@ -7147,6 +7154,7 @@
 ||img.zeruinong.com^
 ||img.zsj18.com^
 ||img.zuowen8.com^
+||img.zuowenwang.net^
 ||img.zuoyebang.cc^
 ||img.zx590.com^
 ||img0.egou.com^
@@ -7561,6 +7569,7 @@
 ||jiuku.cc^
 ||jiumishow.com^
 ||jiupinshan.cn^
+||jixiby.cn^
 ||jiyan.net^
 ||jiyou2014.com^
 ||jiyuanzixun.com^
@@ -8141,6 +8150,7 @@
 ||lfouz.com^
 ||lftxali.fancyapi.com^
 ||lfzxcp.com^
+||lg.tr.pandora.tv^
 ||lg2.jointreport-switch.com^
 ||lg4.jointreport-switch.com^
 ||lglady.cn^
@@ -9668,6 +9678,7 @@
 ||mx.biquge.info^
 ||mxm.plipala.com^
 ||mxmrt.com^
+||mxtailor.com^
 ||mxvp-ad-config-prod-1.zenmxapps.com^
 ||mxvp-feature-toggle-prod-1.zenmxapps.com^
 ||my-material.zone1.meitudata.com^
@@ -10152,6 +10163,7 @@
 ||origin-tracking.trulia.com^
 ||origin.chron.com^
 ||orionis.techradar.com^
+||orlandomp.com^
 ||osaws.com^
 ||osc.uranus.sogou.com^
 ||osd.oxygem.it^
@@ -10382,6 +10394,7 @@
 ||performances.bestofmedia.com^
 ||perkas.pw^
 ||petitionermaster.appspot.com^
+||petsfairy.com^
 ||petsheying.com^
 ||pf-2.pchome.net^
 ||pf.h5game.cn^
@@ -11026,6 +11039,7 @@
 ||qumi.com^
 ||qupinhj.com^
 ||quw18.com^
+||quyejianzhan.tech^
 ||qw.baidu.com^
 ||qwe.jzpxyd.com^
 ||qwedcfv.com^
@@ -12040,6 +12054,7 @@
 ||sp.detroitnews.com^
 ||sp.dnj.com^
 ||sp.dnqc.com^
+||sp.fanatical.com^
 ||sp.fdlreporter.com^
 ||sp.floridatoday.com^
 ||sp.freep.com^
@@ -12996,6 +13011,7 @@
 ||tg.1155t.cn^
 ||tg.bwc178.com^
 ||tg.m.37.com^
+||tgbrfv.cn^
 ||tgd.a1eg07.cn^
 ||th21333.com^
 ||thefaren.pw^
@@ -13870,6 +13886,7 @@
 ||v1-feed.idreamsky.com^
 ||v1-play.log.mgtv.com^
 ||v1.0594529.com^
+||v1.kwpewga.cn^
 ||v1.log.moji.com^
 ||v1.phb123.com^
 ||v1.taksh.cn^
@@ -14703,6 +14720,7 @@
 ||xn--mtso8sj6menhyil.online^
 ||xn--mtsr39cnql.video^
 ||xn--wxt79hbyb675a.online^
+||xn--wxtr9fwyxk9c.site^
 ||xn--wxtr9fwyxk9c.top^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
 ||xn--xhq9mt12cf5v.ren^
