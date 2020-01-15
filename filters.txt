@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 14-01-2020 15:27 UTC
-! Count: 15,358
+! Last Modified: 15-01-2020 15:27 UTC
+! Count: 15,381
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -462,6 +462,7 @@
 ||3gmtr.com^
 ||3hgui.com^
 ||3htai.com^
+||3lga3.cn^
 ||3ql1pb.cn^
 ||3qmh.com^
 ||3qsys.com^
@@ -474,6 +475,7 @@
 ||4006825178.com^
 ||4009997658.com^
 ||404.safedog.cn^
+||41msl.cn^
 ||4207008.com^
 ||4242jj.com^
 ||4242lll.com^
@@ -625,6 +627,7 @@
 ||6728812.com^
 ||678sky.com^
 ||68665565.com^
+||68l0fx.cn^
 ||6945k6.cn^
 ||69duk.com^
 ||69lm.com.cn^
@@ -770,6 +773,7 @@
 ||8ao8ao.com^
 ||8bq898.73miqb.cn^
 ||8byu.cn^
+||8c3k.cn^
 ||8cnd.com^
 ||8dp.net^
 ||8fiv9a.cn^
@@ -1389,6 +1393,7 @@
 ||adfuture.cn^
 ||adgeo.163.com^
 ||adget.cn^
+||adgomob.com^
 ||adhai.com^
 ||adhome.1fangchan.com^
 ||adi.bigmir.net^
@@ -1701,6 +1706,7 @@
 ||advapi.ahtv.cn^
 ||adver.qq.com^
 ||advert.mting.info^
+||advertisement.taobao.com^
 ||advertising.aol.com^
 ||advertising.lycos.com^
 ||advertpay.vip.xunlei.com^
@@ -3060,6 +3066,7 @@
 ||btr.domywife.com^
 ||btrace.qq.com^
 ||btrace.video.qq.com^
+||btssy.net^
 ||btstats.devtribu.fr^
 ||bttrack.com^
 ||btwan5.com^
@@ -3488,6 +3495,7 @@
 ||chartaca.com.s3.amazonaws.com^
 ||chayibu.com^
 ||chebse.com^
+||chehuanjie.com^
 ||chemdraw.com.cn^
 ||chemdraw.com^
 ||chendjiangxing.cn^
@@ -4283,6 +4291,7 @@
 ||d1i9kr6k34lyp.cloudfront.net^
 ||d1iazwv1n1tsyi.cloudfront.net^
 ||d1il9t8pu4dsoj.cloudfront.net^
+||d1ks8roequxbwa.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1mbgf0ge24riu.cloudfront.net^
 ||d1mib12jcgwmnv.cloudfront.net^
@@ -4425,6 +4434,7 @@
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5.sina.com.cn^
 ||d5.sinaimg.cn^
+||d5a5a.xyz^
 ||d5nxst8fruw4z.cloudfront.net^
 ||d5p.de17a.com^
 ||d5pb47xzjz3fc.cloudfront.net^
@@ -4559,6 +4569,7 @@
 ||daxueshengqiandai.com^
 ||day66.com^
 ||dazhonghua.cn^
+||dazibenwm.com^
 ||db.cjtcc.cn^
 ||db.xiaoshuofuwuqi.com^
 ||db1.fuz.cc^
@@ -4883,6 +4894,7 @@
 ||domain.aishengji.com^
 ||domob.cn^
 ||domob.com.cn^
+||dongbeisurewin.com^
 ||dongtaiwang.com^
 ||dongtaiwang.org^
 ||door2new.net^
@@ -6841,6 +6853,7 @@
 ||hunpp.com^
 ||huodong.mobilem.360.cn^
 ||huoyiad1.cn^
+||huoyiad2.cn^
 ||huoying666.com^
 ||hurom365.cn^
 ||husky.sogou.com^
@@ -7885,6 +7898,7 @@
 ||kele4.com^
 ||kelris.pw^
 ||kelun13.top^
+||kepler.jd.com^
 ||keryt.jnservo.com^
 ||ketaoke.com^
 ||kexigia.com^
@@ -8118,6 +8132,7 @@
 ||lcrmm.top^
 ||lcs.dev.surepush.cn^
 ||lcs.livedoor.net^
+||lcvfar.com^
 ||ld.mediaget.com^
 ||ld.za9mnx.com^
 ||ldgjhd.net^
@@ -8225,6 +8240,7 @@
 ||liteapp.mobi^
 ||litlif.net^
 ||liufang1994.top^
+||liufenghua.com^
 ||liujiaqi.top^
 ||live.cxo.name^
 ||live.ec2.cxo.name^
@@ -10156,6 +10172,7 @@
 ||optimize-stats.voxmedia.com^
 ||optimus-ads.amap.com^
 ||oq68.com^
+||orbit.jd.com^
 ||orchidscape.net^
 ||ordidc.com^
 ||oredero.com^
@@ -10511,6 +10528,7 @@
 ||ping.smyte.com^
 ||ping.tvmaze.com^
 ||ping.weiduofan.com^
+||pingback.giphy.com^
 ||pingback.issuu.com^
 ||pingback.sogou.com^
 ||pingbi.diudou.com^
@@ -10894,7 +10912,6 @@
 ||pzvlnh.cn^
 ||q.ihgmc.cn^
 ||q.ox11.com^
-||q.qo26.com^
 ||q0uz4c.cn^
 ||q1.yyxwzx.com^
 ||q1scv.vov0.com^
@@ -10992,6 +11009,7 @@
 ||qn.bejson.com^
 ||qneit.com^
 ||qnvih8.cn^
+||qo26.com^
 ||qoiusky.com^
 ||qoredi.com^
 ||qos.video.yimg.com^
@@ -11038,6 +11056,7 @@
 ||quldu.com^
 ||qumi.com^
 ||qupinhj.com^
+||qutyan8848.com^
 ||quw18.com^
 ||quyejianzhan.tech^
 ||qw.baidu.com^
@@ -11639,6 +11658,7 @@
 ||sd.taptap.com^
 ||sdabfw.cn^
 ||sdagxz.xyz^
+||sdahxz.xyz^
 ||sdaiv.com^
 ||sdapprecv.app.cntvwb.cn^
 ||sdd.dzsc.com^
@@ -12276,6 +12296,7 @@
 ||stat.alibaba.com^
 ||stat.api.2gis.ru^
 ||stat.baike.com^
+||stat.bankiros.ru^
 ||stat.bigmir.net^
 ||stat.boredomtherapy.com^
 ||stat.browser.nearme.com.cn^
@@ -13171,6 +13192,7 @@
 ||toruk.tanx.com^
 ||tosfeed.com^
 ||totachrl.com^
+||touchxd.com^
 ||touclick.com^
 ||toushibao.com^
 ||toutiao-frontier.snssdk.com^
@@ -14766,6 +14788,7 @@
 ||xszqapp.com^
 ||xt.eh6q.cn^
 ||xt2d.cn^
+||xt725.cn^
 ||xtcdbb.cn^
 ||xtgreat.com^
 ||xtianqi.com.cn^
