@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 16-01-2020 15:28 UTC
-! Count: 15,384
+! Last Modified: 17-01-2020 15:28 UTC
+! Count: 15,399
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -251,6 +251,7 @@
 ||1314sss.top^
 ||138138138.top^
 ||138lm.com^
+||13wnjs.com^
 ||13yg.cn^
 ||142904.com^
 ||144.dragonparking.com^
@@ -623,6 +624,7 @@
 ||6666lm.com^
 ||6669667.com^
 ||66992949.com^
+||66997.top^
 ||66998.top^
 ||66san.com^
 ||6728812.com^
@@ -641,6 +643,7 @@
 ||6ac.uninewsale.com^
 ||6avz.com^
 ||6c4t5.cn^
+||6cc8cc.xyz^
 ||6dad.com^
 ||6ddc.tartine-et-chocolat.com^
 ||6dvip.com^
@@ -690,6 +693,7 @@
 ||77rog.com^
 ||7891655.cn^
 ||7895983.cn^
+||7a096v.cn^
 ||7car.com.cn^
 ||7cjsh.cn^
 ||7clink.com^
@@ -803,6 +807,7 @@
 ||913vt.com^
 ||91byy.cn^
 ||91hui.com^
+||91luopan.com^
 ||91xry.com^
 ||91ysa.com^
 ||91zgm.com^
@@ -1875,6 +1880,7 @@
 ||alifixed.cn^
 ||aliguojw.com^
 ||alimama.alicdn.com^
+||alimb.top^
 ||alipay.dajiadou6.com^
 ||aliqqjd.cn^
 ||alisinak.com^
@@ -3253,6 +3259,7 @@
 ||cadreon.s3.amazonaws.com^
 ||cadsips.com^
 ||caduka.cn^
+||caiba9.xyz^
 ||caicaicai.121yy.com^
 ||caichenguang.cn^
 ||caicool.co^
@@ -3782,11 +3789,13 @@
 ||cnt.vivatube.com^
 ||cnt2.stroeerdp.de^
 ||cntv.wrating.com^
+||cnwav.com^
 ||cnxad.net^
 ||cnxmyb.cn^
 ||cnyibs.com^
 ||cnzhqs.com^
 ||cnzz.172internet.com^
+||cnzz.cn^
 ||cnzz.com.so^
 ||cnzz.com^
 ||cnzz.mmstat.com^
@@ -4639,6 +4648,7 @@
 ||ddomm.com^
 ||ddpxhq.cn^
 ||ddrrccck.m.qxs.la^
+||ddvfoj5yrl2oi.cloudfront.net^
 ||de-mi-nis-ner.info^
 ||de-mi-nis-ner2.info^
 ||de-ner-mi-nis4.info^
@@ -5832,6 +5842,7 @@
 ||finead.cn^
 ||fipipo.cn^
 ||fips.uimserv.net^
+||firebaselogging.googleapis.com^
 ||firefang.cn^
 ||fix.hpplay.cn^
 ||fj95560.com^
@@ -8003,6 +8014,7 @@
 ||korkilazoopi.com^
 ||koudaichaoshi.cn^
 ||koukou7.com^
+||kouwku.cn^
 ||kovjo.com^
 ||kpshx.douguo.com^
 ||kqiaq.com^
@@ -8152,6 +8164,7 @@
 ||lem.nouvelobs.com^
 ||lerenzx.cn^
 ||lerg.bpafree.cn^
+||lesanmo.top^
 ||leshigov.cn^
 ||lessplay.com^
 ||let83.cn^
@@ -10097,6 +10110,7 @@
 ||olpv.onlylady.com^
 ||olpvimg.onlylady.com^
 ||olstats.onlylady.com^
+||olxt.top^
 ||om.1and1.co.uk^
 ||om.cbsi.com^
 ||om.rogersmedia.com^
@@ -11885,6 +11899,7 @@
 ||shouji.sougou.com^
 ||shouwangba.cn^
 ||shouyoutan.com^
+||shouyouyou.com^
 ||show.1688.com^
 ||show.9zwang.com^
 ||show.buzzcity.net^
@@ -12043,6 +12058,7 @@
 ||soundofhope.org^
 ||soup.v.qq.com^
 ||source.youxiaoad.com^
+||sourcepoint.vice.com^
 ||sourcescdn.xiaobingw.cn^
 ||sousuo.xm.sjzhushou.com^
 ||sp-mms.weather.com^
@@ -15209,7 +15225,6 @@
 ||zenwq.com^
 ||zepozipo.com^
 ||zesod.cn^
-||zeus.qj.net^
 ||zeus.slader.com^
 ||zfanc.com^
 ||zfds1.tianya999.com^
