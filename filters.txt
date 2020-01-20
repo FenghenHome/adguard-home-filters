@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 19-01-2020 15:30 UTC
-! Count: 15,395
+! Last Modified: 20-01-2020 15:31 UTC
+! Count: 15,400
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -2037,6 +2037,7 @@
 ||analytics.kapost.com^
 ||analytics.ladmedia.fr^
 ||analytics.live.com^
+||analytics.liveact.cri-mw.jp^
 ||analytics.livestream.com^
 ||analytics.localytics.com^
 ||analytics.mailmunch.co^
@@ -2315,7 +2316,6 @@
 ||apnmedia.ask.com^
 ||apns.ios.ijinshan.com^
 ||apoll.m.taobao.com^
-||apollo-ireland.akamaized.net^
 ||apollo.caixin.com^
 ||apopgo.com^
 ||app-ab37.marketo.com^
@@ -3268,6 +3268,7 @@
 ||cad.donga.com^
 ||cadreon.s3.amazonaws.com^
 ||cadsips.com^
+||cadsoks.com^
 ||caduka.cn^
 ||caiba9.xyz^
 ||caicaicai.121yy.com^
@@ -7485,6 +7486,7 @@
 ||j6y54.xyz^
 ||j6yh5.xyz^
 ||j7182.hfxcsl.cn^
+||j94.cc^
 ||ja.gamersky.com^
 ||ja9377.com^
 ||jaat3ax.site^
@@ -10073,6 +10075,7 @@
 ||o6uea.cn^
 ||o80wi1ajq.bkt.clouddn.com^
 ||oa-panther.data.aliyun.com^
+||oacustom.com^
 ||oaer9.cn^
 ||oal2.destinia.co.uk^
 ||oangm.com^
@@ -10973,6 +10976,7 @@
 ||qi-shi.top^
 ||qiailm.com^
 ||qianclick.baidu.com^
+||qianfuyin.com^
 ||qianmeiby.com^
 ||qiaopiguniang.com^
 ||qienews.cn^
@@ -11067,6 +11071,7 @@
 ||qwe.jzpxyd.com^
 ||qwedcfv.com^
 ||qweqwe.mctvhp.cn^
+||qwertytracks.com^
 ||qwertyuiopa.co^
 ||qxfly.com^
 ||qxjdlf.com^
@@ -11372,6 +11377,7 @@
 ||rtn.thestar.com^
 ||rto.steelhousemedia.com^
 ||rtpdn10.com^
+||rtpdn11.com^
 ||rtslgov.cn^
 ||rtt.campanja.com^
 ||ru-gmtdmp.mookie1.com^
@@ -11572,6 +11578,7 @@
 ||sana.newsinc.com.s3.amazonaws.com^
 ||sangxi.top^
 ||sanitwealth.com^
+||sanjinma.com^
 ||sarjor.pw^
 ||sat.sanoma.fi^
 ||satismeter.com^
@@ -13072,7 +13079,6 @@
 ||ticktockhealth.com^
 ||tijorari.com^
 ||tikn.hwgs.info^
-||tikodala.com^
 ||tikrailijorj.com^
 ||tilosman.com^
 ||timelog.moviebox.baofeng.com^
@@ -13762,7 +13768,6 @@
 ||undm.qibulo.com^
 ||uneede.com^
 ||unid.go.com^
-||unidati.com^
 ||unidesk.alicdn.com^
 ||unilog.wostore.cn^
 ||unilz588.com^
