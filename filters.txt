@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 20-01-2020 15:31 UTC
-! Count: 15,400
+! Last Modified: 21-01-2020 15:31 UTC
+! Count: 15,422
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -230,6 +230,7 @@
 ||11888vip.cn^
 ||118ex.cn^
 ||119cgpt.com^
+||12.cookcai.com^
 ||12086.net^
 ||1224.dxsbb.com^
 ||123.39jz.com^
@@ -332,6 +333,7 @@
 ||2.rengshu.com^
 ||2.win7china.com^
 ||201071.com^
+||2012.8684.com^
 ||2012ui.com^
 ||2013sh.com^
 ||20150930.cf^
@@ -909,6 +911,7 @@
 ||a.dounanhuahui.com^
 ||a.duanmeiwen.com^
 ||a.duduji.com^
+||a.dyjqd.com^
 ||a.ecook.cn^
 ||a.epinv.com^
 ||a.eporner.com^
@@ -2911,8 +2914,6 @@
 ||bigbos.top^
 ||bigdata.adups.com^
 ||bigdata.advmob.cn^
-||bigfun.cn^
-||bigfunapp.cn^
 ||bigmobileads.com^
 ||bihutg.com^
 ||billionfocus.com^
@@ -4425,6 +4426,7 @@
 ||d3f.houyi.baofeng.net^
 ||d3g.qq.com^
 ||d3hitamb7drqut.cloudfront.net^
+||d3hs51abvkuanv.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3jgr4uve1d188.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
@@ -5479,6 +5481,7 @@
 ||ee.w82ph.cn^
 ||ee.wh723.cn^
 ||ee.wv26d.cn^
+||ee.wz382.cn^
 ||ee.x0u4o.cn^
 ||ee.x8r9m.cn^
 ||ee.xq375.cn^
@@ -5616,6 +5619,8 @@
 ||eulerian.sarenza.com^
 ||eulerian.splendia.com^
 ||eultech.fnac.com^
+||eur2.otcdn.com^
+||eur3.mvjcdn.com^
 ||eurogamer-uk.eurogamer.net^
 ||euwidget.imshopping.com^
 ||ev.kck.st^
@@ -6308,6 +6313,7 @@
 ||gjiai.com^
 ||gjiak.com^
 ||gjkpo.com^
+||gjr5.yoigo.com^
 ||gjreg.code.weddingeeos.com^
 ||gjuet.com^
 ||gk1.582582.com^
@@ -9077,6 +9083,7 @@
 ||m.wuqutu.com^
 ||m.wv26d.cn^
 ||m.wxjrd.cn^
+||m.wz382.cn^
 ||m.x2e8id.cn^
 ||m.x316f.cn^
 ||m.x36ur.cn^
@@ -9191,6 +9198,7 @@
 ||maisoncherry.com^
 ||maizhenai.cn^
 ||majosita.com^
+||make.cohesionapps.com^
 ||makeding.com^
 ||malacca.inveno.com^
 ||mall0.qiyipic.com^
@@ -11915,7 +11923,6 @@
 ||shypqc.com^
 ||shzyjbr.wtdtjs.rocks^
 ||si.efwga.xyz^
-||si1.go2yd.com^
 ||si9377.com^
 ||sicentlife.com^
 ||sidebar.issuu.com^
@@ -12846,6 +12853,7 @@
 ||t.quisma.com^
 ||t.raptorsmartadvisor.com^
 ||t.regionsjob.com^
+||t.sdpaji.com^
 ||t.sgc.io^
 ||t.sharethis.com^
 ||t.sj.qq.com^
@@ -13140,6 +13148,7 @@
 ||tl.zcsfs.cn^
 ||tl875f.cn^
 ||tlgg.itruni.com^
+||tlp5.mimale.com^
 ||tm-offers.gamingadult.com^
 ||tm.jsuol.com.br^
 ||tm.tradetracker.net^
@@ -13384,6 +13393,7 @@
 ||trackerstatistik.init-ag.de^
 ||tracking-opi.fonpit.de^
 ||tracking-server-prod-1.zenmxapps.com^
+||tracking.3ds.com^
 ||tracking.adalyser.com^
 ||tracking.aegpresents.com^
 ||tracking.ancestry.com^
@@ -13603,6 +13613,7 @@
 ||tuziluoluo.com^
 ||tv.code.jjyx.com^
 ||tvbyb04.com^
+||tvl8.supdecreation.com^
 ||tvupgrade.yunos.com^
 ||tvzhe.com^
 ||tw.adx.nextmedia.com^
@@ -13890,6 +13901,7 @@
 ||uuvm.pornpics.com^
 ||uvclick.com^
 ||uvsea.cn^
+||uvu.nojmlxq.cn^
 ||uw9377.com^
 ||uxaz.fxnfk.cn^
 ||uxek.85nv96.cn^
@@ -13980,6 +13992,7 @@
 ||venturead.com^
 ||verifier.live^
 ||vers80.com^
+||vet0.carrefour-banque.fr^
 ||veta.naver.com^
 ||vf5yb4.cn^
 ||vfd2dyn.vodafone.de^
@@ -13991,10 +14004,13 @@
 ||vgaom.com^
 ||vgbp.mzran.com.cn^
 ||vgf.zuihuixuan.com^
+||vgo.vegaoo.co.uk^
 ||vgo.vegaoo.de^
 ||vgo.vegaoo.es^
 ||vgo.vegaoo.nl^
+||vgo.vegaoo.pt^
 ||vgo.vegaooparty.com^
+||vgo.vegaoopro.com^
 ||vhec.jhjhyn.cn^
 ||vhpxa.top^
 ||vhuay.com^
@@ -14237,6 +14253,7 @@
 ||wdeie.com^
 ||wdiur.com^
 ||wdm.map24.com^
+||wdr9.inseec.com^
 ||wds.inte.sogoucdn.com^
 ||wdymwzz.com^
 ||wdzsb.com.cn^
@@ -14953,6 +14970,7 @@
 ||ygblogtag.cn^
 ||ygqczh.com^
 ||yguap.com^
+||yh6u.dealeusedevoyages.com^
 ||yhsmk.com^
 ||yhtcd.com^
 ||yhzm.cc^
@@ -15346,6 +15364,7 @@
 ||zmlled.cn^
 ||zmyuer.com^
 ||zndsssp.dangbei.net^
+||znq9.destinia.mx^
 ||znsv.baidu.com^
 ||zogzogolla.com^
 ||zonolali.com^
@@ -15363,12 +15382,14 @@
 ||zqworks.com^
 ||zreder.com^
 ||zrpfk.com^
+||zrw1.destinia.jp^
 ||zrwhartongroup.com^
 ||zry8181.com^
 ||zs.dhl.de^
 ||zsdexun.com.cn^
 ||zsedu99.cn^
 ||zshacker.com^
+||zsi7.destinia.do^
 ||zsjyc.top^
 ||zstjy.com^
 ||zsxpx.com^
@@ -15408,6 +15429,7 @@
 ||zydyjzw.cn^
 ||zymo.mps.weibo.com^
 ||zymro.com^
+||zyq2.destinia.sk^
 ||zyqp9.com^
 ||zyrfanli.com^
 ||zywhjd.com^
