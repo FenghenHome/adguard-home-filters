@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-01-2020 15:33 UTC
-! Count: 15,459
+! Last Modified: 25-01-2020 15:33 UTC
+! Count: 15,498
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -153,6 +153,7 @@
 ||1.codezh.com^
 ||1.dwx365.com^
 ||1.feihua.com^
+||1.feihua.net.cn^
 ||1.feihua365.cn^
 ||1.glook.cn^
 ||1.guyaheng.com^
@@ -3370,6 +3371,7 @@
 ||cdjkngs.cn^
 ||cdlinli.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn-alliancegravity.s3.amazonaws.com^
 ||cdn-analytics.ladmedia.fr^
 ||cdn-gcs.outfit7.com^
 ||cdn-rtb.sape.ru^
@@ -3588,6 +3590,7 @@
 ||cjieh.com^
 ||cjiv.chengjie168.com.cn^
 ||cjroq.bealge.sogou.com^
+||cjsdtj.com^
 ||ck.1o26.com^
 ||ck.houyi.baofeng.net^
 ||ckaiv.com^
@@ -3763,6 +3766,7 @@
 ||cmp.techhive.com^
 ||cmpp.gentags.net^
 ||cms.fx678.com^
+||cms.fx678img.com^
 ||cms.gtags.net^
 ||cms.opendsp.tanx.com^
 ||cms.quantserve.com^
@@ -4059,6 +4063,7 @@
 ||cpc.sogou.com^
 ||cpc.sohu.com^
 ||cpcv.cc^
+||cpgo.avatacar.com^
 ||cpm.amateurcommunity.com^
 ||cpm.amateurcommunity.de^
 ||cpm.cm.kankan.com^
@@ -4175,6 +4180,7 @@
 ||ct.pinterest.com^
 ||ct.verticalhealth.net^
 ||ct1985.com^
+||ct5m.citadium.com^
 ||ctc.weather.com.cn^
 ||cti.w55c.net^
 ||ctiev.com^
@@ -4385,6 +4391,7 @@
 ||d2ghscazvn398x.cloudfront.net^
 ||d2hvwfg7vv4mhf.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
+||d2izls9pm2f64q.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kr2fnkbj2h4c.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
@@ -4421,6 +4428,7 @@
 ||d34rdvn2ky3gnm.cloudfront.net^
 ||d355vwft2pa8h6.cloudfront.net^
 ||d359wjs9dpy12d.cloudfront.net^
+||d35u1vg1q28b3w.cloudfront.net^
 ||d36eyd5j1kt1m6.cloudfront.net^
 ||d36lvucg9kzous.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
@@ -4809,6 +4817,7 @@
 ||dkg.ifeng.com^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkmnn.top^
+||dko.vente-unique.nl^
 ||dkqapp.cn^
 ||dl-vip.bav.baidu.com^
 ||dl-vip.pcfaster.baidu.co.th^
@@ -4920,6 +4929,7 @@
 ||dnvus.com^
 ||do-not-tracker.org^
 ||do69ifsly4.me^
+||doa1.immobilier-neuf.com^
 ||doc.go.sohu.com^
 ||dodatova.com^
 ||dodi.86zhnc.cn^
@@ -5094,10 +5104,12 @@
 ||duusuu.com^
 ||duyihu.net^
 ||duzt6rhr7wo8p.cloudfront.net^
+||dv59b.montecarlomeeting.com^
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvb.pandora.xiaomi.com^
 ||dvc8653ec6uyk.cloudfront.net^
 ||dvnafl0qtqz9k.cloudfront.net^
+||dvo.assurandme.fr^
 ||dvr8.com^
 ||dvs.china.com^
 ||dvsend.china.com^
@@ -5119,6 +5131,7 @@
 ||dwtracking.sdo.com^
 ||dx1200.com^
 ||dxcssc.cn^
+||dxe2.heip.fr^
 ||dxmci.com^
 ||dxp.baidu.com^
 ||dxprla.m.qxs.la^
@@ -5402,12 +5415,14 @@
 ||e9emh.cn^
 ||ea.auchantelecom.fr^
 ||ea.aujourdhui.com^
+||ea.bouquetnantais.com^
 ||ea.celio.com^
 ||ea.ciblo.net^
 ||ea.deguisetoi.fr^
 ||ea.diamant-unique.com^
 ||ea.fleurancenature.fr^
 ||ea.greenweez.com^
+||ea.habitat.de^
 ||ea.habitat.fr^
 ||ea.histoiredor.com^
 ||ea.hofmann.es^
@@ -5415,19 +5430,37 @@
 ||ea.homair.com^
 ||ea.jeuxvideopc.com^
 ||ea.kauf-unique.at^
+||ea.kauf-unique.de^
 ||ea.lafrancedunordausud.fr^
+||ea.leskidunordausud.fr^
+||ea.lespagnedunordausud.fr^
 ||ea.lexpress.fr^
+||ea.megustaleer.com.pe^
+||ea.megustaleer.com^
 ||ea.melijoe.com^
 ||ea.millet-mountain.com^
 ||ea.millet.fr^
 ||ea.monsieurmanuel.com^
 ||ea.natiloo.com^
+||ea.odalys-vacances.com^
+||ea.odalys-vacation-rental.com^
+||ea.officedepot.fr^
+||ea.pixmania.de^
+||ea.pixmania.dk^
+||ea.pixmania.fi^
+||ea.pixmania.ie^
+||ea.pixmania.it^
+||ea.pixmania.nl^
+||ea.pixmania.pl^
+||ea.pixmania.se^
+||ea.placedestendances.com^
 ||ea.rentacar.fr^
 ||ea.rueducommerce.fr^
 ||ea.venta-unica.com^
 ||ea.vente-unique.be^
 ||ea.vente-unique.ch^
 ||ea.vente-unique.com^
+||ea.vente-unique.lu^
 ||ea.warnerbros.fr^
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
@@ -5509,6 +5542,7 @@
 ||eezdx.erc.18183.com^
 ||ef-dongfeng.tanx.com^
 ||ef.futuroscope.com^
+||ef.futuroscope.mobi^
 ||ef.opendsp.tanx.com^
 ||ef.tanx.com^
 ||effectivelyreport.com^
@@ -5626,9 +5660,12 @@
 ||eu-gmtdmp.gd1.mookie1.com^
 ||eu.groupondata.com^
 ||eu.vortex-win.data.microsft.com^
+||eulerian.belambra.be^
+||eulerian.belambra.fr^
 ||eulerian.brandalley.fr^
 ||eulerian.madeindesign.com^
 ||eulerian.mathon.fr^
+||eulerian.officiel-des-vacances.com^
 ||eulerian.sarenza.com^
 ||eulerian.splendia.com^
 ||eultech.fnac.com^
@@ -7399,7 +7436,6 @@
 ||ip.hivps.xyz^
 ||ip.pichunter.com^
 ||ip.webstats.bid^
-||ip.ws.126.net^
 ||ip2.pxene.com^
 ||ip2c.landscape.co.jp^
 ||ipapi.tmbi.com^
@@ -12039,6 +12075,7 @@
 ||snnnyy.com^
 ||snowforce.sharethrough.com^
 ||snowplow.swm.digital^
+||snr4.canalplus.com^
 ||snyu.com^
 ||snyu.sdo.com^
 ||so9l.com^
@@ -12489,6 +12526,7 @@
 ||statistik.simaja.de^
 ||statm.the-adult-company.com^
 ||stats-dc1.frz.io^
+||stats-factory.digitregroup.io^
 ||stats-messages.gifs.com^
 ||stats-newyork1.bloxcms.com^
 ||stats.766.com^
@@ -13438,6 +13476,7 @@
 ||tracking.base.de^
 ||tracking.batanga.com^
 ||tracking.battleon.com^
+||tracking.bd4travel.com^
 ||tracking.beilagen-prospekte.de^
 ||tracking.brandmentions.com^
 ||tracking.carsales.com.au^
