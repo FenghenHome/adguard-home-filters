@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 28-01-2020 15:36 UTC
-! Count: 15,512
+! Last Modified: 29-01-2020 15:36 UTC
+! Count: 15,526
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -2098,6 +2098,7 @@
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.sleeknote.com^
+||analytics.smallpdf.com^
 ||analytics.snidigital.com^
 ||analytics.snssdk.com^
 ||analytics.socialblade.com^
@@ -3441,6 +3442,7 @@
 ||cdn.vdopia.com^
 ||cdn.viglink.com^
 ||cdn.wuyou.ca^
+||cdn.yimg.com^
 ||cdn.zampda.net^
 ||cdn.zampdsp.com^
 ||cdn0.mobmore.com^
@@ -4518,6 +4520,7 @@
 ||dadawm.cc^
 ||dadjia.com^
 ||daecan.xyz^
+||daero.pw^
 ||daethana.pw^
 ||dafahao.com^
 ||dafahao.org^
@@ -4695,6 +4698,7 @@
 ||de.dzribao.com^
 ||de.pandora.xiaomi.com^
 ||de093o.cn^
+||deacon.ghfkk.com^
 ||debadu.com^
 ||debug-vp.webmd.com^
 ||debug.mssp.adunite.com^
@@ -4907,6 +4911,7 @@
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmm.aizhan.com^
 ||dmouy.cn^
+||dmpcdn.el-mundo.net^
 ||dmpsj.cn^
 ||dmr.cnhoney.com^
 ||dmsz.win7sky.com^
@@ -5496,6 +5501,8 @@
 ||edge.reporo.net^
 ||edge.sharethis.com^
 ||edge.sqweb.com^
+||edgecast-vod.yahoo.net^
+||edgecast-vod.yimg.com^
 ||ediun.com^
 ||ediuschina.com^
 ||edncui.net^
@@ -7071,6 +7078,7 @@
 ||iangs.com^
 ||ianhice.pw^
 ||ianxalim.pw^
+||iarfina.pw^
 ||iarvyre.pw^
 ||iask.qq.com^
 ||iauqwe.com^
@@ -7321,6 +7329,7 @@
 ||imgaliyun.res.mgtv.com^
 ||imgapp.yeyou.com^
 ||imgc.cymzc.com^
+||imgcache.sythe.org^
 ||imgcdn.de92.com^
 ||imgf.gade.suimeng.la^
 ||imgp.cymzc.com^
@@ -7466,7 +7475,6 @@
 ||irs01.com^
 ||iruad.com^
 ||is.base.de^
-||is.snssdk.com^
 ||isabelisa.com^
 ||iscrv.com^
 ||isdspeed.qq.com^
@@ -7732,6 +7740,7 @@
 ||johtzj.com^
 ||jojilabola.com^
 ||jollyspring.com^
+||jomys.xyz^
 ||joredi.com^
 ||joredii.com^
 ||joribobo.com^
@@ -8009,6 +8018,7 @@
 ||ketaoke.com^
 ||kexigia.com^
 ||keydot.net^
+||keymaris.com^
 ||keyrun.cn^
 ||keyshot.cc^
 ||keytui.com^
@@ -8519,6 +8529,7 @@
 ||loglady.skypicker.com^
 ||logonext.tv.kuyun.com^
 ||logoshejishi.com^
+||logrp.hpplay.cn^
 ||logs-api.shoprunner.com^
 ||logs-qos.tf1.fr^
 ||logs.51cto.com^
@@ -10907,6 +10918,7 @@
 ||puds.test.uae.uc.cn^
 ||pukrazopchatka.com^
 ||pull.push.sogou.com^
+||puma-api.iqiyi.com^
 ||puma.api.iqiyi.com^
 ||pups.bdimg.com^
 ||pupu.xnhh120.com^
@@ -11522,6 +11534,7 @@
 ||s.hoverming.cn^
 ||s.img.mix.sina.com.cn^
 ||s.infogram.com^
+||s.irs03.com^
 ||s.jandan.com^
 ||s.jimdo.com^
 ||s.jlminte.com^
@@ -11897,6 +11910,7 @@
 ||sgbfjs.info^
 ||sgftrrs.com^
 ||sgg.southcn.com^
+||sgmnt.ticketswap.com^
 ||sguac.com^
 ||sgzs999.com^
 ||sh.hsfzexsg.com^
@@ -13298,7 +13312,6 @@
 ||touchxd.com^
 ||touclick.com^
 ||toushibao.com^
-||toutiao-frontier.snssdk.com^
 ||toutiao.2haha.com^
 ||toutiao.jxnews.com.cn^
 ||touy.deryakose.com^
@@ -13851,6 +13864,7 @@
 ||umbbs.cn^
 ||umc.danuoyi.alicdn.com^
 ||umeng.com^
+||umengacs.m.taobao.com^
 ||umid.orion.meizu.com^
 ||umiwi.com^
 ||umjsik.com^
