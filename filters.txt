@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-02-2020 09:21 UTC
-! Count: 15,610
+! Last Modified: 06-02-2020 15:39 UTC
+! Count: 15,614
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -1721,6 +1721,7 @@
 ||adszui.com^
 ||adtaily.com^
 ||adtiming.com^
+||adtm.chip.de^
 ||adtng.com^
 ||adui.tg.meitu.com^
 ||aduic.com^
@@ -5103,6 +5104,7 @@
 ||dsp.wtf^
 ||dsp.youdao.com^
 ||dspmnt.autohome.com.cn^
+||dspmulti.com^
 ||dspserver.ad.cmvideo.cn^
 ||dssdr.top^
 ||dsstrk.com^
@@ -9635,6 +9637,7 @@
 ||mmpuh.cn^
 ||mms.al.com^
 ||mms.cbslocal.com^
+||mms.chip.de^
 ||mms.cleveland.com^
 ||mms.cloudpro.co.uk^
 ||mms.cnn.com^
@@ -10153,6 +10156,7 @@
 ||ntvcld-a.akamaihd.net^
 ||ntxiangtai.com^
 ||nubao.lsdys.cn^
+||numbertrck.com^
 ||nunc-china.com^
 ||nuonuo1.icu^
 ||nupoot.com^
