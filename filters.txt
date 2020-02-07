@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-02-2020 15:39 UTC
-! Count: 15,614
+! Last Modified: 07-02-2020 15:40 UTC
+! Count: 15,625
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -131,6 +131,7 @@
 ||0x5.me^
 ||0xxd.com^
 ||0z5jn.cn^
+||1.01fy.cn^
 ||1.1010pic.com^
 ||1.11467.com^
 ||1.15lu.com^
@@ -633,6 +634,7 @@
 ||6666lm.com^
 ||6669667.com^
 ||66992949.com^
+||66996.top^
 ||66997.top^
 ||66998.top^
 ||66san.com^
@@ -1786,6 +1788,7 @@
 ||aff.marathonbet.com^
 ||aff.simibo.net^
 ||aff.svjump.com^
+||affiliate.heureka.cz^
 ||affiliate.iamplify.com^
 ||affiliate.mercola.com^
 ||affiliate.resellerclub.com^
@@ -2253,7 +2256,6 @@
 ||api.cpu.baidu.com^
 ||api.cupid.iqiyi.com^
 ||api.cupid.qiyi.com^
-||api.danmu.tv.sohu.com^
 ||api.developer.xiaomi.com^
 ||api.dewmobile.net^
 ||api.dsp.yhd.com^
@@ -2849,6 +2851,7 @@
 ||beacon.heliumnetwork.com^
 ||beacon.indieclick.com^
 ||beacon.indieclicktv.com^
+||beacon.itmedia.jp^
 ||beacon.krxd.net^
 ||beacon.livefyre.com^
 ||beacon.lycos.com^
@@ -3932,7 +3935,6 @@
 ||comm.app.autohome.com.cn^
 ||commdata.v.qq.com^
 ||commercedirections.com^
-||commsvc.geo.de^
 ||commsvc.stern.de^
 ||compare.easyviaggio.com^
 ||compare.easyviajar.com^
@@ -5026,7 +5028,6 @@
 ||download.qianka.com^
 ||download.sd.baidu.com^
 ||download.sj.qq.com^
-||download.wan.sohu.com^
 ||download.zhushou.sogou.com^
 ||download3.123cw.cn^
 ||downloada.dewmobile.net^
@@ -6053,6 +6054,7 @@
 ||freecodecs.us.intellitxt.com^
 ||freexxxvideoclip.aebn.net^
 ||fresh.techdirt.com^
+||friend17.net^
 ||frjxdv.cn^
 ||frog.wix.com^
 ||front99.com^
@@ -7455,6 +7457,7 @@
 ||input.theta.sogou.com^
 ||inquiries.redhat.com^
 ||inside.bitcomet.com^
+||inside.rtbasia.com^
 ||insight.fonecta.fi^
 ||insightexpressai.com^
 ||insights.sitesearch360.com^
@@ -7723,6 +7726,7 @@
 ||jinglongtang.cn^
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
+||jinhonghao.cn^
 ||jinshagt222.com^
 ||jinshasi.cn^
 ||jinshui2018.chalook.net^
@@ -8445,6 +8449,7 @@
 ||lltrsknoob.click^
 ||llvez.com^
 ||lm.dawenxue.org^
+||lm.ijq.tv^
 ||lm.licenses.adobe.com^
 ||lm.xiashu.la^
 ||lm1.tuliu.com^
@@ -9637,7 +9642,6 @@
 ||mmpuh.cn^
 ||mms.al.com^
 ||mms.cbslocal.com^
-||mms.chip.de^
 ||mms.cleveland.com^
 ||mms.cloudpro.co.uk^
 ||mms.cnn.com^
@@ -9751,6 +9755,7 @@
 ||moxiaoyang.top^
 ||mozist.com^
 ||mp.cheering3d.com^
+||mp.nextmedia.com^
 ||mp.sijiaopingtai.com^
 ||mp.xi9p.com^
 ||mp4.res.hunantv.com^
@@ -9815,6 +9820,7 @@
 ||mstzym.com^
 ||msuik.cn^
 ||msujd.cn^
+||mt.59wz.com^
 ||mta.qq.com^
 ||mtag.mman.kr^
 ||mtc.nhk.or.jp^
@@ -10699,6 +10705,7 @@
 ||pings.blip.tv^
 ||pings.conviva.com^
 ||pings.vidpulse.com^
+||pingshu365.xyz^
 ||pingtas.qq.com^
 ||pingtcss.qq.com^
 ||pinkmore.cn^
@@ -11080,7 +11087,6 @@
 ||qcupup.com^
 ||qcvf.ifeng.com^
 ||qd.dhzw.org^
-||qd.js.sanjiangge.cc^
 ||qd.js.sanjiangge.com^
 ||qd.l02r3.cn^
 ||qd.mojya.cn^
@@ -13411,6 +13417,7 @@
 ||trace.qq.com^
 ||trace.rtbasia.com^
 ||trace.ynet.com^
+||trace2.rtbasia.com^
 ||tracelog.www.alibaba.com^
 ||track-east.mobileadtrading.com^
 ||track.24heures.ch^
@@ -14316,6 +14323,7 @@
 ||vwws6.net^
 ||vxsnk.com^
 ||vy74i.cn^
+||vyule.com^
 ||vz-cdn.contentabc.com^
 ||vz71j.cn^
 ||w.bid.ljrtb.cn^
@@ -14352,6 +14360,7 @@
 ||wa.ui-portal.de^
 ||wabdb1.52pk.com^
 ||waby66.cn^
+||wacc888.com^
 ||wagenlux.cn^
 ||waihui518.com^
 ||wakamoment.tk^
@@ -14542,6 +14551,7 @@
 ||widget.weibo.com^
 ||widgets.comcontent.net^
 ||widgets.fie-data.co.uk^
+||widgets.outbrain.com^
 ||widgets.realestate.com.au^
 ||widgetssec.cam-content.com^
 ||widnd.dajiadou6.com^
@@ -14676,6 +14686,7 @@
 ||wuwho.cn^
 ||wuwuhh.top^
 ||wuyanauto.com^
+||wuyekanba.com^
 ||wuylp.com^
 ||wv.inner-active.mobi^
 ||wvcdn.cn^
