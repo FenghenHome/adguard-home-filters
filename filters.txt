@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 27-02-2020 15:51 UTC
-! Count: 16,274
+! Last Modified: 28-02-2020 15:50 UTC
+! Count: 16,308
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -3060,6 +3060,7 @@
 ||bjedpt.com^
 ||bjgtsh.com^
 ||bjhengdiao.com^
+||bjhuhangjy.com^
 ||bjmcmj.cn^
 ||bjqftcty.com^
 ||bjsncykyjctsbjxzx.cn^
@@ -3107,6 +3108,7 @@
 ||bnnr.pornpics.com^
 ||bnq86.com^
 ||bnr.alza.cz^
+||bnrsis.com^
 ||bnzxc.xyz^
 ||bo.jumptap.com^
 ||boardx.huanqiu.com^
@@ -3295,6 +3297,7 @@
 ||c.ns8d.com^
 ||c.nz.gt.igexin.com^
 ||c.okmgy.cn^
+||c.originz.cn^
 ||c.panqis.cn^
 ||c.panqishu.com^
 ||c.paypal.com^
@@ -4467,6 +4470,7 @@
 ||d16fk4ms6rqz1v.cloudfront.net^
 ||d16xpr36wrmcmk.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
+||d188elxamt3utn.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d18xeipe1243h6.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
@@ -4496,6 +4500,7 @@
 ||d1n3tk65esqc4k.cloudfront.net^
 ||d1nkvehlw5hmj4.cloudfront.net^
 ||d1nmxiiewlx627.cloudfront.net^
+||d1nx2jii03b4ju.cloudfront.net^
 ||d1pdpbxj733bb1.cloudfront.net^
 ||d1qc76gneygidm.cloudfront.net^
 ||d1qggq1at2gusn.cloudfront.net^
@@ -5722,6 +5727,7 @@
 ||edvforeveretest.info^
 ||edw.edmunds.com^
 ||edysn.cn^
+||ee.0pi84.cn^
 ||ee.1s8pj.cn^
 ||ee.32z8d.cn^
 ||ee.57m1j.com^
@@ -5739,11 +5745,14 @@
 ||ee.d6s2pn5t.cn^
 ||ee.f2z4d.cn^
 ||ee.gd881.cn^
+||ee.h2tywo.cn^
 ||ee.hdboping.com^
 ||ee.j06kc.cn^
 ||ee.j5s9b.cn^
 ||ee.k2d98mi.cn^
 ||ee.mfufanj.cn^
+||ee.oikqfwv.cn^
+||ee.s47e8.cn^
 ||ee.shixunwang.net^
 ||ee.t3j6a.cn^
 ||ee.w82ph.cn^
@@ -5754,6 +5763,7 @@
 ||ee.x8r9m.cn^
 ||ee.xq375.cn^
 ||ee.xr883.cn^
+||ee.zowmgxpz.cn^
 ||ee.zq13n.cn^
 ||eec.crunchyroll.com^
 ||eed.ntjrh.com^
@@ -5801,6 +5811,7 @@
 ||eland.doublemax.net^
 ||elastinabuker.site^
 ||eleasuredfas.info^
+||elivescousingcr.info^
 ||elmenor.xyz^
 ||eloer.cn^
 ||elr.sfr.fr^
@@ -5970,6 +5981,7 @@
 ||events.turbosquid.com^
 ||events.whisk.com^
 ||events.yourcx.io^
+||eventurypol.site^
 ||eviltracker.net^
 ||evisit.exeter.ac.uk^
 ||evnt.iol.it^
@@ -7896,6 +7908,7 @@
 ||jc.buerchaoshi.com^
 ||jc.jtydbz.com^
 ||jc.lgtianma.cn^
+||jc.vtqifk86868.cn^
 ||jc1.dayfund.cn^
 ||jcaik.com^
 ||jcaip.com^
@@ -8432,6 +8445,7 @@
 ||kn.zzdahan.com^
 ||knb.hlgmsy.com^
 ||kngcjx.com^
+||kniferasatte.info^
 ||knnwdyou.com^
 ||knottishhuntilc.info^
 ||kob.adxkj.com^
@@ -8442,6 +8456,7 @@
 ||kokilopi.com^
 ||kokofits.com^
 ||kolimanq.com^
+||kolinay.com^
 ||koltruah.com^
 ||kompilukabalazooka.com^
 ||koncbabae.com^
@@ -9027,6 +9042,7 @@
 ||m.0cec5.com^
 ||m.0o8iuh.cn^
 ||m.0phunw.cn^
+||m.0pi84.cn^
 ||m.0v15b.cn^
 ||m.0vj6i.cn^
 ||m.0wnz6g.cn^
@@ -9291,6 +9307,7 @@
 ||m.gvez.top^
 ||m.h0x.cn^
 ||m.h24q5c.cn^
+||m.h2tywo.cn^
 ||m.haishuxue.com^
 ||m.haowj.com.cn^
 ||m.hbans.com^
@@ -9404,6 +9421,7 @@
 ||m.o89ia.cn^
 ||m.ocenp.com^
 ||m.ogeigs.com^
+||m.oikqfwv.cn^
 ||m.openv.tv^
 ||m.oyrim.com^
 ||m.pcuna.com^
@@ -9439,6 +9457,7 @@
 ||m.rrsdl.com^
 ||m.rwganw.cn^
 ||m.s0o5g.cn^
+||m.s47e8.cn^
 ||m.s52dv.com^
 ||m.s76xid.cn^
 ||m.sanjiangge.com^
@@ -9577,6 +9596,7 @@
 ||m.zhipianwu.com^
 ||m.zkp53.cn^
 ||m.zosue.cn^
+||m.zowmgxpz.cn^
 ||m.zq13n.cn^
 ||m.zq4ka.cn^
 ||m.zvfuka.cn^
@@ -10470,6 +10490,7 @@
 ||nlmrjnew.oss-cn-shanghai.aliyuncs.com^
 ||nlntrk.com^
 ||nlog.baidu.com^
+||nlzq888.com^
 ||nlzz7a3md4sx.com^
 ||nm.newegg.com^
 ||nmeithybnvik.com^
@@ -10492,6 +10513,7 @@
 ||nochange.ggsafe.com^
 ||noclef.com^
 ||node.cdntxt.com^
+||nogerefron.info^
 ||noglolra.com^
 ||nol.yahoo.com^
 ||nongsalei.com^
@@ -11342,6 +11364,7 @@
 ||pre.api.tw06.xlmc.sandai.net^
 ||predictivadvertising.com^
 ||premium-members.com^
+||presearchity.site^
 ||presentationtracking.netflix.com^
 ||prevealhealth.info^
 ||preview.sharethrough.com^
@@ -11884,6 +11907,7 @@
 ||resolver.msg.xiaomi.net^
 ||resource.baomihua.com^
 ||resource.m0lxcdn.kukuplay.com^
+||responder.wt.heise.de^
 ||response.pure360.com^
 ||retargeting.vistaprint.com^
 ||retcode.taobao.com^
@@ -12312,6 +12336,7 @@
 ||sddnserror7.wo.com.cn^
 ||sddnserror8.wo.com.cn^
 ||sddnserror9.wo.com.cn^
+||sdfjtwp.com^
 ||sdgdtz.cn^
 ||sdgreg.cn^
 ||sdhzstone.net^
@@ -12580,6 +12605,7 @@
 ||simba.6.cn^
 ||simba.m.taobao.com^
 ||simon184.cn^
+||simpaignsen.info^
 ||sina-img.club^
 ||sina.wrating.com^
 ||sina.yinstar.org^
@@ -12893,6 +12919,7 @@
 ||ssl-cdn.static.browser.mi-img.com^
 ||ssl.51lhcx.com^
 ||ssl.aszy.club^
+||ssl.bbba8.com^
 ||ssl.hyhzy.cn^
 ||ssl.trace.zhiziyun.com^
 ||ssl.ymapp.com^
@@ -13569,6 +13596,7 @@
 ||t.wayfair.com^
 ||t.wayfair.de^
 ||t.wizaly.com^
+||t.xiumii.top^
 ||t.xymj.xyz^
 ||t.youhua.pw^
 ||t1.51maiwanju.com^
@@ -14700,6 +14728,7 @@
 ||v.aty.sohu.com^
 ||v.emedia.cn^
 ||v.jntxst.cn^
+||v.originz.cn^
 ||v.oui.sncf^
 ||v.qudwrj.cn^
 ||v.rmbn.net^
@@ -15609,6 +15638,7 @@
 ||xn--wxtr9fwyxk9c.site^
 ||xn--wxtr9fwyxk9c.top^
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
+||xn--xhq9mt12cf5v.art^
 ||xn--xhq9mt12cf5v.ink^
 ||xn--xhq9mt12cf5v.ren^
 ||xn--xhq9mt12cf5v.shop^
@@ -16041,11 +16071,13 @@
 ||z1.chezhuzhinan.com^
 ||z1.cnywst.com^
 ||z1.cyla.cn^
+||z1.yunl1.com^
 ||z1.zedo.com^
 ||z1.zhishidu.com^
 ||z1hihu.xmcimg.com^
 ||z2.cnywst.com^
 ||z2.lnymd.com^
+||z2.yunl1.com^
 ||z2.zhishidu.com^
 ||z3uk6.cn^
 ||z41vm.cn^
@@ -16056,6 +16088,7 @@
 ||z8o.cn^
 ||zabxb.com^
 ||zaivikuk.com^
+||zam.nextinpact.com^
 ||zamar.cn^
 ||zamplus.com^
 ||zantainet.com^
@@ -16217,6 +16250,7 @@
 ||zogzogolla.com^
 ||zonolali.com^
 ||zoom.zshu.net^
+||zopeynxv.top^
 ||zorbikala.com^
 ||zortinah.com^
 ||zougg.com^
