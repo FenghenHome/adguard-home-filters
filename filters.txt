@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 05-03-2020 15:53 UTC
-! Count: 16,477
+! Last Modified: 06-03-2020 15:53 UTC
+! Count: 16,501
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -102,6 +102,7 @@
 ||0571yy.com^
 ||0592weixin.com^
 ||05q9n.cn^
+||05xz0h2xo799.com^
 ||06362.com^
 ||0728w.cn^
 ||0755man.cn^
@@ -125,6 +126,7 @@
 ||0ozo.cn^
 ||0pj1f.cn^
 ||0qkc.cn^
+||0s9dxlr07huu.com^
 ||0sbm.consobaby.co.uk^
 ||0uk9e.cn^
 ||0x013d.website^
@@ -262,6 +264,7 @@
 ||144.dragonparking.com^
 ||1494.top^
 ||1495039.com^
+||14nuzznszbdp.com^
 ||15.taboola.com^
 ||1515788.net^
 ||158aq.com^
@@ -2606,6 +2609,7 @@
 ||auxml.com^
 ||av8d.net^
 ||avalhukof.com^
+||averaladmi.info^
 ||avn.innity.com^
 ||avsmt.cn^
 ||avualrhg9p.bid^
@@ -2677,6 +2681,7 @@
 ||b1.baomihua.com^
 ||b1.c1km4.com^
 ||b1.fengdu100.com^
+||b1.xiao84.com^
 ||b17.8794.cn^
 ||b17.lynow.cn^
 ||b17.shangc.net^
@@ -3503,6 +3508,7 @@
 ||cchfjz.com^
 ||ccjxybj.cn^
 ||ccmdgg.com^
+||cconseent.info^
 ||ccouv.com^
 ||cct2.o2online.de^
 ||cctv.adsunion.com^
@@ -3925,6 +3931,7 @@
 ||cmmob.cn^
 ||cmop.mgtv.com^
 ||cmp.arnnet.com.au^
+||cmp.channelpartner.de^
 ||cmp.cio.com.au^
 ||cmp.cmo.com.au^
 ||cmp.computerworld.com.au^
@@ -4099,7 +4106,9 @@
 ||config.push.sogou.com^
 ||confirm-referer.glrsales.com^
 ||connect.summit.co.uk^
+||consent.api.osano.com^
 ||consent.cookiebot.com^
+||consent.inm.ie^
 ||consent.truste.com^
 ||contadores.bolsamania.com^
 ||contadores.miarroba.com^
@@ -4606,6 +4615,7 @@
 ||d2hvwfg7vv4mhf.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2izls9pm2f64q.cloudfront.net^
+||d2k7b1tjy36ro0.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kr2fnkbj2h4c.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
@@ -5641,7 +5651,6 @@
 ||e.wcenr.com^
 ||e.wduis.com^
 ||e.weather.com.cn^
-||e.weibo.com^
 ||e.wj57g.cn^
 ||e.wkm89.cn^
 ||e.wlues.com^
@@ -6249,6 +6258,7 @@
 ||fimg-resp.seznam.cz^
 ||findicons.com^
 ||finead.cn^
+||fingahvf.top^
 ||fipipo.cn^
 ||fips.uimserv.net^
 ||firebaselogging.googleapis.com^
@@ -6489,10 +6499,12 @@
 ||gadsimz.com^
 ||gadsipz.com^
 ||gadskis.com^
+||gadskiz.com^
 ||gadsokz.com^
 ||gadwhy.com^
 ||gafxa.code.mytanwan.com^
 ||gagkf.top^
+||gagnibcan.com^
 ||gaihunuo.cn^
 ||gak.webtoons.com^
 ||galaxy.bjcathay.com^
@@ -6821,6 +6833,7 @@
 ||grampouz.net^
 ||graph.facebook.com^
 ||graunada.com^
+||greatvideos.xyz^
 ||grebanise.pw^
 ||green-griffin-860.appspot.com^
 ||green.erne.co^
@@ -6970,7 +6983,9 @@
 ||h9p9.cn^
 ||ha.zixuekaoshi.net^
 ||hades.qyer.com^
+||hadsabz.com^
 ||haftobso.net^
+||haimaokj.com^
 ||hainufamliy.top^
 ||haitaoad.nosdn.127.net^
 ||haitejs.com^
@@ -9019,6 +9034,7 @@
 ||logupdate.avlyun.sec.miui.com^
 ||logx.mtime.cn^
 ||logx.mtime.com^
+||logx.optimizely.com^
 ||lokipodi.com^
 ||lokspeedarma.com^
 ||loldyttw.com^
@@ -11004,6 +11020,7 @@
 ||package01.com^
 ||padsabz.com^
 ||padsatz.com^
+||padsbrown.com^
 ||padsecs.com^
 ||page-events-ustats.udemy.com^
 ||page.acm.dzwww.com^
@@ -11885,6 +11902,7 @@
 ||rapizoda.com^
 ||ratings.lycos.com^
 ||ratkalol.com^
+||raupsica.net^
 ||rbc.cn^
 ||rbc.magna.ru^
 ||rbign.cn^
@@ -12063,6 +12081,7 @@
 ||riqu2015.com^
 ||rishenglaw.cn^
 ||river.zhidao.baidu.com^
+||riverhit.com^
 ||rizeintellingente.info^
 ||rj.baidu.com^
 ||rj.m.taobao.com^
@@ -13886,6 +13905,7 @@
 ||te.mytoys.de^
 ||te.supportfreecontent.com^
 ||te37w.cn^
+||teachievedim.site^
 ||tebadu.com^
 ||tech.jiukang.org^
 ||techain.baidu.com^
@@ -14472,6 +14492,7 @@
 ||trkunited.com^
 ||trmnsite.com^
 ||trourted.pro^
+||trouvredawes.site^
 ||trowel.twitch.tv^
 ||tru.am^
 ||tru.webelapp.com^
@@ -14499,6 +14520,7 @@
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
 ||ttbaods.com^
+||ttbc.cc^
 ||ttcdn.cn^
 ||ttdetect.staticimgfarm.com^
 ||ttfgames.cn^
@@ -15785,6 +15807,7 @@
 ||xn--tst552fo5s.xyz^
 ||xn--wxt79hbyb675a.online^
 ||xn--wxtr44c.video^
+||xn--wxtr9fwyxk9c.art^
 ||xn--wxtr9fwyxk9c.club^
 ||xn--wxtr9fwyxk9c.site^
 ||xn--wxtr9fwyxk9c.top^
@@ -15972,6 +15995,7 @@
 ||yeprimlax.club^
 ||yes1.feng.com^
 ||yeshhaod.com^
+||yestedshere.site^
 ||yetaiguang.cn^
 ||yexfes.com^
 ||yeyajipp.com^
