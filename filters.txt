@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 13-03-2020 15:56 UTC
-! Count: 17,147
+! Last Modified: 14-03-2020 15:59 UTC
+! Count: 17,177
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -52,6 +52,7 @@
 @@||app-advertise.zhihuishu.com^
 @@||authentication-api.skimlinks.com^
 @@||beta.bugly.qq.com^
+@@||browser.cloud.ucweb.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
 @@||img.ads.tvb.com^
@@ -112,9 +113,11 @@
 ||07kfh.cn^
 ||080644.com^
 ||0851ok.com^
+||08b72e4833486d.com^
 ||0923csfsteibv12.xyz^
 ||0937jyg.com^
 ||09_19.supfree.net^
+||0a225c134735c.com^
 ||0aqpqdju.me^
 ||0b6h.cn^
 ||0bc.top^
@@ -237,6 +240,7 @@
 ||11888vip.cn^
 ||118ex.cn^
 ||119cgpt.com^
+||11ccda709b5cdf5.com^
 ||12.cookcai.com^
 ||12086.net^
 ||1224.dxsbb.com^
@@ -462,6 +466,7 @@
 ||365syt.cn^
 ||365yigou.cn^
 ||366safego.com^
+||36c6ce350b32.com^
 ||36ia2.cn^
 ||36pn.com^
 ||376zf.com^
@@ -817,6 +822,7 @@
 ||8byu.cn^
 ||8c3k.cn^
 ||8cnd.com^
+||8d9d548d35.com^
 ||8dp.net^
 ||8fiv9a.cn^
 ||8hdp.cn^
@@ -1911,8 +1917,10 @@
 ||ahinin.cn^
 ||ahjzys.com^
 ||ahlxxx.com^
+||ahqlx.top^
 ||ahszgog.com^
 ||ahuac.com^
+||ahunui.cn^
 ||ahw3.com^
 ||ahyau.com^
 ||ahyuns.com^
@@ -2287,6 +2295,7 @@
 ||anhuilitian.net^
 ||aniashboy.club^
 ||anioscp.com^
+||anlcld.com^
 ||anmeilai.net^
 ||ann5.net^
 ||anon-stats.eff.org^
@@ -2614,6 +2623,7 @@
 ||atarshaboor.com^
 ||atax.gamermetrics.com^
 ||atax.teamxbox.com^
+||atconnect.npo.nl^
 ||atcryp.com^
 ||atdmt.com^
 ||atelovesinothic.info^
@@ -2748,6 +2758,7 @@
 ||b2.0430.com^
 ||b25ku.cn^
 ||b3.jandan.net^
+||b460e308b59.com^
 ||b4xuj.zzhhts.com^
 ||b54ah.cn^
 ||b588866.com^
@@ -3048,6 +3059,7 @@
 ||becode.xiao84.com^
 ||bedhdig.cn^
 ||bee.kascend.com^
+||beeashale.club^
 ||beeho.site^
 ||beek99.com^
 ||beewanuk.net^
@@ -3241,6 +3253,7 @@
 ||boomgamescloud-cdn.cn^
 ||boratestfishke.info^
 ||borazita.com^
+||bordeded.pro^
 ||borsendental.com^
 ||bosatria.cn^
 ||bosiwangzi.cn^
@@ -3704,6 +3717,7 @@
 ||cdn1.res.uzham.com^
 ||cdn2.crispadvertising.com^
 ||cdn2.moji002.com^
+||cdn5.nextinpact.com^
 ||cdnads.com^
 ||cdnas.hyperpromote.com^
 ||cdnbigdata.azureedge.net^
@@ -4208,6 +4222,7 @@
 ||compare.easyviaggio.com^
 ||compare.easyviajar.com^
 ||compare.liligo.com^
+||comparencelabl.site^
 ||compass-fit.jp^
 ||compensions.pro^
 ||compteur.developpez.com^
@@ -5213,6 +5228,7 @@
 ||djibeacon.djns.com^
 ||djr4k68f8n55o.cloudfront.net^
 ||djs.baomihua.com^
+||djsn888.com^
 ||djtflbt20bdde.cloudfront.net^
 ||djv99sxoqpv11.cloudfront.net^
 ||djy518.com^
@@ -6694,6 +6710,7 @@
 ||gadsans.com^
 ||gadsanz.com^
 ||gadsats.com^
+||gadsecs.com^
 ||gadsecz.com^
 ||gadsimz.com^
 ||gadsipz.com^
@@ -7200,6 +7217,7 @@
 ||ha.zixuekaoshi.net^
 ||hades.qyer.com^
 ||hadsabz.com^
+||hadsipz.com^
 ||haftobso.net^
 ||haimaokj.com^
 ||hainufamliy.top^
@@ -8078,6 +8096,7 @@
 ||instantresp.com^
 ||instore.pagomeno.it^
 ||insuf.cn^
+||inswebt.com^
 ||int.dpool.sina.com.cn^
 ||int.w3tong.com^
 ||intab.site^
@@ -9030,6 +9049,7 @@
 ||legozu.com^
 ||leletuitui.com^
 ||lem.nouvelobs.com^
+||lemaite.cn^
 ||leontius-eli.com^
 ||lerenzx.cn^
 ||lerg.bpafree.cn^
@@ -10412,6 +10432,7 @@
 ||miracan.pw^
 ||mirafaren.pw^
 ||mis.g.mi.com^
+||misdem.pro^
 ||mitotach.com^
 ||miui.hftaili.com^
 ||mivideo.g.mi.com^
@@ -11256,6 +11277,7 @@
 ||onsiteline.vip^
 ||onsiterope.com^
 ||onsnv.com^
+||onwaysebuj.site^
 ||oollttqq.com^
 ||oomyv.com^
 ||ooniu.com^
@@ -11338,6 +11360,7 @@
 ||oulvtrip.com^
 ||oumazg.com^
 ||ountapaveralle.info^
+||ousseventi.info^
 ||outal.origo.hu^
 ||outer.anquan.org^
 ||outhulem.net^
@@ -12636,6 +12659,7 @@
 ||ruiyufangchan.cn^
 ||rum-collector.pingdom.net^
 ||rum-static.pingdom.net^
+||rum.conde.io^
 ||rum.marquardmedia.hu^
 ||rum.nccgroup-webperf.com^
 ||runiman.com^
@@ -12957,6 +12981,7 @@
 ||sdkconfig.play.aiseet.atianqi.com^
 ||sdkconfig.video.qq.com^
 ||sdkdm.com^
+||sdkfjxjertertry.com^
 ||sdkinit.taobao.com^
 ||sdklog.cmgame.com^
 ||sdklog.uu.cc^
@@ -13678,6 +13703,7 @@
 ||stadig0.ifeng.com^
 ||staging.admin.e.mi.com^
 ||staging2.crazyegg.com^
+||stakenpolise.site^
 ||stan.xing.com^
 ||staqnet.com^
 ||star-media.cn^
@@ -14057,6 +14083,7 @@
 ||subo.logger.baofeng.com^
 ||subpixel.4players.de^
 ||subshall.cn^
+||substandferex.site^
 ||sucodb.com^
 ||suedai.com^
 ||suehy.com^
@@ -16610,6 +16637,7 @@
 ||ychap.com^
 ||ychml.com^
 ||ychun03.com^
+||ycjisa.cn^
 ||ycszgt.cn^
 ||ycypzx.cn^
 ||yd126.com^
@@ -16764,6 +16792,7 @@
 ||youmsm.com^
 ||yourlocalguardian-gb.yourlocalguardian.co.uk^
 ||yousee.com^
+||youshouge513.cn^
 ||youso.crazyegg.com^
 ||yousuode.cn^
 ||youtui456.com^
@@ -17167,6 +17196,7 @@
 ||zzalkk.com^
 ||zzbaowen.com^
 ||zzbb1.top^
+||zzcgw.cn^
 ||zzcw.office-mall.net^
 ||zzhszj.com^
 ||zzkfs.xyz^
