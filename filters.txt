@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 18-03-2020 15:57 UTC
-! Count: 17,290
+! Last Modified: 19-03-2020 15:57 UTC
+! Count: 17,299
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -55,6 +55,7 @@
 @@||browser.cloud.ucweb.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
+@@||feed.mix.sina.com.cn^
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
 @@||optout.networkadvertising.org^
@@ -435,6 +436,7 @@
 ||2yt.cn^
 ||2zfzly.com^
 ||2zm4.cn^
+||3.5646.cn^
 ||3.chuanyi5.com^
 ||3.guidaye.com^
 ||3.ssqzj.com^
@@ -545,7 +547,6 @@
 ||4x9te.cn^
 ||4xhyr.shuimujinggong.com^
 ||4z5o27.cn^
-||5.gzfenda.com^
 ||5066.net^
 ||50zera.com^
 ||51.la^
@@ -905,6 +906,7 @@
 ||99hg.wang^
 ||99lolo.com^
 ||99pps.com^
+||99tianxin.com^
 ||99tuan.com.cn^
 ||9a6wb.cn^
 ||9d766be9a3.com^
@@ -955,7 +957,6 @@
 ||a.baomihua.com^
 ||a.beilamusi.com^
 ||a.benshiw.net^
-||a.bizhiku.net^
 ||a.booksir.cn^
 ||a.bshu.com^
 ||a.cctv.com^
@@ -995,6 +996,7 @@
 ||a.mct01.com^
 ||a.medialytics.com^
 ||a.mfcad.net^
+||a.miyudaquan.top^
 ||a.mjlnbx.cn^
 ||a.mobify.com^
 ||a.nanhuwang.com^
@@ -4640,7 +4642,6 @@
 ||d.feih.com.cn^
 ||d.finative.eu^
 ||d.gz2010.cn^
-||d.gzpinda.com^
 ||d.haberler.com^
 ||d.hzblic.com^
 ||d.jjyx.com^
@@ -4959,7 +4960,6 @@
 ||dailylog.storm.baofeng.com^
 ||dailyvideo.securejoin.com^
 ||daima.diaoben.net^
-||daima.huoche.net^
 ||daima.ijq.tv^
 ||daima.jiazhao.com^
 ||daima.miercn.com^
@@ -6500,7 +6500,6 @@
 ||fipipo.cn^
 ||fips.uimserv.net^
 ||firebaselogging.googleapis.com^
-||firefang.cn^
 ||fishkekcamp.info^
 ||fix.hpplay.cn^
 ||fixsirrod.site^
@@ -6951,7 +6950,6 @@
 ||gg.gw032.com^
 ||gg.haianw.com^
 ||gg.huolinhe.com^
-||gg.jkmeishi.com^
 ||gg.kugou.com^
 ||gg.ptfish.com^
 ||gg.sonhoo.com^
@@ -8415,6 +8413,7 @@
 ||jiedaibao.com^
 ||jiehantai.com^
 ||jiejg.ifeng.com^
+||jiejiemimu.cn^
 ||jiekc.com^
 ||jieyixiu.com^
 ||jifeidandar.com^
@@ -8587,6 +8586,7 @@
 ||js.feitian001.com^
 ||js.fengniao.com^
 ||js.fhxiaoshuo.com^
+||js.firefang.cn^
 ||js.flpjc.com^
 ||js.gdyjs.com^
 ||js.gewuwen.com^
@@ -10342,6 +10342,7 @@
 ||metok.sys.miui.com^
 ||metric-agent.i10c.net^
 ||metric.inetcore.com^
+||metric.ipv6test.net^
 ||metric.nwsource.com^
 ||metricfast.com^
 ||metrics-api.librato.com^
@@ -10399,6 +10400,7 @@
 ||mhuos.com^
 ||mhwozc.cn^
 ||mi-de-ner-nis3.info^
+||mi1.cc^
 ||miaiche.cn^
 ||miakalyn.pw^
 ||miaobeichina.com^
@@ -10853,6 +10855,7 @@
 ||mysite.irkdsu.ru^
 ||mysty.com.cn^
 ||mytestminer.xyz^
+||mytianqi.vip^
 ||mytzdhz.cn^
 ||myuf6.xyz^
 ||myunion1.qm120.com^
@@ -11286,6 +11289,7 @@
 ||oimg.m.cnbc.com^
 ||oimg.mobile.cnbc.com^
 ||oir85.cn^
+||oiwjcsh001.top^
 ||oiycak.com^
 ||ojm4.palladiumhotelgroup.com^
 ||ojues.com^
@@ -12230,6 +12234,7 @@
 ||q671e.cn^
 ||q6idnawboy7g.com^
 ||q7ms.cn^
+||qajypx.com^
 ||qapm.baidu.com^
 ||qappcenterv6.3g.qq.com^
 ||qaqact.cn^
@@ -12297,6 +12302,7 @@
 ||qinghyx.com^
 ||qingqu.la^
 ||qingzhencai.net^
+||qinlinquan.cn^
 ||qipskd.cn^
 ||qipt.1632j6.cn^
 ||qiqivv.com^
@@ -12727,6 +12733,7 @@
 ||rtas.videocc.net^
 ||rtb.com.ru^
 ||rtb.connatix.com^
+||rtbapi.douyucdn.cn^
 ||rtbstat.zcdsp.com^
 ||rtlog.vidown.cn^
 ||rtmark.net^
@@ -14708,7 +14715,6 @@
 ||tianyanzs.com^
 ||tiaopimiao.net^
 ||tiaoweiyou.cn^
-||ticcdn.com^
 ||tick0.com^
 ||ticktockhealth.com^
 ||tidafors.xyz^
@@ -17008,6 +17014,7 @@
 ||yxszy.com^
 ||yxxwyz.com^
 ||yxyhtea.com^
+||yy.jintonghua.com^
 ||yy1.fwccw.com^
 ||yy2018.jintonghua.com^
 ||yy58ju.com^
@@ -17311,7 +17318,9 @@
 ||zzbyb.xyz^
 ||zzcgw.cn^
 ||zzcw.office-mall.net^
+||zzfanwo.cn^
 ||zzhszj.com^
+||zzjs2.firefang.cn^
 ||zzkfs.xyz^
 ||zzkoubei.com^
 ||zzmmkj.com^
