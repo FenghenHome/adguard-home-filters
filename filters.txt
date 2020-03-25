@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-03-2020 16:01 UTC
-! Count: 17,339
+! Last Modified: 25-03-2020 16:49 UTC
+! Count: 17,342
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -364,6 +364,7 @@
 ||2016.sina.cn^
 ||2016bobo.cf^
 ||2017img.myxh999.com^
+||2018haoyunlai.com^
 ||202m.com^
 ||203710.com^
 ||2048hd.space^
@@ -1564,6 +1565,7 @@
 ||adminer.com^
 ||adminpromotion.com^
 ||admsapi.businessweekly.com.tw^
+||admusicpic.music.126.net^
 ||adn.ebay.com^
 ||adnet.sohu.com^
 ||adnetpub.yaolan.com^
@@ -1765,7 +1767,6 @@
 ||adslvseed.qq.com^
 ||adsmart.yicha.cn^
 ||adsmind.apdcdn.tc.qq.com^
-||adsmind.gdtimg.com^
 ||adsmogo.com^
 ||adsmogo.net^
 ||adsolution.imtt.qq.com^
@@ -5260,6 +5261,7 @@
 ||dip.szhyzkj.com^
 ||dipan.com^
 ||dir.minigame.qq.com^
+||direct.wap.zol.com.cn^
 ||directrev.com^
 ||dirt.dennis.co.uk^
 ||disappenedy.site^
@@ -6430,7 +6432,6 @@
 ||fccxgjg.com^
 ||fchio.com^
 ||fclick.baidu.com^
-||fclog.baidu.com^
 ||fcm.baidu.com^
 ||fcrdb.com^
 ||fcsass.org.cn^
@@ -8249,6 +8250,7 @@
 ||isgprivacy.cbsi.com^
 ||ishowbg.com^
 ||ishowms.com^
+||ishuoshuo.com^
 ||isitone.com^
 ||issuecdn.baidupcs.com^
 ||isupopc.com^
@@ -8456,6 +8458,7 @@
 ||jinchaoyu.com^
 ||jincreasteregy.site^
 ||jindu179.com^
+||jinfengit.com^
 ||jing.58.com^
 ||jingavot.com^
 ||jingdayiyuan.com^
@@ -8471,6 +8474,7 @@
 ||jinshasi.cn^
 ||jinshui2018.chalook.net^
 ||jinsoopt.net^
+||jintonghua.com^
 ||jioeg.com^
 ||jipinapi.panqis.cn^
 ||jisucn.com^
@@ -8675,7 +8679,6 @@
 ||jsadt.com^
 ||jsaik.com^
 ||jsapi.html5.qq.com^
-||jsapi.qq.com^
 ||jsb.qianzhan.com^
 ||jscccc.cc^
 ||jsccnn.com^
@@ -9100,6 +9103,7 @@
 ||laolinow.com^
 ||laomaotao.net^
 ||laoqu123.com^
+||laoxier365.com^
 ||laserveradedomaina.com^
 ||lashou1000.com^
 ||lassistslegisten.info^
@@ -10309,6 +10313,7 @@
 ||mdous.com^
 ||mdrecv.app.cntvwb.cn^
 ||mdsfzh.cn^
+||mdt.qq.com^
 ||mdzvoi.cn^
 ||me-cdn.effectivemeasure.net^
 ||me0715.top^
@@ -11458,9 +11463,6 @@
 ||osupdateservice.yunos.com^
 ||osvp2.cn^
 ||otf.msn.com^
-||oth.eve.mdt.qq.com^
-||oth.str.mdt.qq.com^
-||oth.update.mdt.qq.com^
 ||other.v.duowan.com^
 ||otheve.beacon.qq.com^
 ||otheve.play.aiseet.atianqi.com^
@@ -12120,6 +12122,7 @@
 ||pryrhoohs.site^
 ||ps.3fenge.com^
 ||ps.ecosia.org^
+||ps868.xyz^
 ||psfq.gou.sogou.com^
 ||psgch.xyz^
 ||psma02.com^
@@ -12620,7 +12623,6 @@
 ||res.bid.ljrtb.cn^
 ||res.cocounion.com^
 ||res.dxpmedia.com^
-||res.imtt.qq.com^
 ||res.ipingke.com^
 ||res.mi.baidu.com^
 ||res.mmstat.com^
@@ -12698,6 +12700,7 @@
 ||rmcxw.net^
 ||rmetop.com^
 ||rmoeu.mercury.sogou.com^
+||rmpad.imtt.qq.com^
 ||rmw.jdburl.com^
 ||rmwdn.com^
 ||rndntpmgnj-a.akamaihd.net^
@@ -13035,6 +13038,7 @@
 ||sciencelolb.com^
 ||scimg.27admin.com^
 ||scis.tbs.co.jp^
+||scjcgj.top^
 ||sclick.6rooms.com^
 ||sclick.baidu.com^
 ||sclizhong.com^
@@ -13297,7 +13301,6 @@
 ||service.urchin.com^
 ||service4refresh.info^
 ||servicetick.com^
-||servicewechat.com^
 ||serving-sys.com^
 ||serving.bepolite.eu^
 ||session-tracker.badcreditloans.com^
@@ -16404,7 +16407,6 @@
 ||x.120ask.com^
 ||x.9dagui.com^
 ||x.9zt8hy.com^
-||x.adnet.qq.com^
 ||x.adpro.cn^
 ||x.allabout.co.jp^
 ||x.bidswitch.com^
@@ -16490,6 +16492,7 @@
 ||xeozir.com^
 ||xfn6.monaco.edu^
 ||xfo.monesyy.com^
+||xfya3.cn^
 ||xfytjx.cn^
 ||xgmc6lu8fs.me^
 ||xhaiu.com^
@@ -16827,6 +16830,7 @@
 ||yfxpcode.m.gxwztv.com^
 ||yfycy.com^
 ||yfzcuw.cn^
+||yg10x.cn^
 ||ygblogtag.cn^
 ||ygqczh.com^
 ||yguap.com^
@@ -16930,6 +16934,7 @@
 ||yoc.younited-credit.com^
 ||yofoto.ltd^
 ||yoiur.com^
+||yokebao.com^
 ||yong.chazidian.com^
 ||yongkang6.com^
 ||yoo.yiiyoo.net^
@@ -17053,9 +17058,7 @@
 ||yxszy.com^
 ||yxxwyz.com^
 ||yxyhtea.com^
-||yy.jintonghua.com^
 ||yy1.fwccw.com^
-||yy2018.jintonghua.com^
 ||yy58ju.com^
 ||yybos.com.cn^
 ||yyeks.com^
