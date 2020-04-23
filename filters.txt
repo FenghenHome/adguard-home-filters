@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-04-2020 16:19 UTC
-! Count: 17,858
+! Last Modified: 23-04-2020 16:22 UTC
+! Count: 17,877
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -60,6 +60,7 @@
 @@||newad.mail.wo.cn^
 @@||optout.networkadvertising.org^
 @@||www.gsxt.gov.cn^
+||00-gov.cn^
 ||0024aaaa.com^
 ||0024aadd.com^
 ||003store.com^
@@ -546,6 +547,7 @@
 ||42rca.cn^
 ||4336wang.cn^
 ||4480dy.net^
+||4481bff8825.com^
 ||456c11816f.com^
 ||456juhd.com^
 ||459517eb349739b.com^
@@ -692,6 +694,7 @@
 ||644446.com^
 ||645yvcj6c8rn.com^
 ||649558.com^
+||64ri.cn^
 ||64si.com^
 ||652748.com^
 ||65h79.cn^
@@ -779,6 +782,7 @@
 ||755431a59e7.com^
 ||757g7g.cn^
 ||7631.com^
+||7651d44da06c.com^
 ||766ba.net^
 ||76802.net^
 ||76e.org^
@@ -919,6 +923,7 @@
 ||911.cc^
 ||913nd.dieti-natura.es^
 ||913vt.com^
+||9188car.com^
 ||91byy.cn^
 ||91hui.com^
 ||91luopan.com^
@@ -1185,6 +1190,7 @@
 ||aa.xiangxiangmf.com^
 ||aa.zldh123.com^
 ||aa1.ifeng.com^
+||aaa.tumanyi.com^
 ||aaan.xyz^
 ||aaaw.xyz^
 ||aabbccddeeffgg.cn^
@@ -3998,6 +4004,7 @@
 ||chengzhao95511.com^
 ||chenxiangqian.cn^
 ||chenyanjiao.cn^
+||chenzx.site^
 ||chersc.com^
 ||chexiw.com^
 ||chfuw.com^
@@ -5331,6 +5338,7 @@
 ||delivery.smashing.services^
 ||delivery.thebloggernetwork.com^
 ||delivery.wasu.cn^
+||demannewcure.site^
 ||demo.jointreport-switch.com^
 ||demo.rhombusads.com^
 ||demo.xinqcr.com^
@@ -6662,6 +6670,7 @@
 ||feb.hdingkun.com^
 ||febadu.com^
 ||fecjf.cn^
+||fed21ff011.com^
 ||fedsit.com^
 ||feed.baidu.com^
 ||feed.r-tb.com^
@@ -7451,6 +7460,7 @@
 ||guxiaom.cn^
 ||guzijie.top^
 ||gvee.top^
+||gvt1.com^
 ||gw.d.ywopt.com^
 ||gw069.com^
 ||gw5.push.mcp.weibo.cn^
@@ -7686,6 +7696,7 @@
 ||hemnes.win^
 ||henanfs.com^
 ||henanlinyu.cn^
+||henanlvyi.com^
 ||henduoqian.com^
 ||hengshui1.com^
 ||heraldscotland-gb.heraldscotland.com^
@@ -11519,6 +11530,7 @@
 ||npcdn1.now.sh^
 ||npdaqy6x1j.me^
 ||nq37f.cn^
+||nq93jx1vpq9r.com^
 ||nqfwx.cn^
 ||nqrkzcd7ixwr.com^
 ||nr1234.com^
@@ -12737,6 +12749,7 @@
 ||qmkdy.com^
 ||qmlcdlo.cn^
 ||qmname.com^
+||qmvezbh0l28w.com^
 ||qn.bejson.com^
 ||qneit.com^
 ||qnvih8.cn^
@@ -16317,6 +16330,7 @@
 ||vmstats.varrando.com^
 ||vmzqwz.cn^
 ||vn543.com^
+||vn6e8w2w92.com^
 ||vnanf.com^
 ||vnf4.belleetbio.com^
 ||vnl1.voyage-prive.nl^
@@ -16442,6 +16456,7 @@
 ||wan.rising.cn^
 ||wan.sogou.com^
 ||wancai.com^
+||wandara113.xyz^
 ||wanfcc.com^
 ||wanfukang.cc^
 ||wangbase.com^
@@ -16600,6 +16615,7 @@
 ||wer.bendougou.cn^
 ||werpig.com^
 ||wervp.com^
+||westerdayeol.site^
 ||wew.dushiwenxue.net^
 ||weyyae.com^
 ||wf.taboola.com^
@@ -16732,6 +16748,7 @@
 ||woovooza.net^
 ||worcesternews-gb.worcesternews.co.uk^
 ||wordc.ga^
+||wordshipopa.club^
 ||woredi.com^
 ||workbizs.com^
 ||worker.salon.com^
@@ -16820,6 +16837,7 @@
 ||wwis-dubc1-vip60.adobe.com^
 ||wwlolbs.com^
 ||www-777563.com^
+||www-sina-cn-com.com^
 ||www.32414.com^
 ||www.3alian.net^
 ||www.adm668.com^
@@ -17104,6 +17122,7 @@
 ||xn--fjqz50cv5q3so.ltd^
 ||xn--fjqz50cv5q3so.online^
 ||xn--i6qs37am6iwyqffc.com^
+||xn--i7qt52bvsr0u0a.com^
 ||xn--mtso8sj6menhyil.online^
 ||xn--mtsr39cnql.video^
 ||xn--tst552fo5s.xyz^
