@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-05-2020 16:32 UTC
-! Count: 18,404
+! Last Modified: 24-05-2020 16:33 UTC
+! Count: 18,431
 !
 ! Sources:
 ! http://tools.yiclear.com/ChinaList2.0.txt
@@ -704,6 +704,7 @@
 ||5mbd2.com^
 ||5pb266.com^
 ||5pub.com^
+||5q68n.cn^
 ||5q80n.cn^
 ||5rxk.cn^
 ||5t4o.cn^
@@ -1581,6 +1582,7 @@
 ||adashxgc.ut.taobao.com^
 ||adbana.com^
 ||adbd.liuxue86.com^
+||adbehavior.ximalaya.com^
 ||adbidgo.com^
 ||adbma.adk2.co^
 ||adbot.tw^
@@ -1992,6 +1994,7 @@
 ||adziondin.club^
 ||adzjzewsma.cf^
 ||ae.bdstatic.com^
+||ae01.alicdn.com^
 ||ae4.ifeng.com^
 ||ae7c783736eb2ff.com^
 ||aebadu.com^
@@ -2185,6 +2188,7 @@
 ||alflying.win^
 ||alhistoriousg.info^
 ||ali2a.xyz^
+||ali2d.xyz^
 ||alicmayuns.com^
 ||alifixed.cn^
 ||aliguojw.com^
@@ -2644,6 +2648,7 @@
 ||api.yuedu.iqiyi.com^
 ||api.zol.com^
 ||api0.tuisong.baidu.com^
+||api1.888zy.cn^
 ||api1.tuisong.baidu.com^
 ||api2.analysys.cn^
 ||api2.play.cn^
@@ -2903,6 +2908,7 @@
 ||authedmine.eu^
 ||authedwebmine.cz^
 ||author.bloggerads.net^
+||authorneratu.club^
 ||authornernsa.pro^
 ||autobedo.com.cn^
 ||autologica.ga^
@@ -5904,6 +5910,7 @@
 ||ds.jlbksy.com^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
+||dsa-mfp.fengshows.cn^
 ||dsadas.hydp188.com^
 ||dscry.com^
 ||dsd.dxwpedu.me^
@@ -5944,6 +5951,7 @@
 ||dtsedge.com^
 ||dtto8zfzskfoa.cloudfront.net^
 ||dtzysm.com^
+||du.163.com^
 ||du.biqukan.com^
 ||du.jd.com^
 ||du01z5hhojprz.cloudfront.net^
@@ -6543,6 +6551,7 @@
 ||engage-cdn.schibsted.media^
 ||engagefront.theweathernetwork.com^
 ||engine.carbonads.com^
+||engine.laweekly.com^
 ||engine.tuia.cn^
 ||engine.tuicoco.com^
 ||englingedrxa.club^
@@ -6866,6 +6875,7 @@
 ||fccxgjg.com^
 ||fchio.com^
 ||fclick.baidu.com^
+||fclog.baidu.com^
 ||fcm.baidu.com^
 ||fcrdb.com^
 ||fcsass.org.cn^
@@ -7703,6 +7713,7 @@
 ||guxiaom.cn^
 ||guzijie.top^
 ||gvee.top^
+||gw.365you.com^
 ||gw.d.ywopt.com^
 ||gw069.com^
 ||gw5.push.mcp.weibo.cn^
@@ -8145,6 +8156,7 @@
 ||houanjijuxie.cn^
 ||houdaolj.com^
 ||hounicuy.com^
+||hourselflosu.site^
 ||housandady.site^
 ||housopsi.net^
 ||houtai.2345.com^
@@ -8249,6 +8261,7 @@
 ||hy-dy.cn^
 ||hy.huangye88.com.cn^
 ||hy.huangye88.net^
+||hybird.rayjump.com^
 ||hycfxdc.com^
 ||hydra.alibaba.com^
 ||hyfh.benbaisteel.com^
@@ -8316,6 +8329,7 @@
 ||i.tapit.com^
 ||i.tddmp.com^
 ||i.viafoura.co^
+||i.w.inmobi.cn^
 ||i.w55c.net^
 ||i.zhuoyaju.com^
 ||i05h.cn^
@@ -8329,6 +8343,7 @@
 ||i4.fuimg.com^
 ||i5.akjunshi.com^
 ||i568vc.cn^
+||i8.i8ggwm.com^
 ||i87b3.cn^
 ||i92xue.com^
 ||ia.ctags.cn^
@@ -9686,6 +9701,7 @@
 ||lb.usemaxserver.de^
 ||lbaij.com^
 ||lbaoj.com^
+||lbs.map.qq.com^
 ||lbstatic-a.akamaihd.net^
 ||lc1b2.cn^
 ||lc442.com^
@@ -10878,6 +10894,7 @@
 ||mb.zam.com^
 ||mbai.cn^
 ||mbaik.com^
+||mbd.baidu.com^
 ||mbd.weathercn.com^
 ||mbdlog.iqiyi.com^
 ||mbethnarrowe.info^
@@ -11167,6 +11184,7 @@
 ||miracan.pw^
 ||mirafaren.pw^
 ||mis.g.mi.com^
+||misc.wcd.qq.com^
 ||misdem.pro^
 ||miserintesto.site^
 ||mitotach.com^
@@ -11231,6 +11249,7 @@
 ||mmm.carbuyer.co.uk^
 ||mmm.theweek.co.uk^
 ||mmnetwork.mobi^
+||mmnk.s4d.xyz^
 ||mmpnierhio.com^
 ||mmpuh.cn^
 ||mms.al.com^
@@ -12174,6 +12193,7 @@
 ||otsurvedchange.info^
 ||ou15r.cn^
 ||oughgoalityabo.info^
+||oukreesy.net^
 ||oul78c.cn^
 ||oulvtrip.com^
 ||oumazg.com^
@@ -12306,6 +12326,7 @@
 ||pangu.cc^
 ||panwenjun.top^
 ||paochala.net^
+||paopao-monitor.iqiyi.com^
 ||paopao.iqiyi.com^
 ||paopao0.qiyipic.com^
 ||paopao1.qiyipic.com^
@@ -13254,6 +13275,7 @@
 ||rad.msn.com^
 ||rad.reporo.net^
 ||radar.imgsmail.ru^
+||raddus.bayescom.com^
 ||raenfh9tkuka.com^
 ||raeqqe.cn^
 ||rainfinemalawi.com^
@@ -13301,6 +13323,7 @@
 ||rd.autohome.com.cn^
 ||rd.e.sogou.com^
 ||rd.wan.360.cn^
+||rd596n.jomodns.com^
 ||rdbd.xsread.com^
 ||rddywd.com^
 ||rdingperhan.site^
@@ -13943,6 +13966,7 @@
 ||sdkm.w.inmobi.cn^
 ||sdkpay.uu.cc^
 ||sdksp.video.qq.com^
+||sdktm.w.inmobi.cn^
 ||sdn.chaxiaohao.top^
 ||sdn.gongkao.hn.cn^
 ||sdn.kugou.com^
@@ -16418,6 +16442,7 @@
 ||umc.danuoyi.alicdn.com^
 ||umeng.com^
 ||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
 ||umid.orion.meizu.com^
 ||umiwi.com^
 ||umjsik.com^
@@ -17796,6 +17821,8 @@
 ||yanjunbo.com^
 ||yantairuide.com^
 ||yaohq.com^
+||yaolu.mh.163.com^
+||yaolu.yuedu.163.com^
 ||yaoxiaoli.com^
 ||yaoyl.com^
 ||yap.yahoo.com^
