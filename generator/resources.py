@@ -6,6 +6,7 @@ import re
 import os
 import locale
 import yaml
+import chardet
 
 # Set the locale to UTF-8
 locale.setlocale(locale.LC_ALL, 'en_GB.UTF-8')
@@ -37,7 +38,11 @@ def fetch_url(url):
         return
 
     # Read and decode
-    response = response.read().decode('UTF-8').replace('\r\n', '\n')
+    # response = response.read().decode('UTF-8').replace('\r\n', '\n')
+    html_byte = response.read()
+    html_chardit = chardet.detect(html_byte)
+    html_string = html_byte.decode(html_chardit['encoding']).encode('UTF-8')
+    response = html_string.decode('UTF-8').replace('\r\n', '\n')
 
     # If there is data
     if response:
