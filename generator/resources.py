@@ -41,7 +41,7 @@ def fetch_url(url):
     # response = response.read().decode('UTF-8').replace('\r\n', '\n')
     html_byte = response.read()
     html_chardit = chardet.detect(html_byte)
-    print html_chardit
+    print(html_chardit)
     response = html_byte.decode(html_chardit['encoding']).replace('\r\n', '\n')
 
     # If there is data
