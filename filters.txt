@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 31-05-2020 16:35 UTC
-! Count: 18,495
+! Last Modified: 01-06-2020 16:39 UTC
+! Count: 18,493
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -154,6 +154,7 @@
 ||0x5.me^
 ||0xxd.com^
 ||0z5jn.cn^
+||1-vr.xyz^
 ||1.01fy.cn^
 ||1.1010pic.com^
 ||1.11467.com^
@@ -1226,7 +1227,6 @@
 ||aa.zldh123.com^
 ||aa1.ifeng.com^
 ||aaa.tumanyi.com^
-||aaaf.info^
 ||aaan.xyz^
 ||aaaw.xyz^
 ||aabbccddeeffgg.cn^
@@ -2712,7 +2712,7 @@
 ||appget.cn^
 ||appgift.sinaapp.com^
 ||appimg.0575bbs.com^
-||appl.1-vr.xyz^
+||appl.1-m.xyz^
 ||apple.www.letv.com^
 ||applequan.com^
 ||applog.uc.cn^
@@ -2901,6 +2901,7 @@
 ||author.bloggerads.net^
 ||authorneratu.club^
 ||authornernsa.pro^
+||authorneryj.club^
 ||autobedo.com.cn^
 ||autologica.ga^
 ||automationeventually.com^
@@ -2998,8 +2999,6 @@
 ||b2.0430.com^
 ||b25ku.cn^
 ||b3.jandan.net^
-||b4215c8f2c1.com^
-||b460e308b59.com^
 ||b4q982rbqdsw.com^
 ||b4xuj.zzhhts.com^
 ||b54ah.cn^
@@ -3011,7 +3010,6 @@
 ||b9377h.com^
 ||b96bcea4.cc^
 ||b99u.top^
-||ba138901a1dd4534b2d0.com^
 ||bab.frb.io^
 ||babalink.net^
 ||babalink.top^
@@ -3804,12 +3802,10 @@
 ||c6.friok.com^
 ||c6.lnymd.com^
 ||c6z85.cn^
-||c74df06d52c9da686f17.com^
 ||c753738.r38.cf2.rackcdn.com^
 ||c77777777.com^
 ||c82d5.cn^
 ||ca.5173car.com^
-||ca.clcknads.pro^
 ||ca.cydp5.com^
 ||ca.w8.com.cn^
 ||ca88b.cn^
@@ -4053,7 +4049,6 @@
 ||cdyqc.com^
 ||cdzimeijia.com^
 ||ce.lijit.com^
-||ce0dc8aa55.com^
 ||cebadu.com^
 ||ced.sascdn.com^
 ||cee1.iteye.com^
@@ -4243,6 +4238,7 @@
 ||clcassd.com^
 ||clck.yandex.com^
 ||clck.yandex.ru^
+||clcknads.pro^
 ||clcknpop.com^
 ||cleaner.baidu.com^
 ||cleaneryelded.site^
@@ -6303,7 +6299,6 @@
 ||e708.net^
 ||e719.net^
 ||e77lmzbqou0n-a.akamaihd.net^
-||e860045edaecd.com^
 ||e98fe.luytr.com^
 ||e9emh.cn^
 ||ea.auchantelecom.fr^
@@ -7633,6 +7628,7 @@
 ||gragliapastri.info^
 ||gralfusnzpo003.top^
 ||gralfusnzpo004.top^
+||gralfusnzpo006.top^
 ||gramombird.com^
 ||grampouz.net^
 ||granticaffodily.club^
@@ -9956,7 +9952,6 @@
 ||localads-statistics.maps.me^
 ||location.bloomberg.com^
 ||locothet.com^
-||loes.1-vr.xyz^
 ||log-dmp.suishenyun.cn^
 ||log-stats.weathercn.com^
 ||log.120ask.com^
@@ -14480,6 +14475,7 @@
 ||soagrist.net^
 ||sobar.baidu.com^
 ||sobartop.baidu.com^
+||sobolong.com^
 ||socdm.com^
 ||socket.streamable.com^
 ||sod.onelink.me^
@@ -17297,6 +17293,7 @@
 ||wm.yololike.space^
 ||wmedia-track.uc.cn^
 ||wmedia.adk2x.com^
+||wmeng.feihuadns.com^
 ||wmflabs.org^
 ||wmtech.website^
 ||wn.x.jd.com^
@@ -17375,6 +17372,7 @@
 ||wstat.wibiya.com^
 ||wstats.e-wok.tv^
 ||wstztt.com^
+||wsvike.cn^
 ||wsxxu.com^
 ||wszzb.top^
 ||wt.adtrue24.com^
