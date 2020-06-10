@@ -1,6 +1,6 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-06-2020 16:40 UTC
+! Last Modified: 10-06-2020 16:41 UTC
 ! Count: 18,674
 !
 ! Sources:
@@ -13,6 +13,7 @@
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ! https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 ! https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/127.0.0.1/full/hosts
+! https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 ! https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ! https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 !
@@ -1354,7 +1355,6 @@
 ||activity.clotfun.xyz^
 ||activity.frequency.com^
 ||activity.homescape.com^
-||activity.serving-sys.com^
 ||activity.tuifish.com^
 ||activity.tuipear.com^
 ||activity.yuyiya.com^
@@ -1727,7 +1727,6 @@
 ||adriver-sync.rutarget.ru^
 ||adrs.sdo.com^
 ||adrunnr.com^
-||ads-a.juicyads.com^
 ||ads-trk.vidible.tv^
 ||ads-union.jd.com^
 ||ads-west-colo.adsymptotic.com^
@@ -1768,7 +1767,6 @@
 ||ads.house365.com^
 ||ads.ign.com^
 ||ads.intergi.com^
-||ads.juicyads.com^
 ||ads.matomymobile.com^
 ||ads.mdotm.com^
 ||ads.mobclix.com^
@@ -1796,7 +1794,6 @@
 ||ads.stickyadstv.com^
 ||ads.supfast.net^
 ||ads.traffichunt.com^
-||ads.trafficjunky.net^
 ||ads.tripod.lycos.co.uk^
 ||ads.tripod.lycos.de^
 ||ads.tripod.lycos.es^
@@ -1869,7 +1866,6 @@
 ||adserver.adtechjp.com^
 ||adserver.adtechus.com^
 ||adserver.aol.fr^
-||adserver.juicyads.com^
 ||adserver.pandora.com^
 ||adserver.rhombusads.com^
 ||adserver.ubiyoo.com^
@@ -1894,6 +1890,7 @@
 ||adshow.it168.com^
 ||adshows.21cn.com^
 ||adsin.zhangyoubao.com^
+||adskeeper.co.uk^
 ||adslvfile.qq.com^
 ||adslvseed.qq.com^
 ||adsmart.yicha.cn^
@@ -1904,7 +1901,6 @@
 ||adsolution.imtt.qq.com^
 ||adson.awempire.com^
 ||adsp.xunlei.com^
-||adspaces.ero-advertising.com^
 ||adsqqclick.qq.com^
 ||adsrich.qq.com^
 ||adsrv.me^
@@ -1976,6 +1972,7 @@
 ||adxxx.com^
 ||adytx.com^
 ||adz.zwee.ly^
+||adzerk.net^
 ||adziondin.club^
 ||adzjzewsma.cf^
 ||ae.bdstatic.com^
@@ -2110,6 +2107,7 @@
 ||aid.send.microad.jp^
 ||aidaicn.com^
 ||aider-res.meizu.com^
+||aidigua.com^
 ||aigou023.com^
 ||aijielang.cn^
 ||aikan6.com^
@@ -2249,6 +2247,7 @@
 ||ampugi334f.com^
 ||amradmin.5173.com^
 ||ams.fx678.com^
+||amung.us^
 ||an.biocoop.cn^
 ||an.m.liebao.cn^
 ||an.yandex.ru^
@@ -3498,6 +3497,7 @@
 ||blissfulonline.com^
 ||blockadsnot.com^
 ||blockchained.party^
+||blogamethu.com^
 ||blogdaka.cc^
 ||blogdaka.xyz^
 ||bloglife24.com^
@@ -3605,10 +3605,8 @@
 ||bs.5442.com^
 ||bs.csshq.com.cn^
 ||bs.lamrd.cn^
-||bs.serving-sys.com^
 ||bs.yandex.ru^
 ||bs14.9669.cn^
-||bsch.serving-sys.com^
 ||bscy05.cn^
 ||bshare.cn^
 ||bskeye.com^
@@ -4234,7 +4232,6 @@
 ||cjsdtj.com^
 ||ck.1o26.com^
 ||ck.houyi.baofeng.net^
-||ck.juicyads.com^
 ||ckaiv.com^
 ||ckardwithinktab.info^
 ||ckg.vipyl.com^
@@ -4580,6 +4577,7 @@
 ||combitly.com^
 ||comesgo.com^
 ||comet.ibsrv.net^
+||comgnnyx.com^
 ||cominghamer.info^
 ||comm.app.autohome.com.cn^
 ||commdata.v.qq.com^
@@ -4839,6 +4837,7 @@
 ||creative.1111cpc.com^
 ||creative.jdkic.com^
 ||creative.ltheanine.cn^
+||creative.xtendmedia.com^
 ||creatives.cliphunter.com^
 ||creatives.ftchinese.com^
 ||creatives.inmotionhosting.com^
@@ -4914,7 +4913,6 @@
 ||ctobsnssdk.com^
 ||ctr-iwb.nmg.de^
 ||ctr-opc.nmg.de^
-||ctrack.trafficjunky.net^
 ||ctrhfd.top^
 ||ctripatm.cn^
 ||cts.vresp.com^
@@ -5406,7 +5404,6 @@
 ||data.xici.net^
 ||data.younow.com^
 ||data2.gosquared.com^
-||datacapture.serving-sys.com^
 ||datadog-service.mvfglobal.com^
 ||datafastguru.info^
 ||dataflow.biliapi.com^
@@ -5923,11 +5920,9 @@
 ||drxrc.com^
 ||dryzapsol.com^
 ||ds-aksb-a.akamaihd.net^
-||ds-ll.serving-sys.com^
 ||ds-pc.admsger.com^
 ||ds.haaretz.co.il^
 ||ds.jlbksy.com^
-||ds.serving-sys.com^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds88pc0kw6cvc.cloudfront.net^
 ||dsa-mfp.fengshows.cn^
@@ -6573,7 +6568,6 @@
 ||enennsa.gushiwen.cn^
 ||engage-cdn.schibsted.media^
 ||engagefront.theweathernetwork.com^
-||engine.adzerk.net^
 ||engine.carbonads.com^
 ||engine.laweekly.com^
 ||engine.tuia.cn^
@@ -6632,6 +6626,7 @@
 ||erkhxw.com^
 ||ermao.sikabeila.com^
 ||ermaseuc.ru^
+||ero-advertising.com^
 ||erocw.com^
 ||erogaliv.com^
 ||erosyndc.com^
@@ -7284,7 +7279,6 @@
 ||ga-beacon.appspot.com^
 ||ga.canoe.ca^
 ||ga.kvideo.io^
-||ga.nsimg.net^
 ||ga.webdigi.co.uk^
 ||gaandroid.talkingdata.net^
 ||gadhx.cn^
@@ -8779,6 +8773,7 @@
 ||inside.bitcomet.com^
 ||inside.rtbasia.com^
 ||insight.fonecta.fi^
+||insightexpressai.com^
 ||insights.sitesearch360.com^
 ||insitez.blob.core.windows.net^
 ||inst.360safe.com^
@@ -9246,6 +9241,7 @@
 ||js.fc090.com^
 ||js.feitian001.com^
 ||js.fengniao.com^
+||js.fhxiaoshuo.com^
 ||js.firefang.cn^
 ||js.flpjc.com^
 ||js.gewuwen.com^
@@ -9311,7 +9307,6 @@
 ||jsaik.com^
 ||jsapi.html5.qq.com^
 ||jsb.qianzhan.com^
-||jsc.adskeeper.co.uk^
 ||jscccc.cc^
 ||jsccnn.com^
 ||jscdndel.com^
@@ -9359,6 +9354,8 @@
 ||ju33.com^
 ||jucaishequ.com^
 ||judaisydfs.club^
+||juiceads.net^
+||juicyads.com^
 ||julitenj.com^
 ||jullycn.com^
 ||jump.001union.com^
@@ -11076,7 +11073,6 @@
 ||media.mydas.mobi^
 ||media.net^
 ||media.tianjimedia.com^
-||media.trafficjunky.net^
 ||media8.cn^
 ||mediametrics.mpsa.com^
 ||mediator.mail.ru^
@@ -12032,6 +12028,7 @@
 ||nsclick.baidu.com^
 ||nsclickvideo.baidu.com^
 ||nsdsok.cn^
+||nsimg.net^
 ||nsjpu.com^
 ||nsnmiaomu.cn^
 ||nsoncandred.site^
@@ -12189,6 +12186,7 @@
 ||okeyletsgo.ml^
 ||okkkk.com^
 ||okm918.com^
+||okmuxdbq.com^
 ||okshishi.com^
 ||oktpage.com^
 ||okuis.com^
@@ -12237,7 +12235,9 @@
 ||onalentressionw.info^
 ||once88.cn^
 ||oncersshartsh.fun^
+||onclickads.net^
 ||onclickgenius.com^
+||onclickpredictiv.com^
 ||onclicktop.com^
 ||onclkds.com^
 ||onegalact.com^
@@ -14175,7 +14175,6 @@
 ||secure-au.imrworldwide.com^
 ||secure-chn.imrworldwide.com^
 ||secure-dk.imrworldwide.com^
-||secure-ds.serving-sys.com^
 ||secure-it.imrworldwide.com^
 ||secure-jp.imrworldwide.com^
 ||secure-nz.imrworldwide.com^
@@ -14332,9 +14331,9 @@
 ||service.jiagu.360.cn^
 ||service.urchin.com^
 ||service4refresh.info^
-||servicer.adskeeper.co.uk^
 ||services.hmhost.co.uk^
 ||servicetick.com^
+||serving-sys.com^
 ||serving.bepolite.eu^
 ||session-tracker.badcreditloans.com^
 ||session.timecommerce.net^
@@ -14858,6 +14857,7 @@
 ||ssl.51lhcx.com^
 ||ssl.aszy.club^
 ||ssl.hyhzy.cn^
+||ssl.trace.zhiziyun.com^
 ||ssl.woshishuish.top^
 ||ssl.ymapp.com^
 ||ssl.youkag.com^
@@ -15048,7 +15048,6 @@
 ||static.addtoany.com^
 ||static.ads-twitter.com^
 ||static.adxadserv.com^
-||static.adzerk.net^
 ||static.alimama.com^
 ||static.anquan.org^
 ||static.app.m.letv.com^
@@ -16341,7 +16340,10 @@
 ||trafficfactory.biz^
 ||trafficforce.com^
 ||trafficfuelpixel.s3-us-west-2.amazonaws.com^
+||traffichaus.com^
+||trafficjunky.net^
 ||trafficshirts.com^
+||trafficstars.com^
 ||trafforsrv.com^
 ||tralog.ganji.com^
 ||tran.news.so.com^
@@ -17125,7 +17127,6 @@
 ||vy74i.cn^
 ||vyule.com^
 ||vz-cdn.contentabc.com^
-||vz-cdn.trafficjunky.net^
 ||vz71j.cn^
 ||w.bid.ljrtb.cn^
 ||w.bobocn.cn^
@@ -17699,7 +17700,6 @@
 ||xalzny.xyz^
 ||xamaky.top^
 ||xamiqi.top^
-||xapi.juicyads.com^
 ||xavingtsun.com^
 ||xavua.com^
 ||xay5o.toscane-boutique.fr^
@@ -18199,6 +18199,7 @@
 ||yljmeishi.cn^
 ||yllanala.pw^
 ||yllasatra.xyz^
+||yllix.com^
 ||ylog.hiido.com^
 ||ylunion.com^
 ||ylwy168.com^
