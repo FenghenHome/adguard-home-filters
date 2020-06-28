@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 27-06-2020 16:48 UTC
-! Count: 18,852
+! Last Modified: 28-06-2020 16:49 UTC
+! Count: 18,863
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -60,6 +60,7 @@
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
 @@||optout.networkadvertising.org^
+@@||vd.l.qq.com^
 @@||www.gsxt.gov.cn^
 ||00-gov.cn^
 ||0024aaaa.com^
@@ -1025,6 +1026,7 @@
 ||9d7in.cn^
 ||9dtiny.cn^
 ||9e7gb.cn^
+||9egiyiyt1o18.com^
 ||9h6qq.cn^
 ||9kff.com^
 ||9ksj.xyz^
@@ -2786,6 +2788,7 @@
 ||areasons.club^
 ||areasonsimon.club^
 ||arejoysew.com^
+||arentpremi.space^
 ||arganostrella.com^
 ||argos.citruserve.com^
 ||aries.mzres.com^
@@ -4115,6 +4118,7 @@
 ||cem.hotelsapi.io^
 ||ceparateauab.info^
 ||cepegas.com^
+||cerizoug.net^
 ||certakesime.site^
 ||ceruchina.com^
 ||cesikelylibrarie.site^
@@ -4682,6 +4686,7 @@
 ||cookies.reedbusiness.nl^
 ||cookietracker.cloudapp.net^
 ||cookiex.ngd.yahoo.com^
+||coolcpms.com^
 ||coolertracks.emailroi.com^
 ||coolpadrom.cn^
 ||cooltool.cc^
@@ -6607,6 +6612,7 @@
 ||eleasuredfas.info^
 ||electureenbeli.site^
 ||electureencroo.site^
+||elemente.club^
 ||eleobj.com^
 ||elfirkelk.com^
 ||elivescousingcr.info^
@@ -7140,6 +7146,7 @@
 ||flv.ytshuirun.com^
 ||fm.qzone.qq.com^
 ||fm6w.com^
+||fmax.xyz^
 ||fnacgbik9v14.com^
 ||fninin.cn^
 ||fnkjj.com^
@@ -9640,6 +9647,7 @@
 ||kindznnd998.xyz^
 ||kinesisproxy.hearstlabs.com^
 ||kingdeecn.cn^
+||kingithinref.club^
 ||kingpolo.com.cn^
 ||kingsoft.com^
 ||kingwam.com^
@@ -9981,6 +9989,7 @@
 ||licensing.bitmovin.com^
 ||licensing.tableausoftware.com^
 ||lichaoliang.com^
+||lichtpass.com^
 ||lievr.cc^
 ||lieying.cn^
 ||life.html5.qq.com^
@@ -10300,6 +10309,7 @@
 ||lv55p.cn^
 ||lvehaisen.com^
 ||lvesgranticnor.fun^
+||lvetpermina.space^
 ||lvjian66.com^
 ||lvkuaizi.com^
 ||lvyishengtai.com^
@@ -12716,6 +12726,7 @@
 ||performances.bestofmedia.com^
 ||perhangeflets.site^
 ||perkas.pw^
+||perspoolothe.fun^
 ||pertholin.com^
 ||pertycleaner.site^
 ||perytakeryca.fun^
@@ -13474,6 +13485,7 @@
 ||qtupscp.tw^
 ||quadasdata.cn^
 ||quadrupleclick.com^
+||quaetabib.com^
 ||quancee.top^
 ||quandangdang.net^
 ||quanjiapp.cn^
@@ -13701,6 +13713,7 @@
 ||remarypolike.site^
 ||remote88.com^
 ||remotedu.cn^
+||remultiesbee.fun^
 ||rencai56.com^
 ||renhertfo.com^
 ||renminbao.com^
@@ -13804,6 +13817,7 @@
 ||rishenglaw.cn^
 ||risk.clearbit.com^
 ||ritiesagently.fun^
+||ritinghimse.space^
 ||river.zhidao.baidu.com^
 ||riverhit.com^
 ||rizeintellingente.info^
@@ -14158,6 +14172,7 @@
 ||sarjor.pw^
 ||sarydrinkletr.site^
 ||sas816.ujikdd041o.cn^
+||sasingfinities.space^
 ||sat.sanoma.fi^
 ||satismeter.com^
 ||saturalerdax.site^
@@ -16502,6 +16517,7 @@
 ||tracks.arubamediamarketing.it^
 ||trackspeeder.com^
 ||tracksrv.zdf.de^
+||tracktraf.com^
 ||tracy.sadv.dadapro.com^
 ||tradeadexchange.com^
 ||tradecraft.s.llnwi.net^
@@ -16930,6 +16946,7 @@
 ||urd103.analysys.cn^
 ||urd240.analysys.cn^
 ||urd345.analysys.cn^
+||urdercomp.space^
 ||uremechangec.info^
 ||urgwritishimpos.info^
 ||urhu.cn^
@@ -17151,6 +17168,7 @@
 ||vgo.vegaoo.pt^
 ||vgo.vegaooparty.com^
 ||vgo.vegaoopro.com^
+||vgw35hwr4w6x.com^
 ||vhec.jhjhyn.cn^
 ||vhhhkpf.cn^
 ||vhpxa.top^
@@ -17452,7 +17470,6 @@
 ||we.wecanimal.pt^
 ||weaponsort.club^
 ||weatherent.club^
-||web-jp.ad-v.jp^
 ||web-t.9gag.com^
 ||web-track.go2yd.com^
 ||web-track.telekom-dienste.de^
@@ -17580,11 +17597,9 @@
 ||whytoss.com^
 ||wi3brxwr2b3v.com^
 ||widget.crowdignite.com^
-||widget.kelkoo.com^
 ||widget.perfectmarket.com^
 ||widget.pushbullet.com^
 ||widget.quantcast.com^
-||widget.raaze.com^
 ||widget.searchschoolsnetwork.com^
 ||widget.shopstyle.com.au^
 ||widget.solarquotes.com.au^
@@ -17746,8 +17761,6 @@
 ||wtcpm.com^
 ||wtk.db.com^
 ||wtm.monitoringservice.co^
-||wtpn.twenga.co.uk^
-||wtpn.twenga.de^
 ||wtrace.cmgame.com^
 ||wtradv.market.xiaomi.com^
 ||wu.biquge.info^
@@ -17858,7 +17871,6 @@
 ||x.china1715.com^
 ||x.cnxad.com^
 ||x.da.hunantv.com^
-||x.eroticity.net^
 ||x.infzm.com^
 ||x.jd.com^
 ||x.lzspf.com^
@@ -17866,7 +17878,6 @@
 ||x.niuliyan.cn^
 ||x.ojgoy.cn^
 ||x.vamaker.com^
-||x.vipergirls.to^
 ||x.weather.com^
 ||x01.aidata.io^
 ||x0lh.cn^
