@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 03-07-2020 16:50 UTC
-! Count: 18,963
+! Last Modified: 04-07-2020 16:50 UTC
+! Count: 18,984
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -2657,7 +2657,6 @@
 ||api.tinyhoneybee.com^
 ||api.tongji.today^
 ||api.tr.blismedia.com^
-||api.ts.feedback.qy.net^
 ||api.tuisong.baidu.com^
 ||api.tv.sohu.com^
 ||api.tw06.xlmc.sec.miui.com^
@@ -3109,7 +3108,6 @@
 ||baiduada.babihu.com^
 ||baiduappu.top^
 ||baiduccdn1.com^
-||baiducdncmn.inter.iqiyi.com^
 ||baidujavascript.com^
 ||baidujs.cnys.com^
 ||baidujs.vip^
@@ -3641,12 +3639,14 @@
 ||brafsc.top^
 ||brain.foresee.com^
 ||brand.sogou.com^
+||brandnewapp.pro^
 ||brandshow.58.com^
 ||brassstacker.com^
 ||bravo.israelweather.co.il^
 ||brcache.madthumbs.com^
 ||breakinginfo.pro^
 ||breatedy.club^
+||breatmentbr.top^
 ||breeze.olclient.baofeng.com^
 ||bright.bncnt.com^
 ||brightadnetwork.com^
@@ -3766,6 +3766,7 @@
 ||c.bing.com^
 ||c.booksir.com.cn^
 ||c.bxb.oupeng.com^
+||c.caijing123.com^
 ||c.codeonclick.com^
 ||c.cyhx98.com^
 ||c.data.mob.com^
@@ -3936,6 +3937,8 @@
 ||car156.net^
 ||carbonads.net^
 ||cardmrket.com^
+||cards-css.iqiyi.com^
+||cards.iqiyi.com^
 ||caredaily.me^
 ||carl.pubsvs.com^
 ||carpenterrprp.com^
@@ -4315,6 +4318,7 @@
 ||cl5.webterren.com^
 ||claiks.com^
 ||clandia.cn^
+||clarins.com.cn^
 ||clarity.abacast.com^
 ||clarium.global.ssl.fastly.net^
 ||classic.39health.com^
@@ -4934,6 +4938,7 @@
 ||crs.baidu.com^
 ||crsspxl.com^
 ||crta.dailymail.co.uk^
+||crta.metro.co.uk^
 ||crwdcntrl.net^
 ||cryartarm.online^
 ||cryptaloot.pro^
@@ -6119,6 +6124,7 @@
 ||dwh-tracking.it.auth0.com^
 ||dwtrack.qidian.com^
 ||dwtracking.sdo.com^
+||dx-cards-css.iqiyi.com^
 ||dx1200.com^
 ||dxcssc.cn^
 ||dxe2.heip.fr^
@@ -6490,6 +6496,7 @@
 ||easyhash.de^
 ||easylist-to.xyz^
 ||easyrecoverychina.com^
+||eatmenticha.top^
 ||eavs02.eqifa.com^
 ||ebay.northernhost.com^
 ||ebetoni.com^
@@ -6991,7 +6998,6 @@
 ||fanxing.kugou.com^
 ||fanyi100.com.cn^
 ||fanzhuang.net.cn^
-||faq.brandnewapp.pro^
 ||faracoon.com^
 ||farm-cn.plista.com^
 ||farpeiros.pw^
@@ -7058,6 +7064,7 @@
 ||feed111.com^
 ||feed111.me^
 ||feed777.me^
+||feedback.qy.net^
 ||feedinburgew.site^
 ||feedinburgmands.site^
 ||feeds.videosz.com^
@@ -7120,6 +7127,7 @@
 ||fhbv.cn^
 ||fibpeeode.site^
 ||fibusedie.site^
+||fictimruffles.space^
 ||filament-stats.herokuapp.com^
 ||file.bmob.cn^
 ||files.adform.net^
@@ -7993,6 +8001,7 @@
 ||hadslimz.com^
 ||hadsoks.com^
 ||haftobso.net^
+||hagainstan.space^
 ||haimaokj.com^
 ||hainufamliy.top^
 ||haitaoad.nosdn.127.net^
@@ -8558,6 +8567,7 @@
 ||ia.ctags.cn^
 ||ia.ekstrabladet.dk^
 ||ia22.com^
+||iabusprivacy.pmc.com^
 ||iacpromotion.s3.amazonaws.com^
 ||iad.e.360.cn^
 ||iad.g.163.com^
@@ -8593,7 +8603,6 @@
 ||icemf.com^
 ||iche88.cn^
 ||iclickcdn.com^
-||icn.brandnewapp.pro^
 ||icn.southmoney.com^
 ||ico.58pic.com^
 ||icon.cnmo.com^
@@ -8946,6 +8955,7 @@
 ||intelli.ageuk.org.uk^
 ||intelligenceadx.com^
 ||intent.cbsi.com^
+||inter.iqiyi.com^
 ||interaction.bayimob.com^
 ||interactive.huanqiu.com^
 ||interest.mix.sina.com.cn^
@@ -9013,6 +9023,7 @@
 ||ishuoshuo.com^
 ||isitone.com^
 ||issuecdn.baidupcs.com^
+||istcommun.info^
 ||isupopc.com^
 ||itaoxiaoshuo.com^
 ||itcoder.top^
@@ -10341,6 +10352,7 @@
 ||lt.tritondigital.com^
 ||ltcprtc.com^
 ||ltdnc.com^
+||ltdome.com^
 ||ltg69t.com^
 ||lu.sogou.com^
 ||lu.sogoucdn.com^
@@ -11792,6 +11804,7 @@
 ||mto.multiopen.cn^
 ||mtqys.com^
 ||mtrace.qq.com^
+||mtrcs.samba.tv^
 ||mts-ws.rueducommerce.fr^
 ||mtty-cdn.mtty.xin^
 ||mu722.com^
@@ -12614,6 +12627,7 @@
 ||p1.interestingz.pw^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
+||p1wr6.cn^
 ||p2.ykauto.cn^
 ||p215223.mycdn2.co^
 ||p2p.huya.com^
@@ -12789,6 +12803,7 @@
 ||pennyotcstock.com^
 ||pentaxaws.cn^
 ||penxiangge.com^
+||pepsico.com.cn^
 ||perahbashmama.com^
 ||perf.dugout.com^
 ||perfordpetre.club^
@@ -12797,6 +12812,7 @@
 ||performances.bestofmedia.com^
 ||perhangeflets.site^
 ||perkas.pw^
+||perso.aws.arc.pub^
 ||perspoolothe.fun^
 ||pertholin.com^
 ||pertycleaner.site^
@@ -13221,6 +13237,7 @@
 ||productorbash.info^
 ||productorsy.pro^
 ||profbigo.com^
+||professonsd.top^
 ||profiling.avandor.com^
 ||prographiciko.site^
 ||prohibited.cn^
@@ -13648,6 +13665,7 @@
 ||rabc1.iteye.com^
 ||rabc2.iteye.com^
 ||rack.bauermedia.co.uk^
+||ractcogniser.top^
 ||rad.live.com^
 ||rad.microsoft.com^
 ||rad.msn.com^
@@ -13760,6 +13778,7 @@
 ||redirect.simba.taobao.com^
 ||redirect2719.ws^
 ||redirectgang.com^
+||redolymerse.top^
 ||redpaper-10006092.cos.myqcloud.com^
 ||ref.dealerinspire.com^
 ||referer.pixplug.in^
@@ -13953,6 +13972,7 @@
 ||roustast.net^
 ||routeme.one^
 ||routeserve.info^
+||rovenancyde.top^
 ||rowoardog.com^
 ||rp.crasheye.cn^
 ||rp.gwallet.com^
@@ -14207,6 +14227,7 @@
 ||sa.tuisong.baidu.com^
 ||sa0.tuisong.baidu.com^
 ||sa1.tuisong.baidu.com^
+||sa135.kiro7.com^
 ||sa135.macworld.co.uk^
 ||sa135.wsbtv.com^
 ||sa3.tuisong.baidu.com^
@@ -14409,6 +14430,7 @@
 ||sdsttt.com^
 ||sdtbhbyb.com^
 ||sdtld.net^
+||sdxctr.com^
 ||sdxkdj.cn^
 ||sdycd.com^
 ||sdytsh.com^
@@ -15976,7 +15998,6 @@
 ||target.smi2.ru^
 ||target.ukr.net^
 ||targetedmedia.com.cn^
-||targeting.perso.aws.arc.pub^
 ||targeting.voxus.tv^
 ||tartoals.net^
 ||taryarguestio.info^
@@ -16159,6 +16180,7 @@
 ||tijorari.com^
 ||tikn.hwgs.info^
 ||tikrailijorj.com^
+||tilfb.com^
 ||tilosman.com^
 ||tim.nextinpact.com^
 ||timelog.moviebox.baofeng.com^
@@ -17809,7 +17831,6 @@
 ||wowoyy.cc^
 ||woyvk.cn^
 ||wp-monero-miner.de^
-||wp.brandnewapp.pro^
 ||wpan.sc2yun.com^
 ||wpc.32df9.rhocdn.net^
 ||wpcdn1.herokuapp.com^
