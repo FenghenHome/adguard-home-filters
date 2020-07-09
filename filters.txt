@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 08-07-2020 16:52 UTC
-! Count: 19,027
+! Last Modified: 09-07-2020 16:52 UTC
+! Count: 19,045
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -1981,7 +1981,6 @@
 ||advstat.xunlei.com^
 ||adwasu.wasu.tv^
 ||adwo.com^
-||adx-log.pinduoduo.com^
 ||adx-static.ksosoft.com^
 ||adx.ads.oppomobile.com^
 ||adx.adxglobal.com^
@@ -1993,9 +1992,11 @@
 ||adxhi.com^
 ||adxhome.com^
 ||adxiaozi.com^
+||adxoo.com^
 ||adxpand.com^
 ||adxserver.ad.cmvideo.cn^
 ||adxxx.com^
+||adxxx.info^
 ||adytx.com^
 ||adz.zwee.ly^
 ||adzerk.net^
@@ -2080,6 +2081,7 @@
 ||aganj.com^
 ||agd.p.360.cn^
 ||agd2.p.360.cn^
+||agenoming.club^
 ||agg.inquisitr.com^
 ||agg.lifedaily.com^
 ||aggnr.groovesharks.org^
@@ -2207,6 +2209,7 @@
 ||ali2d.xyz^
 ||ali2f.xyz^
 ||alibdl.xyz^
+||alibdm.xyz^
 ||alibdn.xyz^
 ||alicmayuns.com^
 ||alifixed.cn^
@@ -2293,8 +2296,6 @@
 ||analysis.chinaiiss.com^
 ||analysis.shinobi.jp^
 ||analytic.imlive.com^
-||analytic.pho.fm^
-||analyticapi.pho.fm^
 ||analyticcdn.globalmailer.com^
 ||analytics-api.smzdm.com^
 ||analytics-cms.whitebeard.me^
@@ -2342,7 +2343,6 @@
 ||analytics.codigo.se^
 ||analytics.cohesionapps.com^
 ||analytics.competitoor.com^
-||analytics.conmio.com^
 ||analytics.convertlanguage.com^
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
@@ -2415,7 +2415,6 @@
 ||analytics.performable.com^
 ||analytics.photorank.me^
 ||analytics.piksel.com^
-||analytics.pinpoll.com^
 ||analytics.plex.tv^
 ||analytics.posttv.com^
 ||analytics.prezly.com^
@@ -2526,6 +2525,7 @@
 ||anhuilitian.net^
 ||aniashboy.club^
 ||anioscp.com^
+||anklandas.club^
 ||anlcld.com^
 ||anmeilai.net^
 ||ann5.net^
@@ -3167,6 +3167,7 @@
 ||barium.cheezdev.com^
 ||bartender.cc^
 ||bas.boshi.tv^
+||baselined.club^
 ||bat.adforum.com^
 ||bat.bing.com^
 ||bathibsa.com^
@@ -3801,6 +3802,7 @@
 ||c.lattebank.com^
 ||c.lelangegg.cn^
 ||c.live.com^
+||c.m.163.com^
 ||c.medialytics.com^
 ||c.mininini.cn^
 ||c.minisplat.cn^
@@ -4211,6 +4213,7 @@
 ||changmaoxinjzo.com^
 ||changxiukj.com^
 ||changyan.sohu.com^
+||channel.m.163.com^
 ||chaogej.com^
 ||chaojilamei.cn^
 ||chapesx.site^
@@ -5058,6 +5061,7 @@
 ||cyylove.com^
 ||cz.ifeng0.com^
 ||cz345.cn^
+||cz9k8b.top^
 ||czdqhyo1.net^
 ||czhcloud.cn^
 ||czjiuding.cn^
@@ -6091,7 +6095,6 @@
 ||dubkenduo.com^
 ||duchoono.com^
 ||dudm.qingsj.cn^
-||dufue2m4sondk.cloudfront.net^
 ||duhochid.net^
 ||duiwai.baidu.com^
 ||dumbpop.com^
@@ -6926,6 +6929,7 @@
 ||exoclick.com^
 ||exosrv.com^
 ||exp.3g.ifeng.com^
+||expansity.club^
 ||expbl2ro.xbox.com^
 ||expdb2.msn.com^
 ||experience.contextly.com^
@@ -6934,7 +6938,6 @@
 ||exter.weilanshan.com^
 ||extlog.snssdk.com^
 ||extmoney.i1608.com^
-||extra.tvmaze.com^
 ||extrementtgfa.site^
 ||extstat.com^
 ||exusr.com^
@@ -7217,6 +7220,7 @@
 ||fnacgbik9v14.com^
 ||fninin.cn^
 ||fnkjj.com^
+||fnpet.cn^
 ||fnx2n3rqbuw7.com^
 ||fnxmyx.cn^
 ||focuscat.com^
@@ -7377,6 +7381,7 @@
 ||fzz.cloud.1234507.com^
 ||g-content.bid^
 ||g-stats.openhost.es^
+||g.163.com^
 ||g.3lian.com^
 ||g.51network.com^
 ||g.6sfg.com^
@@ -7856,6 +7861,7 @@
 ||greenmentioned.com^
 ||greenocktelegraph-gb.greenocktelegraph.co.uk^
 ||greenxfs.down.123ch.cn^
+||greget3.com^
 ||grementessenti.info^
 ||grenatorkovsh.site^
 ||grexoacu.com^
@@ -7922,6 +7928,7 @@
 ||guidashu.com^
 ||guitarpro.cc^
 ||gunnersalmighty.com^
+||guominziben.com^
 ||guomob.com^
 ||guoxintdh.com^
 ||guq9.vente-unique.it^
@@ -7974,11 +7981,13 @@
 ||gzmxybg.com^
 ||gzmzts.com^
 ||gznsyh.com^
+||gznwn.com^
 ||gzqudou.com^
 ||gzrljx.cn^
 ||gzxiongwa.cn^
 ||gzxxty168.com^
 ||gzzena.com^
+||gzzuwo.com^
 ||h-adashx.ut.taobao.com^
 ||h-adashx4yt.ut.taobao.com^
 ||h-l.icu^
@@ -8192,6 +8201,7 @@
 ||herbaijansob.club^
 ||heredeithere.club^
 ||hereexpelli.space^
+||heregenessco.club^
 ||hermes.theglobeandmail.com^
 ||hesepd.cn^
 ||heshunjituan.com^
@@ -8398,6 +8408,7 @@
 ||hounicuy.com^
 ||hourselflosu.site^
 ||housandady.site^
+||housandq.club^
 ||housopsi.net^
 ||houtai.2345.com^
 ||houtanyun.com^
@@ -8593,7 +8604,6 @@
 ||iabusprivacy.pmc.com^
 ||iacpromotion.s3.amazonaws.com^
 ||iad.e.360.cn^
-||iad.g.163.com^
 ||iadc.qwapi.com^
 ||iadctest.qwapi.com^
 ||iadmat.nosdn.127.net^
@@ -9016,6 +9026,7 @@
 ||ipm.atm.cp31.ott.cibntv.net^
 ||ipm.corel.com^
 ||ipmatm.cp12.wasu.tv^
+||ipservice.163.com^
 ||ipsoorel.com^
 ||ipua.adfurikun.jp^
 ||iq24ne.cn^
@@ -9277,6 +9288,7 @@
 ||jingoulong.cn^
 ||jingxiangyalvji.cn^
 ||jinhonghao.cn^
+||jinlubaojie.cn^
 ||jinrungroup.cn^
 ||jinshagt222.com^
 ||jinshasi.cn^
@@ -9642,6 +9654,7 @@
 ||kakappp.com^
 ||kalmloda.com^
 ||kalstats.kaltura.com^
+||kan5.xyz^
 ||kan8.xyz^
 ||kanfaxing.com^
 ||kang08.com^
@@ -9986,6 +9999,7 @@
 ||ldingchristing.site^
 ||ldlwdsx.com^
 ||ldpgl.code.mytanwan.com^
+||ldwidentconc.space^
 ||ldy.350.com^
 ||ldy.adqku.cn^
 ||ldy.zfdvzp.cn^
@@ -10081,6 +10095,7 @@
 ||lichaoliang.com^
 ||lichtpass.com^
 ||licitventiethv.top^
+||lico-ys.com^
 ||lidsfoalliving.com^
 ||lievr.cc^
 ||lieying.cn^
@@ -10178,6 +10193,7 @@
 ||llguandongyan.com^
 ||llk.dlingtalk.cn^
 ||llqss.top^
+||llrnlzl.cn^
 ||lltrsknoob.click^
 ||llvez.com^
 ||lm.dawenxue.org^
@@ -12708,6 +12724,7 @@
 ||paholita.com^
 ||paimgcdn-feed.baidu.com^
 ||paintifiercute.club^
+||palm-ad.cn^
 ||palmnews.sina.cn^
 ||pam.nextinpact.com^
 ||pampopholf.com^
@@ -13789,7 +13806,6 @@
 ||reauthenticator.com^
 ||rebritingcyclo.fun^
 ||rec-pl.quartic.pl^
-||rec.g.163.com^
 ||rec.moviebox.baofeng.net^
 ||rec.udn.com^
 ||reckedmane.club^
@@ -13813,7 +13829,6 @@
 ||redir.metaservices.microsoft.com^
 ||redirect.simba.taobao.com^
 ||redirect2719.ws^
-||redirectgang.com^
 ||redolymerse.top^
 ||redpaper-10006092.cos.myqcloud.com^
 ||ref.dealerinspire.com^
@@ -15584,7 +15599,6 @@
 ||statstat888.com^
 ||statstracker.celebrity-gossip.net^
 ||statt-collect.herokuapp.com^
-||stattrack.0catch.com^
 ||statystyki.panelek.com^
 ||stbt.coupons.com^
 ||stdl.qq.com^
@@ -16562,7 +16576,6 @@
 ||tracking.batanga.com^
 ||tracking.battleon.com^
 ||tracking.bd4travel.com^
-||tracking.beilagen-prospekte.de^
 ||tracking.brandmentions.com^
 ||tracking.carsales.com.au^
 ||tracking.cat898.com^
@@ -16980,6 +16993,7 @@
 ||ultraiso.net^
 ||ultunivesrega.fun^
 ||uluswozzel.info^
+||ulyssianeq.club^
 ||um.simpli.fi^
 ||um0592.com^
 ||um2.eqads.com^
@@ -17131,6 +17145,7 @@
 ||userimg.qunar.com^
 ||usersegment.wpdigital.net^
 ||ushooque.net^
+||ustedpicklyba.space^
 ||ustralpublicate.site^
 ||ustriptomorbie.site^
 ||usty357a.site^
@@ -17460,7 +17475,6 @@
 ||vtale.org^
 ||vtf2f.banque-casino.fr^
 ||vtqifk86868.cn^
-||vtracking.in.com^
 ||vtrtl.de^
 ||vuahb.com^
 ||vupload.duowan.com^
@@ -18304,6 +18318,7 @@
 ||xstar.cc^
 ||xsu.cc^
 ||xsweb.pxuns.com^
+||xswfkco.cn^
 ||xsyouwei.cn^
 ||xszqapp.com^
 ||xt.eh6q.cn^
@@ -18526,6 +18541,7 @@
 ||yinyuehu.cn^
 ||yinyuncp.com^
 ||yinzantouzi.com^
+||yipanhaocai.com^
 ||yiqifa.com^
 ||yiqima.xyz^
 ||yiran686.cn^
@@ -18682,6 +18698,7 @@
 ||yule8.net^
 ||yulzs.com^
 ||yumcs.xiaohuau.xyz^
+||yumi06.com^
 ||yun.sifuhe.cn^
 ||yun.tuia.cn^
 ||yun.tuisnake.com^
@@ -18758,6 +18775,7 @@
 ||z3dmbpl6309s.com^
 ||z3uk6.cn^
 ||z41vm.cn^
+||z47960.tstobkl.pro^
 ||z501lpfg9x8v.com^
 ||z65.zzhyyj.com^
 ||z65j.cn^
