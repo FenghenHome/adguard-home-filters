@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-08-2020 17:16 UTC
-! Count: 19,205
+! Last Modified: 25-08-2020 17:16 UTC
+! Count: 19,228
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -56,6 +56,7 @@
 @@||img.ads.tvb.com^
 @@||newad.mail.wo.cn^
 @@||optout.networkadvertising.org^
+||00-gov.cn^
 ||0024aaaa.com^
 ||003store.com^
 ||0086555.com^
@@ -364,6 +365,7 @@
 ||23456dj.com^
 ||2345at.com^
 ||23dsf.top^
+||23uuw3.com^
 ||24200.h5ixp.com^
 ||24200.luvbr.com^
 ||24haitao.net^
@@ -386,6 +388,7 @@
 ||28acglz.com^
 ||293870.com^
 ||29wjns.com^
+||2b2b84231908.com^
 ||2b815136jjjv.com^
 ||2byuf.cn^
 ||2cnjuh34jb.com^
@@ -465,6 +468,7 @@
 ||365che.cc^
 ||365syt.cn^
 ||365yigou.cn^
+||36cfbd917fd.com^
 ||36ia2.cn^
 ||36pn.com^
 ||376zf.com^
@@ -520,7 +524,6 @@
 ||497761.top^
 ||4au.htf16a.cn^
 ||4df5ef.xyz^
-||4e9fa3c5de.com^
 ||4edidqmtzlsa.com^
 ||4ekx.cn^
 ||4excel.cn^
@@ -663,6 +666,7 @@
 ||649558.com^
 ||64ri.cn^
 ||64si.com^
+||65125672a6fa0.com^
 ||652748.com^
 ||65tgh.com^
 ||6604.org^
@@ -696,6 +700,7 @@
 ||6a4cc.luvbr.com^
 ||6a4cc.luytr.com^
 ||6ac.uninewsale.com^
+||6b29d83ec954e7.com^
 ||6b357cda0f.com^
 ||6cc8cc.xyz^
 ||6dad.com^
@@ -947,6 +952,7 @@
 ||a.53yao.com^
 ||a.77shw.com^
 ||a.90370.com^
+||a.91nets.cn^
 ||a.91zhongkao.com^
 ||a.adk2x.com^
 ||a.admob.com^
@@ -1053,6 +1059,7 @@
 ||a0b33.com^
 ||a0c66.com^
 ||a0c77.com^
+||a0e5b16728.com^
 ||a0usa.top^
 ||a1.0s.net.cn^
 ||a1.99933.cn^
@@ -1079,7 +1086,6 @@
 ||a1491.oadz.com^
 ||a15d55423.5tps.xyz^
 ||a1662.oadz.com^
-||a2-eng.spankbang.com^
 ||a2.b310.com^
 ||a2.huanqiumil.com^
 ||a2.rabbitpre.com^
@@ -1087,6 +1093,7 @@
 ||a2.zhanzhang.net^
 ||a2315.oadz.com^
 ||a2397.oadz.com^
+||a2x-eng.spankbang.com^
 ||a3.hotpornfile.org^
 ||a3.ikafan.com^
 ||a3.jandan.net^
@@ -3755,7 +3762,6 @@
 ||c3metrics.medifast1.com^
 ||c3t-system-err.club^
 ||c41.clicki.cn^
-||c47eb0d9cf98.com^
 ||c4dv.copinesdevoyage.com^
 ||c50021876c67fd14.com^
 ||c5b39ff13b3259df.com^
@@ -4770,6 +4776,7 @@
 ||cpm.cm.sandai.net^
 ||cpmchina.co^
 ||cpmgatenetwork.com^
+||cpmnetworkcontent.com^
 ||cpms.cc^
 ||cpms.now.com^
 ||cpro.baidu.cn^
@@ -5672,6 +5679,7 @@
 ||distinesseqe.site^
 ||distrikerkvazar.site^
 ||ditiesacco.club^
+||ditionstrou.club^
 ||ditookry.com^
 ||ditorsdyehou.club^
 ||diuling.com^
@@ -6487,7 +6495,6 @@
 ||ea.vente-unique.com^
 ||ea.vente-unique.lu^
 ||ea.warnerbros.fr^
-||ea6d133f7ae.com^
 ||eadminimals.fun^
 ||eae5daf052d2673b.com^
 ||eaintrolled.info^
@@ -7288,6 +7295,7 @@
 ||formany.club^
 ||formulawire.com^
 ||forrerri.com^
+||fortunitystar.club^
 ||forwayonlibe.site^
 ||forwrdnow.com^
 ||fos123.com^
@@ -7317,6 +7325,7 @@
 ||fpbjiansuo.mn586.com^
 ||fpdownload.macromedia.com^
 ||fptest.fraudmetrix.cn^
+||fqsgj.com^
 ||fqtra.com^
 ||fqzds.com^
 ||frame.enet.com.cn^
@@ -7364,7 +7373,6 @@
 ||fszhxd.com^
 ||ft.moad.cn^
 ||fthcz.com^
-||ftigholm.site^
 ||ftpcontent.worldnow.com^
 ||ftslkw.cn^
 ||fu68.com^
@@ -9248,6 +9256,7 @@
 ||jiathis.com^
 ||jiayi1.oss-cn-shanghai.aliyuncs.com^
 ||jiayi2019.top^
+||jiayiss.com^
 ||jiazihao.cn^
 ||jibn12.jintang114.org^
 ||jicmutse.com^
@@ -11404,6 +11413,7 @@
 ||methiopia.club^
 ||metmt.com^
 ||metok.sys.miui.com^
+||metosk.com^
 ||metric.inetcore.com^
 ||metric.nwsource.com^
 ||metricfast.com^
@@ -12024,6 +12034,7 @@
 ||nbrecsys.4paradigm.com^
 ||nbsdk-baichuan.alicdn.com^
 ||nbsdk-baichuan.taobao.com^
+||nbxiwktuvymecs.com^
 ||nbzq.net^
 ||nc004x.corp.youdao.com^
 ||nc045x.corp.youdao.com^
@@ -12296,7 +12307,6 @@
 ||npractivelyfr.space^
 ||npvxkna.cn^
 ||nq93jx1vpq9r.com^
-||nqbcf.cn^
 ||nqfwx.cn^
 ||nqrkzcd7ixwr.com^
 ||nqslmtuswqdz.com^
@@ -12343,6 +12353,7 @@
 ||ntsimprovide.info^
 ||ntsparallycalc.info^
 ||ntvcld-a.akamaihd.net^
+||ntvsw.com^
 ||ntxiangtai.com^
 ||null-point.com^
 ||nuloe.alksdh.com^
@@ -12450,6 +12461,7 @@
 ||offickiekizashi.site^
 ||officultpolicit.pro^
 ||offline-adv.oray.com^
+||offoonguser.com^
 ||ofgogoatan.com^
 ||ofhappinyer.com^
 ||ofhypnoer.com^
@@ -12739,7 +12751,6 @@
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
 ||p1wr6.cn^
-||p2-eng.spankbang.com^
 ||p2.ykauto.cn^
 ||p215223.mycdn2.co^
 ||p2p.huya.com^
@@ -12815,6 +12826,7 @@
 ||parallelsdesktop.cn^
 ||paraterinchest.site^
 ||paratingsulik.site^
+||parchlusciousepoch.com^
 ||parentful.club^
 ||parketbedde.info^
 ||parking.zunmi.cn^
@@ -13169,7 +13181,6 @@
 ||pjbjzf.com^
 ||pjogndc8ixoidna.360doc.cn^
 ||pjshw.cn^
-||pjtsu.com^
 ||pjtymy.cn^
 ||pjx1ky4xhwip.com^
 ||pjxna.xyz^
@@ -13521,6 +13532,7 @@
 ||pv.focus.cn^
 ||pv.hd.sohu.com^
 ||pv.ltn.com.tw^
+||pv.pjtsu.com^
 ||pv.sogou.com^
 ||pv.sohu.com^
 ||pv.udn.com^
@@ -14529,6 +14541,7 @@
 ||scorecardresearch.com^
 ||scotlandon.club^
 ||scottagesyu.club^
+||scottingflori.club^
 ||scounter.rambler.ru^
 ||scout.lexisnexis.com^
 ||scout.rollcall.com^
@@ -15046,6 +15059,7 @@
 ||slog.sina.com.cn^
 ||slot.union.ucweb.com^
 ||sls2.loisirsencheres.com^
+||slshiye.cn^
 ||slvtx.com^
 ||slygzsc.cn^
 ||slykeyhot.site^
@@ -15054,6 +15068,7 @@
 ||sm077.com^
 ||sm1.todgo.com^
 ||sm2.todgo.com^
+||smallentpation.pro^
 ||smallmovieapp.com^
 ||smart-789.image.mucang.cn^
 ||smart-789.kakamobi.cn^
@@ -16321,6 +16336,7 @@
 ||terethat.ru^
 ||terialnevitiesini.info^
 ||terrapsps.com^
+||tesfatheleshs.club^
 ||tesfw.com^
 ||tesla.oscaro.com^
 ||test.ad.cmvideo.cn^
@@ -16427,6 +16443,7 @@
 ||timeslogtn.timesnow.tv^
 ||timestrends.indiatimes.com^
 ||timestrends.timesnow.tv^
+||tineprepair.club^
 ||tingfengyu.top^
 ||tinglian.com^
 ||tinkerta.com^
@@ -16916,6 +16933,7 @@
 ||trhccn.cn^
 ||trial.alcohol-soft.com^
 ||tribalfusion.com^
+||triflelatch.com^
 ||triggers.wfxtriggers.com^
 ||trikersuccessar.site^
 ||trippealbirthda.info^
@@ -16979,6 +16997,7 @@
 ||ttauri.musicradar.com^
 ||ttauri.nexttv.com^
 ||ttauri.space.com^
+||ttauri.t3.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
 ||ttauri.whathifi.com^
@@ -17329,8 +17348,10 @@
 ||urlet.cn^
 ||urnawareflan.com^
 ||urnkawsxxh.com^
+||uropersag.club^
 ||urs.zdnet.com^
 ||urtracker.q-sis.de^
+||uruswan.com^
 ||urymiseshabe.club^
 ||uryobtainlyi.club^
 ||us.bannyat.com^
@@ -18524,6 +18545,7 @@
 ||xt2d.cn^
 ||xt725.cn^
 ||xtcdbb.cn^
+||xtendente.club^
 ||xtgreat.com^
 ||xtianqi.com.cn^
 ||xtrack.capetown.gov.za^
@@ -18762,6 +18784,7 @@
 ||yk0712.com^
 ||ykanx.com^
 ||ykjmy.com^
+||ykpbgqc.top^
 ||yktj.yzz.cn^
 ||ykxwn.com^
 ||yl850555.com^
