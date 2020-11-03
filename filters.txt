@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 02-11-2020 18:46 UTC
-! Count: 26,853
+! Last Modified: 03-11-2020 18:45 UTC
+! Count: 26,872
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -724,12 +724,14 @@
 ||51dmn.top^
 ||51dql.com^
 ||51fishplace.com^
+||51foodsafe.cn^
 ||51fuliwang.cn^
 ||51gpt.com^
 ||51gxqm.com^
 ||51jumintong.com^
 ||51link.com^
 ||51posj.cn^
+||51roadway.com^
 ||51sxzz.com^
 ||51weidashi.com^
 ||51wxyx.cn^
@@ -884,6 +886,7 @@
 ||66997.top^
 ||66998.top^
 ||66ce98158e4f402.com^
+||66cn.com^
 ||66san.com^
 ||6728812.com^
 ||6789.run^
@@ -2024,6 +2027,7 @@
 ||adomv.com^
 ||adoperatorx.com^
 ||adopexchange.com^
+||adopt-sdk.xg.tagtic.cn^
 ||adp.cnki.net^
 ||adp.cnool.net^
 ||adp.s8bbs.com^
@@ -2330,6 +2334,7 @@
 ||aec.shjk123.net^
 ||aec40f9e073ba6.com^
 ||aecpm.alicdn.com^
+||aegis.qq.com^
 ||aegzjowko.com^
 ||aehdgzigy.com^
 ||aelphotog.pro^
@@ -3711,7 +3716,6 @@
 ||badad.googleplex.com^
 ||badding.oss-ap-southeast-1.aliyuncs.com^
 ||badgearsregra.site^
-||badjs.weixinbridge.com^
 ||badleasump.cam^
 ||badsbads.com^
 ||badsecs.com^
@@ -4634,6 +4638,7 @@
 ||c.51xmgys.com^
 ||c.adbxb.cn^
 ||c.admob.com^
+||c.adx.2345.com^
 ||c.alimama.com^
 ||c.amazon-adsystem.com^
 ||c.appjiagu.com^
@@ -4987,6 +4992,7 @@
 ||cdn.adc.eamobile.com^
 ||cdn.adinall.com^
 ||cdn.adless.io^
+||cdn.adm.myhayo.com^
 ||cdn.ads.jlscds.com^
 ||cdn.adsk2.co^
 ||cdn.adstract.com^
@@ -5583,7 +5589,6 @@
 ||cn.bidushe.com^
 ||cn.bing.com^
 ||cnbarnfxq.com^
-||cnbj1.fds.api.xiaomi.com^
 ||cnbole.net^
 ||cncy8.com^
 ||cndgrpfuuijg.com^
@@ -6573,6 +6578,7 @@
 ||d3sbxpiag177w8.cloudfront.net^
 ||d3t3lxfqz2g5hs.cloudfront.net^
 ||d3tglifpd8whs6.cloudfront.net^
+||d3tsytm1wtjqo2.cloudfront.net^
 ||d3ud741uvs727m.cloudfront.net^
 ||d3ujids68p6xmq.cloudfront.net^
 ||d3uqm14ppr8tkw.cloudfront.net^
@@ -6812,6 +6818,7 @@
 ||dc.letv.com^
 ||dc.liuliang100.com^
 ||dc.meitustat.com^
+||dc.sigmob.cn^
 ||dc.vmoters.com^
 ||dc2.csdn.net^
 ||dc5k8fg5ioc8s.cloudfront.net^
@@ -7100,6 +7107,7 @@
 ||diplomaticlastingpert.com^
 ||diptaich.com^
 ||dir.minigame.qq.com^
+||dirbfm.cn^
 ||direct-events-collector.spot.im^
 ||directrev.com^
 ||dirritorexa.club^
@@ -7513,6 +7521,7 @@
 ||dstrentcon.club^
 ||dstuckedot.space^
 ||dstxhvmgkg.com^
+||dsufferent.top^
 ||dsxdn.com^
 ||dszan.com^
 ||dt.adsafeprotected.com^
@@ -8513,6 +8522,7 @@
 ||engrievinebef.fun^
 ||enhancereviewpacket.com^
 ||enhucherions.xyz^
+||eniousirre.top^
 ||enjoy.modd.io^
 ||enjuk.com^
 ||enjuw.com^
@@ -10288,6 +10298,7 @@
 ||graftpool.ovh^
 ||grafzen.com^
 ||gragliapastri.info^
+||graintown.cn^
 ||graizoah.com^
 ||gralfusnzpo003.top^
 ||gralfusnzpo004.top^
@@ -10354,6 +10365,7 @@
 ||grursusy.com^
 ||grxzcfdcxu.com^
 ||grykuutktgaun.com^
+||gs.getui.com^
 ||gscarcinoh.club^
 ||gsdolqvdjr.com^
 ||gsdsccoo.com^
@@ -12940,6 +12952,7 @@
 ||kbdstwnruc.com^
 ||kbhaxxsiucgnek.com^
 ||kbifqgyugzo.com^
+||kbirdsind.top^
 ||kbmwlbwwwp.com^
 ||kbn.korben.info^
 ||kbnetworkz.s3.amazonaws.com^
@@ -13030,6 +13043,7 @@
 ||kg962.cn^
 ||kgbjsizq.com^
 ||kgcj00.cn^
+||kgfnhf.cn^
 ||kgghxooarlnz.com^
 ||kgmobilestat.kugou.com^
 ||kgnagbymcdmlr.com^
@@ -13954,6 +13968,7 @@
 ||log.zongheng.com^
 ||log000.goo.ne.jp^
 ||log1.17173.com^
+||log1.cmpassport.com^
 ||log1.molitv.cn^
 ||log2.molitv.cn^
 ||log2.mtime.cn^
@@ -15170,6 +15185,7 @@
 ||mcfg.sandai.net^
 ||mcgi.v.qq.com^
 ||mcirxbajhw.com^
+||mcjjibr.cn^
 ||mclick.simba.taobao.com^
 ||mcmhatmt.com^
 ||mcninc.cn^
@@ -15414,6 +15430,7 @@
 ||mierdydkqvpgno.com^
 ||mieyisi.com^
 ||mifxolavi.com^
+||mig.str.mdt.qq.com^
 ||migatesbala.fun^
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
@@ -15513,6 +15530,7 @@
 ||miniye.xjts.cn^
 ||minologyhesia.site^
 ||minorexportshopping.com^
+||minorshort.weixin.qq.com^
 ||minr.pw^
 ||minsistereron.site^
 ||minutesbitter.com^
@@ -17873,7 +17891,6 @@
 ||pingback.sogou.com^
 ||pingdishonest.com^
 ||pingeds.cn^
-||pingfore.qq.com^
 ||pinghot.qq.com^
 ||pingjs.qq.com^
 ||pingma.qq.com^
@@ -21090,7 +21107,6 @@
 ||spiteaside.com^
 ||spittsprevi.club^
 ||spjvuubtewq.com^
-||splashqqlive.gtimg.com^
 ||spncdypq.com^
 ||spo7h3ktdvy5.com^
 ||spontaneousguarded.com^
@@ -21227,6 +21243,7 @@
 ||sstats.oui.sncf^
 ||ssucvdbxxlibn.com^
 ||ssum.casalemedia.com^
+||ssumeras.top^
 ||ssypntfmi.com^
 ||ssznrs.com^
 ||st-n.ads3-adnow.com^
@@ -24022,6 +24039,7 @@
 ||vegent.cn^
 ||vegoid.cn^
 ||veilsrichae.club^
+||vejian.cn^
 ||vekuridufq.com^
 ||veletonjectof.pro^
 ||velocecdn.com^
@@ -26697,6 +26715,7 @@
 ||zouphail.com^
 ||zouwie.mlhif.com^
 ||zozolilla.com^
+||zp0737.com^
 ||zp22938576.com^
 ||zpaanftgs.com^
 ||zpaimilpqx.com^
