@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-11-2020 19:09 UTC
-! Count: 27,090
+! Last Modified: 11-11-2020 18:55 UTC
+! Count: 27,115
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -616,6 +616,7 @@
 ||3g.990.net^
 ||3gmimo.com^
 ||3gmtr.com^
+||3hbox.com^
 ||3lga3.cn^
 ||3npsgv2sx5.com^
 ||3p42lylmo2.monster^
@@ -674,6 +675,7 @@
 ||4au.htf16a.cn^
 ||4c13cac4bb.com^
 ||4c935d6a244f.com^
+||4cr447ewncl4.com^
 ||4df5ef.xyz^
 ||4dtrk.com^
 ||4e34b4865905c4.com^
@@ -794,6 +796,7 @@
 ||58xiangka.com^
 ||592man.com^
 ||593pi.cn^
+||59a8e0d6fa2.com^
 ||59e6ea7248001c.com^
 ||59gt.cn^
 ||5a60bfdc522.com^
@@ -1598,6 +1601,7 @@
 ||acbp0020171456.page.tl^
 ||acbsuicxkoyef.com^
 ||accedenonre.club^
+||acceptablecolor.com^
 ||acceptancecedehumorous.com^
 ||acceptiongere.site^
 ||acceptionijes.site^
@@ -4589,6 +4593,7 @@
 ||bursagarc.com^
 ||burytimes-gb.burytimes.co.uk^
 ||busfarmum.com^
+||busguyspec.com^
 ||business.92wy.com^
 ||business.inveno.com^
 ||busingleni.club^
@@ -6567,6 +6572,7 @@
 ||d36eyd5j1kt1m6.cloudfront.net^
 ||d36lvucg9kzous.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
+||d37abonb6ucrhx.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
@@ -7201,6 +7207,7 @@
 ||distinesseqe.site^
 ||distrikerkvazar.site^
 ||dit-dit-dot.com^
+||dita6jhhqwoiz.cloudfront.net^
 ||ditdotsol.com^
 ||ditiesacco.club^
 ||ditionstrou.club^
@@ -7513,6 +7520,7 @@
 ||drevozone.com.cn^
 ||drf8e429z5jzt.cloudfront.net^
 ||drgykb.cn^
+||driverwinggranulated.com^
 ||drjgjngf.com^
 ||drlsf.com^
 ||drmcmm.baidu.com^
@@ -8104,6 +8112,7 @@
 ||e350570881272e.com^
 ||e376ef28103177cc.com^
 ||e521d17fa185a2.com^
+||e5c4d8d221.com^
 ||e5d944a25e468d.com^
 ||e6916adeb7e46a883.com^
 ||e7001.com^
@@ -8215,6 +8224,7 @@
 ||ebook.res.meizu.com^
 ||ebosseraient.xyz^
 ||ebp.renren.com^
+||ebqfuphibj.com^
 ||ebqpycaosuok.com^
 ||ecezkkrm.com^
 ||echo-news-gb.echo-news.co.uk^
@@ -8442,6 +8452,7 @@
 ||ejgdixiddmruql.com^
 ||ejgpuaguf.com^
 ||ejieban.com^
+||ejirytuw.xyz^
 ||ejiur.com^
 ||ejkeshrzwoe.com^
 ||ejktviknfv.com^
@@ -8532,6 +8543,7 @@
 ||emng.libero.it^
 ||emolapnay.com^
 ||emoticon.sns.iqiyi.com^
+||emotificc.top^
 ||emotionalballotneedlework.com^
 ||emphante.club^
 ||empowerclemencyjoggle.com^
@@ -8602,6 +8614,7 @@
 ||ent1.qunchua.com^
 ||entcommanda.fun^
 ||entertaininglarge.com^
+||enthusiasmturnipflare.com^
 ||entiethmenti.top^
 ||entineffieldsta.site^
 ||entlydazhcmlgx.com^
@@ -8854,6 +8867,7 @@
 ||event.dkb.de^
 ||event.getblue.io^
 ||event.ksosoft.com^
+||event.syndigo.cloud^
 ||eventapi.libring.com^
 ||eventgateway.soundcloud.com^
 ||eventlog.beacon.qq.com^
@@ -9029,6 +9043,7 @@
 ||f4906b7c15ba.com^
 ||f4f32de8e64d.com^
 ||f5080f5cee5a00.com^
+||f56e3ea35a4.com^
 ||f6bd46bbc8a.com^
 ||f6ce.com^
 ||f70123.com^
@@ -10612,6 +10627,7 @@
 ||gzxxty168.com^
 ||gzzena.com^
 ||h-adashx.ut.taobao.com^
+||h-adashx4yt.ut.taobao.com^
 ||h-l.icu^
 ||h-l.xyz^
 ||h.b5qpg.cn^
@@ -11768,7 +11784,6 @@
 ||img.scupio.com^
 ||img.sheyuansu.com^
 ||img.shouji.sogou.com^
-||img.srxjz.cn^
 ||img.supfast.net^
 ||img.tan5858.com^
 ||img.taotaosou.cn^
@@ -11778,10 +11793,8 @@
 ||img.uu1001.cn^
 ||img.uyangyong.cn^
 ||img.wuben56.com^
-||img.wusnz.cn^
 ||img.xiacaidd.com^
 ||img.xiwnu.cn^
-||img.xuwnz.cn^
 ||img.yangshengtang123.com^
 ||img.yingshidiguo.cn^
 ||img.yqgytx.com^
@@ -13640,6 +13653,7 @@
 ||ledhenone.com^
 ||ledinund.com^
 ||lediyxobgmrgeb.com^
+||ledmophemp.com^
 ||ledqfvbihsgs.com^
 ||ledsdwwmhapz.com^
 ||lee789.com^
@@ -13668,6 +13682,7 @@
 ||lenkmio.com^
 ||leocgwid.com^
 ||leontius-eli.com^
+||leopardaddictedenthusiastic.com^
 ||leoyard.com^
 ||lepinsar.com^
 ||lepintor.com^
@@ -15566,6 +15581,7 @@
 ||mijifen.com^
 ||mikpumwbahkx.com^
 ||mikrairs.com^
+||milasktic.com^
 ||milfordmercury-gb.milfordmercury.co.uk^
 ||milk.yesky.com.cn^
 ||milkytarcub.com^
@@ -16702,6 +16718,7 @@
 ||nogerefron.info^
 ||noglolra.com^
 ||noiaifyednjt.com^
+||noiselesscatching.com^
 ||nol.yahoo.com^
 ||nolpjfsu.com^
 ||nomicidenti.top^
@@ -17019,6 +17036,7 @@
 ||obnyujeibv.com^
 ||observer.ip-label.net^
 ||obstacleconsideringheadphone.com^
+||obstructlawn.com^
 ||obtainlylibuk.club^
 ||obufquwiwy.com^
 ||obwvmzdb.com^
@@ -17293,6 +17311,7 @@
 ||openbox.mobilem.360.cn^
 ||opengam.com^
 ||openjmacs.m.taobao.com^
+||openmindedisabella.com^
 ||openrcv.baidu.com^
 ||openstat.net^
 ||openstorage.ad.cmvideo.cn^
@@ -18032,6 +18051,7 @@
 ||pingback.sogou.com^
 ||pingdishonest.com^
 ||pingeds.cn^
+||pingfore.qq.com^
 ||pinghot.qq.com^
 ||pingjs.qq.com^
 ||pingma.qq.com^
@@ -18231,6 +18251,7 @@
 ||plugin.2easydroid.com^
 ||plugrush.com^
 ||plumbus.minutemediaservices.com^
+||pluralbreakpractice7.live^
 ||plx.porndig.com^
 ||plxtejszb.com^
 ||plyinsidere.club^
@@ -19777,6 +19798,7 @@
 ||routemob.com^
 ||routeserve.info^
 ||rouvoute.net^
+||rovalionsa.fun^
 ||rovenancyde.top^
 ||rowoardog.com^
 ||rp.crasheye.cn^
@@ -20123,6 +20145,7 @@
 ||s7ww2.cn^
 ||s8.001fzc.com^
 ||s8.dnaxddnc.com^
+||s9.irs03.com^
 ||s9w.cc^
 ||s9wp1.cn^
 ||sa.bbc.co.uk^
@@ -22062,6 +22085,7 @@
 ||sync.rambler.ru^
 ||sync.republer.com^
 ||sync.shinobi.jp^
+||sync.taboola.com^
 ||sync.teamrtb.net^
 ||sync.tidaltv.com^
 ||sync2.audtd.com^
@@ -22424,6 +22448,7 @@
 ||tdfamwrbdwkosn.com^
 ||tdrhecmigtrm.com^
 ||tdsjsext1.life^
+||tdsjsext3.life^
 ||tdtsd.com^
 ||tdugvspdnq.com^
 ||tdxipgdorydvzo.com^
@@ -22878,6 +22903,7 @@
 ||towers-shield.com^
 ||toxicbraid.com^
 ||toy9090.com^
+||toybahyn.com^
 ||toysvestigetramp.com^
 ||tozvhcq.cn^
 ||tp.deawm.com^
@@ -23389,6 +23415,7 @@
 ||tuopabyjje.com^
 ||tuoxintrade.cn^
 ||tur-tur-key.com^
+||tureabstra.fun^
 ||turmoilexcessivetranslating.com^
 ||turn.com^
 ||turngrind.com^
@@ -24219,7 +24246,6 @@
 ||vde1.voyage-prive.de^
 ||vdfoejtqimcgog.com^
 ||vdhufs.com^
-||vdinfo.baofeng.com^
 ||vdrmwfdtn.com^
 ||vdrpwkycbla.com^
 ||vdvaazkk.com^
@@ -24325,7 +24351,6 @@
 ||video.ymapp.com^
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||videoaccess.xyz^
-||videodown.baofeng.com^
 ||videoevents.outbrain.com^
 ||videojj.com^
 ||videoplayer2.xyz^
@@ -26256,6 +26281,7 @@
 ||yjtag.yahoo.co.jp^
 ||yjwtxskmswcjc.com^
 ||yk0712.com^
+||ykad-gateway.youku.com^
 ||ykanx.com^
 ||ykeryifvsxjcdr.com^
 ||ykixjehac.com^
@@ -26266,7 +26292,6 @@
 ||yksjurzq.com^
 ||yktj.yzz.cn^
 ||ykugc.cp31.ott.cibntv.net.302.myalicdn.com^
-||ykugc.cp31.ott.cibntv.net^
 ||ykxwn.com^
 ||yl850555.com^
 ||ylads.yaolan.com^
