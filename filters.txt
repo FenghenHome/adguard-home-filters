@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-11-2020 19:36 UTC
-! Count: 27,331
+! Last Modified: 25-11-2020 19:34 UTC
+! Count: 27,324
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -495,6 +495,7 @@
 ||2dbd87c7a091b.com^
 ||2f5a1f1fab21a56.com^
 ||2fnrc.cn^
+||2fuc4clr7gvcn.cloudfront.net^
 ||2fx32.cn^
 ||2g2h.com^
 ||2g6gj3aojcrj.com^
@@ -1242,7 +1243,6 @@
 ||99tuan.com.cn^
 ||9a24a1b3dcd5f4.com^
 ||9a6wb.cn^
-||9ab6cc047a.com^
 ||9ae7c9ffe8509b0.com^
 ||9b13c1c151f9664a73.com^
 ||9bb6fa4987e.com^
@@ -3741,7 +3741,6 @@
 ||b3ff2cfeb6f49e.com^
 ||b3stcond1tions.com^
 ||b400393baba7cd476a3.com^
-||b4e72c9bc99.com^
 ||b4q982rbqdsw.com^
 ||b4xuj.zzhhts.com^
 ||b54ah.cn^
@@ -6681,6 +6680,7 @@
 ||d3hs51abvkuanv.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
+||d3j3yrurxcqogk.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kpkrgd3aj4o7.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
@@ -9149,7 +9149,6 @@
 ||f8260adbf8558d6.com^
 ||f8316b45436f.com^
 ||f853150605ccb.com^
-||f85c751e0b4.com^
 ||fa.163.com^
 ||fa00c331ceacc.com^
 ||faayojxf.com^
@@ -11546,6 +11545,7 @@
 ||hzlsghfoqsvawe.com^
 ||hzmiyou.cn^
 ||hznvtg.com^
+||hzqzxf.com^
 ||hzsmmfohtye.com^
 ||hzsod71wov.me^
 ||hzsrjs.com^
@@ -12296,7 +12296,6 @@
 ||iugwmpnszxxwti.com^
 ||iuhpbpzwpldqbj.com^
 ||iulianus-mon.com^
-||iuncajvw.com^
 ||iuooczzbi.com^
 ||iuowwbrqblweoa.com^
 ||iupot.com^
@@ -12477,13 +12476,11 @@
 ||jdgsgl.com^
 ||jdhnrnvdjmu.com^
 ||jdlhg.com^
-||jdlnquri.com^
 ||jdolsuyshcz.com^
 ||jdouzzxkyukv.com^
 ||jdpqtgvzsoy.com^
 ||jdrckkbpb.com^
 ||jdrftaau.com^
-||jdskyjntuhea.com^
 ||jdtufqcyumvb.com^
 ||jducqfnxeypyw.com^
 ||jdwimtfp.com^
@@ -12503,7 +12500,6 @@
 ||jelly.mdhv.io^
 ||jellyclick.com^
 ||jellyfish.pandora.xiaomi.com^
-||jenaowzhtbi.com^
 ||jepmdqcn.com^
 ||jeqixokniyny.com^
 ||jesgoo.com^
@@ -13207,7 +13203,6 @@
 ||kdbumyha.com^
 ||kdcmgzgxears.com^
 ||kddtri.cn^
-||kdfjjvidllnbaa.com^
 ||kdfumeftulzzpp.com^
 ||kdl.huaxinsp.cn^
 ||kdluruaor.com^
@@ -16318,7 +16313,6 @@
 ||mw6xj4.cn^
 ||mwaiqeefj.com^
 ||mwc.velti.com^
-||mwggummxeygq.com^
 ||mwhjamwra.com^
 ||mwhtoxix.com^
 ||mwjpk.com^
@@ -16355,6 +16349,7 @@
 ||mycleanmymac.com^
 ||myclickpush.com^
 ||mydisplay.ctfile.com^
+||mydownba.com^
 ||myes.youku.com^
 ||myfizvybnhsquv.com^
 ||mygeneclub.com^
@@ -16533,7 +16528,6 @@
 ||ndlegwynetc.fun^
 ||ndndasyo.com^
 ||ndonsenatio.club^
-||ndprxvzgy.com^
 ||ndreammin.space^
 ||ndrf.757g7g.cn^
 ||ndtzx.com^
@@ -16571,7 +16565,6 @@
 ||nerbulsterme.club^
 ||nernv.com^
 ||nerohut.com^
-||neschaypaxkk.com^
 ||neshedfrie.club^
 ||nesjournin.top^
 ||nesnts.cn^
@@ -18596,6 +18589,7 @@
 ||prcymjchczmbjj.com^
 ||prd-collector-anon.ex.co^
 ||prd-collector-anon.playbuzz.com^
+||prd-collector-auth.playbuzz.com^
 ||pre.api.tw06.xlmc.sandai.net^
 ||preadyaggrego.club^
 ||precursoruphill.com^
@@ -19329,7 +19323,7 @@
 ||qycjrkfzx.com^
 ||qyctj.com^
 ||qydhjirz.com^
-||qyfunsvmtudozq.com^
+||qyhwqie.cn^
 ||qyifxakawscsyd.com^
 ||qyillxuyjdlmh.com^
 ||qyixifzol.com^
@@ -22522,6 +22516,7 @@
 ||tagger.opecloud.com^
 ||tagm.tchibo.de^
 ||tags.cdn.circlesix.co^
+||tags.creativille.co.uk^
 ||tags.master-perf-tools.com^
 ||tags.msnbc.com^
 ||tags.newscgp.com^
@@ -22696,6 +22691,7 @@
 ||telemetry.microsoft.com^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
+||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.urs.microsoft.com^
 ||telephants.club^
@@ -23182,6 +23178,7 @@
 ||track.dmrtb.com^
 ||track.dragonparking.com^
 ||track.e7r.com.br^
+||track.eadv.it^
 ||track.easeus.com^
 ||track.engagesciences.com^
 ||track.express.de^
@@ -23909,7 +23906,6 @@
 ||ujkqudpjtbztz.com^
 ||ujm.clr9t.com^
 ||ujm.snackmachinery.cn^
-||ujpakyfu.com^
 ||ujpbruxewv.com^
 ||ujpvnnmnsoypsa.com^
 ||ujqiqzsibnfclm.com^
@@ -24071,7 +24067,6 @@
 ||uoapkzwkoqnk.com^
 ||uoarbhxfyygn.com^
 ||uofmnbkm.com^
-||uohpnvpynvsz.com^
 ||uoifloesog.com^
 ||uoijjkkkc.com^
 ||uojjfspxqcyik.com^
@@ -24750,7 +24745,6 @@
 ||vqjphqthvfl.com^
 ||vqkkbbivznoso.com^
 ||vqmcyhsi.com^
-||vqqvpouifhv.com^
 ||vqr3jeu1qi41.com^
 ||vqsggzvcaujh.com^
 ||vrewpywootyu.com^
@@ -25738,7 +25732,6 @@
 ||xcggpt.com^
 ||xcggpt.net^
 ||xchgx.com^
-||xcjelwzs.com^
 ||xcjy876.com^
 ||xclgusxcdjd.com^
 ||xcmxsw.com^
@@ -25800,7 +25793,6 @@
 ||xg084mgkfsfk.com^
 ||xgctdamahrzy.com^
 ||xgfugivkvkak.com^
-||xghretunapafes.com^
 ||xgievxfxhy.com^
 ||xgipqvffxrgs.com^
 ||xgmc6lu8fs.me^
@@ -26265,6 +26257,7 @@
 ||y66xvgo5i.chuimg.com^
 ||y71.ylems.club^
 ||y76.ylems.club^
+||y7o9rh.cn^
 ||y7wr7.cn^
 ||y96e1tnmr2.buzz^
 ||yaaqsdteo.com^
