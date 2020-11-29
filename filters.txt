@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 28-11-2020 18:19 UTC
-! Count: 41,290
+! Last Modified: 29-11-2020 09:24 UTC
+! Count: 41,294
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -72,6 +72,7 @@
 @@||app-advertise.zhihuishu.com^
 @@||app.adjust.com^
 @@||authentication-api.skimlinks.com^
+@@||baidu.com^
 @@||baozhang.baidu.com^
 @@||battle.net^
 @@||beta.bugly.qq.com^
@@ -6179,7 +6180,6 @@
 ||baidu-union-js.chuimg.com^
 ||baidu.bxwx666.org^
 ||baidu.cmxsw.com^
-||baidu.com^
 ||baidu.cybcyw.com^
 ||baidu.dengzhoull.com^
 ||baidu.greenxf.cn^
@@ -9318,6 +9318,7 @@
 ||codefund.io^
 ||codejumps.com^
 ||codemylife.info^
+||codenew.kanshuhai.com^
 ||codenow.cn^
 ||codeonclick.com^
 ||codesoftchina.com^
@@ -11649,6 +11650,7 @@
 ||djjyyqgsnnfa.com^
 ||djm080u34wfc5.cloudfront.net^
 ||djmaza.in^
+||djpt33.com^
 ||djr4k68f8n55o.cloudfront.net^
 ||djs.baomihua.com^
 ||djsn888.com^
@@ -17772,6 +17774,7 @@
 ||huhkfzino.com^
 ||huhue.com^
 ||huhughyaw.com^
+||huhuhiiuio.com^
 ||hui.sohu.com^
 ||huichenbz.com^
 ||huichuan.sm.cn^
@@ -36741,6 +36744,7 @@
 ||userdatatrust.com^
 ||userdive.com^
 ||userdmp.com^
+||userexperience.thehut.net^
 ||userfly.com^
 ||userimg.qunar.com^
 ||userlook.com^
