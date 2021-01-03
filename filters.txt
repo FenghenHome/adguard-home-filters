@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 02-01-2021 18:26 UTC
-! Count: 41,886
+! Last Modified: 03-01-2021 18:28 UTC
+! Count: 41,898
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -10734,6 +10734,7 @@
 ||d2fbkzyicji7c4.cloudfront.net^
 ||d2focgxak1cn74.cloudfront.net^
 ||d2g9nmtuil60cb.cloudfront.net^
+||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ghscazvn398x.cloudfront.net^
 ||d2glav2919q4cw.cloudfront.net^
 ||d2hvwfg7vv4mhf.cloudfront.net^
@@ -13874,6 +13875,11 @@
 ||eu.cfcnet.top^
 ||eu.groupondata.com^
 ||eu.vortex-win.data.microsft.com^
+||eu1l.dotabuff.com^
+||eu1l.overbuff.com^
+||eu1l.speedrun.com^
+||eu1l.trackdota.com^
+||eu1l.valorbuff.com^
 ||eucsoft.com^
 ||eujjcfegnqfa.com^
 ||eukjktmw.com^
@@ -19551,6 +19557,7 @@
 ||jaaqcdrpmyju.com^
 ||jaat3ax.site^
 ||jaavpuhxrsryk.com^
+||jac.yahoosandbox.com^
 ||jackao.net^
 ||jackaow.com^
 ||jackettrain.com^
@@ -20731,6 +20738,7 @@
 ||keywordblocks.com^
 ||keywordmax.com^
 ||keywordpop.com^
+||keywords.complex.com^
 ||keywordsconnect.com^
 ||keywordstrategy.org^
 ||keyxel.com^
@@ -24654,6 +24662,7 @@
 ||monotonoussurveytoxic.com^
 ||monsoonads.com^
 ||monstat.com^
+||montafp.top^
 ||montkpl.top^
 ||montwam.top^
 ||monu.delivery^
@@ -27606,6 +27615,7 @@
 ||pcejuyhjucmkiny.ru^
 ||pcfg.wps.cn^
 ||pcgamer-gb.pcgamer.com^
+||pci3oo5mg4mn-a.akamaihd.net^
 ||pcizpawioulv.com^
 ||pcjkmabp.com^
 ||pclick.europe.yahoo.com^
@@ -34926,6 +34936,7 @@
 ||tel-tel-fie.com^
 ||telecommand.telemetry.microsoft.com.nsatc.net^
 ||telemetric.dk^
+||telemetry.api.wmcdp.io^
 ||telemetry.appex.bing.net^
 ||telemetry.art19.com^
 ||telemetry.jivosite.com^
@@ -38790,6 +38801,7 @@
 ||weymsohsafjs.com^
 ||weyyae.com^
 ||wf321.com^
+||wfaffwshop.xyz^
 ||wfawhfxe.com^
 ||wfcvhhmumb.com^
 ||wfcxcblmy.com^
