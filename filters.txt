@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 04-01-2021 19:00 UTC
-! Count: 41,942
+! Last Modified: 06-01-2021 18:54 UTC
+! Count: 41,961
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -467,6 +467,7 @@
 ||12.cookcai.com^
 ||12086.net^
 ||1214bdk.xyz^
+||1221dhb.xyz^
 ||1221e236c3f8703.com^
 ||1224.dxsbb.com^
 ||12291.com^
@@ -891,6 +892,7 @@
 ||2r3485.cn^
 ||2scjbg.com^
 ||2sh8fouhk84h.com^
+||2shol4.cn^
 ||2shouhc.com^
 ||2shoushi.com^
 ||2smt6mfgo.de^
@@ -10719,6 +10721,7 @@
 ||d29qt51jeyi6xb.cloudfront.net^
 ||d2ab631af57.com^
 ||d2as12kgjg8gw5.cloudfront.net^
+||d2axgrpnciinw7.cloudfront.net^
 ||d2bgg7rjywcwsy.cloudfront.net^
 ||d2c4ylitp1qu24.cloudfront.net^
 ||d2cgumzzqhgmdu.cloudfront.net^
@@ -10832,6 +10835,7 @@
 ||d3iouejux1os58.cloudfront.net^
 ||d3ithbwcmjcxl7.cloudfront.net^
 ||d3iz6lralvg77g.cloudfront.net^
+||d3j1weegxvu8ns.cloudfront.net^
 ||d3j3yrurxcqogk.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
 ||d3kpkrgd3aj4o7.cloudfront.net^
@@ -11223,6 +11227,7 @@
 ||dcdvie.cn^
 ||dceni.com^
 ||dcentatorsstrial.info^
+||dcf.espn.com^
 ||dchnguasrxubf.com^
 ||dcimei.tw^
 ||dcmn.com^
@@ -11960,6 +11965,7 @@
 ||dmtu.0m31a.cn^
 ||dmvbdfblevxvx.com^
 ||dmxleo.com^
+||dmxleo.dailymotion.com^
 ||dmym.aixyy.com^
 ||dmypkmieippdq.com^
 ||dn-growing.qbox.me^
@@ -13941,6 +13947,7 @@
 ||event.getblue.io^
 ||event.ksosoft.com^
 ||event.syndigo.cloud^
+||event.webcollage.net^
 ||event.zhihu.com^
 ||eventapi.libring.com^
 ||eventcapture03.com^
@@ -15704,6 +15711,7 @@
 ||gcapi.sy.kugou.com^
 ||gccode.gongchang.com^
 ||gccoetmm.com^
+||gcctqal.cn^
 ||gcfx777.com^
 ||gcheg.com^
 ||gchhswgagb.com^
@@ -24088,6 +24096,7 @@
 ||miegpokitjxm.com^
 ||mierdydkqvpgno.com^
 ||mieru-ca.com^
+||miesobserv.fun^
 ||mieyisi.com^
 ||mifun.mobi^
 ||mifxolavi.com^
@@ -24263,6 +24272,7 @@
 ||misslk.com^
 ||mistressavouchdeity.com^
 ||misxgkvnlf.com^
+||mitao17.com^
 ||mitatic.xyz^
 ||mitjg.xyz^
 ||mitouxoo.net^
@@ -24654,6 +24664,8 @@
 ||monitor-stsdk.vivo.com.cn^
 ||monitor-uu.play.aiseet.atianqi.com^
 ||monitor.ebay.com^
+||monitor.qq.com^
+||monitoringservice.co^
 ||monitus.net^
 ||monkeybroker.net^
 ||monkeyminer.net^
@@ -24952,6 +24964,7 @@
 ||mtrace.qq.com^
 ||mtrack.nl^
 ||mtracking.com^
+||mtrcs.samba.tv^
 ||mtrcss.com^
 ||mtree.com^
 ||mts-ws.rueducommerce.fr^
@@ -29502,6 +29515,7 @@
 ||qfzcxs.cn^
 ||qgana.com^
 ||qgaot.com^
+||qgdvyvd.cn^
 ||qgevavwyafjf.com^
 ||qggcjrrjvlif.com^
 ||qggypucwewn.com^
@@ -31376,6 +31390,7 @@
 ||sa2xskt.com^
 ||sa909.com^
 ||saambaa.com^
+||saastt.com^
 ||sabavision.com^
 ||sabin.free.fr^
 ||sablesong.com^
@@ -34931,6 +34946,7 @@
 ||tel-tel-fie.com^
 ||telecommand.telemetry.microsoft.com.nsatc.net^
 ||telemetric.dk^
+||telemetrics.klaviyo.com^
 ||telemetry.api.wmcdp.io^
 ||telemetry.appex.bing.net^
 ||telemetry.art19.com^
@@ -36779,6 +36795,7 @@
 ||ue.yeyoucdn.com^
 ||ueadlian.com^
 ||ueaeqqi.cn^
+||ueaggress.top^
 ||uebadu.com^
 ||uebawtz7.me^
 ||uedas.qdmm.com^
@@ -37601,6 +37618,7 @@
 ||vasgenerete.site^
 ||vashoaft.net^
 ||vashoot.com^
+||vasstycom.com^
 ||vast.spotim.market^
 ||vastserved.com^
 ||vatname.info^
@@ -39343,7 +39361,6 @@
 ||wthormvztq.com^
 ||wtjcqntwdtgs.com^
 ||wtk.db.com^
-||wtm.monitoringservice.co^
 ||wtmokqxhcormc.com^
 ||wtmtrack.com^
 ||wtnjupl.cn^
@@ -39460,6 +39477,7 @@
 ||wxbdfm.com^
 ||wxbgf.top^
 ||wxcwtehxsfri.com^
+||wxebgpj.cn^
 ||wxggtg.dre8.com^
 ||wxhdwy.com^
 ||wxhh678.com^
@@ -39775,6 +39793,7 @@
 ||xiangshiw.net^
 ||xianguangergaozhi.com^
 ||xiangwangdesh.com^
+||xiangyuym.cn^
 ||xiankandy.com^
 ||xianliao.me^
 ||xiansenmeng.cn^
