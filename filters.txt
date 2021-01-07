@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-01-2021 18:54 UTC
-! Count: 41,961
+! Last Modified: 07-01-2021 18:56 UTC
+! Count: 41,987
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -62,6 +62,7 @@
 @@||ads.instacart.com^
 @@||ads.pinterest.com^
 @@||ads.spotify.com^
+@@||ads.taboola.com^
 @@||ads.tiktok.com^
 @@||ads.ultimatesurrender.com^
 @@||advert.kf5.com^
@@ -860,7 +861,6 @@
 ||2fx32.cn^
 ||2g2h.com^
 ||2g6gj3aojcrj.com^
-||2giga.do^
 ||2giga.download^
 ||2giga.li^
 ||2giga.link^
@@ -1441,6 +1441,7 @@
 ||5c.com.cn^
 ||5c43cbc0f41.com^
 ||5c577fc74618431b.com^
+||5centscdn.com^
 ||5cwr93yyd4lf.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
@@ -2219,6 +2220,7 @@
 ||9tn.cc^
 ||9ts3tpia.com^
 ||9ucm.com^
+||9uh94c.cn^
 ||9um9jq799.com^
 ||9utwbj08.top^
 ||9uys.co^
@@ -3594,6 +3596,7 @@
 ||ads.aol.co.uk^
 ||ads.aplus.pptv.com^
 ||ads.b10f.jp^
+||ads.bssdl.kugou.com^
 ||ads.ccstock.cn^
 ||ads.cdn.rovio.com^
 ||ads.ce.cn^
@@ -6051,6 +6054,7 @@
 ||azera-s014.com^
 ||azeriondigital.com^
 ||azg1.emalu-store.com^
+||azioncdn.net^
 ||azjmp.com^
 ||aznapoz.info^
 ||aznuqxmji.com^
@@ -6062,6 +6066,7 @@
 ||azrjdlvlsxihbd.com^
 ||azsikvmhlzuhje.com^
 ||aztecash.com^
+||azureedge.net^
 ||azvjudwr.info^
 ||azwsolqpewo.com^
 ||b-aws.aol.com^
@@ -6766,6 +6771,7 @@
 ||belstat.fr^
 ||belstat.nl^
 ||beludicolor.com^
+||belugacdn.link^
 ||belvertising.be^
 ||belwrite.com^
 ||bemarts.club^
@@ -6888,6 +6894,7 @@
 ||bewtqjkrfo.com^
 ||bexrnrxbgh.com^
 ||beyondcompare.cc^
+||beyondsecurity.com^
 ||bezoglasa.online^
 ||bf-ad.net^
 ||bf-tools.net^
@@ -7194,6 +7201,7 @@
 ||blamads.com^
 ||blardenso.com^
 ||blatungo.com^
+||blazingcdn.net^
 ||blebesidents.info^
 ||blecuttasha.club^
 ||bledevellinga.site^
@@ -7622,7 +7630,6 @@
 ||bsrkt.com^
 ||bsrv.qq.com^
 ||bss.pandora.xiaomi.com^
-||bssdl.kugou.com^
 ||bsshw.net^
 ||bstn-14-ma.com^
 ||bsyauqwerd.party^
@@ -8375,6 +8382,7 @@
 ||cdn-server.top^
 ||cdn-sitegainer.com^
 ||cdn-t.xyz^
+||cdn-tech.io^
 ||cdn.0i-i0.com^
 ||cdn.5bong.com^
 ||cdn.ad.xiaomi.com^
@@ -8538,6 +8546,7 @@
 ||cezezo.top^
 ||cezmxscvslmfhy.com^
 ||ceztv.com^
+||cf-china.info^
 ||cf.k053f0.cn^
 ||cf.overblog.com^
 ||cf.zaiyunli.cn^
@@ -8801,6 +8810,7 @@
 ||chronicleisoconfused.com^
 ||chrumedia.com^
 ||chspracteri.fun^
+||chtbl.com^
 ||chtntr.com^
 ||chuangxinfa.cn^
 ||chuangyixi.com^
@@ -9352,6 +9362,7 @@
 ||cnstats.ru^
 ||cnt.3dmy.net^
 ||cnt.iceporn.com^
+||cnt.krasland.ru^
 ||cnt.logoslovo.ru^
 ||cnt.mastorage.net^
 ||cnt.my^
@@ -10414,6 +10425,7 @@
 ||curtainsky.wang^
 ||curtisfrierson.com^
 ||curvycry.com^
+||cushionpig.com^
 ||customad.cnn.com^
 ||customer-security.online^
 ||customer.heartinternet.co.uk^
@@ -12069,6 +12081,7 @@
 ||dopor.info^
 ||doqapnez.com^
 ||doqjemtf.com^
+||doracdn.com^
 ||dorama.site^
 ||dorbanise.pw^
 ||dormitysature.info^
@@ -12542,6 +12555,7 @@
 ||dzaphjajrisgr.com^
 ||dzdkw9.cn^
 ||dzgg.com^
+||dzhjmp.com^
 ||dzhss.cn^
 ||dzisou.com^
 ||dzizsih.ru^
@@ -15489,7 +15503,6 @@
 ||g2971265025.co^
 ||g2a-com.newsletter.com.pl^
 ||g2afse.com^
-||g2insights-cdn.azureedge.net^
 ||g3.iqilu.com^
 ||g3.letv.com^
 ||g3169349360.co^
@@ -16172,6 +16185,7 @@
 ||glbtracker.com^
 ||glbtrk.com^
 ||gld35wndkn.com^
+||gleam.io^
 ||gleambeverleydominate.com^
 ||gleaminist.info^
 ||gleebsex.net^
@@ -16318,6 +16332,7 @@
 ||goblin.hupu.com^
 ||gobmodfoe.com^
 ||gobovoul.net^
+||gocache.net^
 ||goclick.info^
 ||gocp.stroeermediabrands.de^
 ||goddessrig.com^
@@ -16393,7 +16408,6 @@
 ||goprediction.com^
 ||goraps.com^
 ||goredi.com^
-||goredirect.party^
 ||goreleetren.com^
 ||gorettent.xyz^
 ||gorgeousground.com^
@@ -17605,6 +17619,7 @@
 ||hljhufengling.cn^
 ||hljyjm.cn^
 ||hlmiq.com^
+||hlpidkr.ru^
 ||hlrcv.stage.adobe.com^
 ||hlrziwaldlui.com^
 ||hlserve.com^
@@ -18288,6 +18303,7 @@
 ||iangp.com^
 ||iangs.com^
 ||ianisedover.info^
+||ianpos.com^
 ||ianxalim.pw^
 ||iapurlkukrwd.com^
 ||iarfina.pw^
@@ -18810,7 +18826,6 @@
 ||impressionassassin.com^
 ||impressiondesk.com^
 ||impressionmonster.com^
-||impressionperformance.biz^
 ||imprisoninstancescourtyard.com^
 ||improvedigital.com^
 ||imprvdosrv.com^
@@ -21387,6 +21402,7 @@
 ||last2.cn^
 ||lataurir.com^
 ||latest-news.life^
+||latestpromotions.club^
 ||latheendsmoo.com^
 ||lationwordsi.club^
 ||lativenayl.top^
@@ -23733,6 +23749,7 @@
 ||mecontentassent.website^
 ||medal.blog.csdn.net^
 ||medallia.com^
+||medals.bizrate.com^
 ||medcourthe.fun^
 ||medcovern.club^
 ||medi-8.net^
@@ -24449,6 +24466,7 @@
 ||mnaljqzekv.com^
 ||mnbfujorh.com^
 ||mnbvjhg.com^
+||mncdn.com^
 ||mncvjhg.com^
 ||mnetads.com^
 ||mnfiiphpwzyncr.com^
@@ -25160,6 +25178,7 @@
 ||mylhebhwgim.com^
 ||mylikechat.com^
 ||mylinkbox.com^
+||mylovesister.gq^
 ||mynativeads.com^
 ||mynewcounter.com^
 ||mynsystems.com^
@@ -27740,6 +27759,7 @@
 ||perfectaudience.com^
 ||perfectmarket.com^
 ||perfiliate.com^
+||perfops.io^
 ||perfordpetre.club^
 ||performance-based.com^
 ||performanceadexchange.com^
@@ -28909,7 +28929,6 @@
 ||proxy.sec.miui.com^
 ||proxy4life.org^
 ||proxyfl.info^
-||proxyindia.net^
 ||proxypage.msn.com^
 ||proxyreducing.com^
 ||proxytpb.pw^
@@ -28972,6 +28991,7 @@
 ||psvgnczo.com^
 ||psxxbhheqxoy.com^
 ||psychologicaltotalnumeric.com^
+||psychz.net^
 ||psylefywha.pro^
 ||psywed.com^
 ||pszs388.cn^
@@ -30609,7 +30629,6 @@
 ||rev2pub.com^
 ||rev4rtb.com^
 ||revbigo.com^
-||revboostprocdnadsprod.azureedge.net^
 ||revcatch.com^
 ||revcontent.com^
 ||revdepo.com^
@@ -31132,7 +31151,6 @@
 ||rukplaza.com^
 ||rukwbbwcil.com^
 ||rum.azion.com^
-||rum.azioncdn.net^
 ||rum.conde.io^
 ||rum.kobo.com^
 ||rum.marquardmedia.hu^
@@ -31601,6 +31619,7 @@
 ||scaleway.ovh^
 ||scanmedios.com^
 ||scanscout.com^
+||scanverify.com^
 ||scarabresearch.com^
 ||scarceagitationwry.com^
 ||scarcelysorrow.com^
@@ -31796,8 +31815,10 @@
 ||se967.com^
 ||sea-nov-1.com^
 ||seaboblit.com^
+||seal.digicert.com^
 ||seal.godaddy.com^
 ||seal.networksolutions.com^
+||seal.qualys.com^
 ||seal.verisign.com^
 ||sealine.pro^
 ||sealserver.trustwave.com^
@@ -31873,6 +31894,7 @@
 ||securewebsiteaccess.com^
 ||securitain.com^
 ||securite.01net.com^
+||securitymetrics.com^
 ||securitytrfx.com^
 ||sedativesandhandbook.com^
 ||sedatorsinted.info^
@@ -32260,6 +32282,7 @@
 ||shglegle.com^
 ||shibagongfang.com^
 ||shicao.icantv.cn^
+||shidaikejivip.cn^
 ||shidailw.com^
 ||shiftrro.com^
 ||shiguangyx.cn^
@@ -34333,6 +34356,7 @@
 ||sxuunews.pro^
 ||sxwwizqaoedor.com^
 ||sxxca.com^
+||sxxfmc.com^
 ||sxxjdz.com^
 ||sxybjjz.cn^
 ||sxying.top^
@@ -35010,7 +35034,6 @@
 ||teracent.net^
 ||teracreative.com^
 ||teralog.techhub.co.kr^
-||teramill.com^
 ||tercabilis.info^
 ||tercept.com^
 ||terdaywe.top^
@@ -37742,6 +37765,7 @@
 ||verified-extensions.com^
 ||verifier.li^
 ||verifier.live^
+||verify.authorize.net^
 ||verifypow.com^
 ||veritrol.com^
 ||vernmentbasily.com^
@@ -40445,6 +40469,7 @@
 ||yaoyl.com^
 ||yap.yahoo.com^
 ||yapparenalu.info^
+||yapusheji.com^
 ||yardr.net^
 ||yashi.com^
 ||yasmwesikz.com^
@@ -40606,6 +40631,7 @@
 ||ygiqfnn.cn^
 ||yglhcn.cn^
 ||ygnftomdh.com^
+||ygnoqu.cn^
 ||ygpd.wang^
 ||ygqczh.com^
 ||ygsm.com^
