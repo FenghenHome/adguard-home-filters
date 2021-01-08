@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 07-01-2021 18:56 UTC
-! Count: 41,987
+! Last Modified: 08-01-2021 18:56 UTC
+! Count: 42,021
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -127,6 +127,7 @@
 @@||tongji.edu.cn^
 @@||track.cpau.info^
 @@||track.sendcloud.org^
+@@||track.toggl.com^
 @@||tracker.eu.org^
 @@||tracking.epicgames.com^
 @@||tuhu.cn^
@@ -1787,6 +1788,7 @@
 ||7bwan.com^
 ||7c1e55606540.com^
 ||7car.com.cn^
+||7cbwus.cn^
 ||7cjsh.cn^
 ||7clink.com^
 ||7cx.com^
@@ -2858,6 +2860,7 @@
 ||ad.hiiir.com^
 ||ad.holaq.com^
 ||ad.house365.com^
+||ad.hpplay.cn^
 ||ad.huajiao.com^
 ||ad.ibookstar.com^
 ||ad.ikonke.com^
@@ -3030,6 +3033,7 @@
 ||adc-serv.net^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
+||adc.hpplay.cn^
 ||adc.nine.com.au^
 ||adcade.com^
 ||adcalm.com^
@@ -3041,6 +3045,7 @@
 ||adccoo.cn^
 ||adcde.com^
 ||adcdn.goo.ne.jp^
+||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adcdnx.com^
 ||adcell.com^
@@ -3120,6 +3125,7 @@
 ||aden.baidu.com^
 ||adenabler.com^
 ||adenc.co.kr^
+||adeng.hpplay.cn^
 ||adengage.com^
 ||adentifi.com^
 ||adeq.hiidc.com.cn^
@@ -4414,6 +4420,7 @@
 ||ahunai.cn^
 ||ahunui.cn^
 ||ahw3.com^
+||ahwczn.cn^
 ||ahwzvnqc.com^
 ||ahxhny.cn^
 ||ahyau.com^
@@ -6066,7 +6073,6 @@
 ||azrjdlvlsxihbd.com^
 ||azsikvmhlzuhje.com^
 ||aztecash.com^
-||azureedge.net^
 ||azvjudwr.info^
 ||azwsolqpewo.com^
 ||b-aws.aol.com^
@@ -6964,6 +6970,7 @@
 ||bicacxo5go.com^
 ||bicarepterone.net^
 ||bicesteradvertiser-gb.bicesteradvertiser.net^
+||biceunivers.fun^
 ||bid.glass^
 ||bid.run^
 ||bidadx.com^
@@ -8401,6 +8408,7 @@
 ||cdn.dragonstatic.com^
 ||cdn.dsp.com^
 ||cdn.hiido.cn^
+||cdn.hpplay.com.cn^
 ||cdn.iclicash.com^
 ||cdn.img.kachapt.cn^
 ||cdn.img.liuxingyul.cn^
@@ -9646,6 +9654,7 @@
 ||conduit-services.com^
 ||conduze.com^
 ||conf.funshion.com^
+||conf.hpplay.cn^
 ||conf.vidown.cn^
 ||confesschairs.com^
 ||confiant-integrations.global.ssl.fastly.net^
@@ -10706,6 +10715,7 @@
 ||d2-apps.net^
 ||d2.sina.com.cn^
 ||d2.yiche.com^
+||d20903hof2l33q.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
 ||d21j20wsoewvjq.cloudfront.net^
@@ -10714,6 +10724,7 @@
 ||d227cncaprzd7y.cloudfront.net^
 ||d22lo5bcpq2fif.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
+||d22xmn10vbouk4.cloudfront.net^
 ||d22z575k8abudv.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
@@ -10952,6 +10963,7 @@
 ||dabaoku.com^
 ||dable.io^
 ||dabxzyfcxrdgbs.com^
+||dacedsfa.cn^
 ||dachadu.cn^
 ||dacoloment.pro^
 ||dacounter.com^
@@ -14758,6 +14770,7 @@
 ||fitbxtqgneq.com^
 ||fivecdm.com^
 ||fiwatmctnaqec.com^
+||fix.hpplay.cn^
 ||fixchidie.com^
 ||fixcounter.com^
 ||fixedlyuncoveradjoin.com^
@@ -15503,6 +15516,7 @@
 ||g2971265025.co^
 ||g2a-com.newsletter.com.pl^
 ||g2afse.com^
+||g2insights-cdn.azureedge.net^
 ||g3.iqilu.com^
 ||g3.letv.com^
 ||g3169349360.co^
@@ -16656,6 +16670,7 @@
 ||gsjdzx.com^
 ||gsjgkpnq.com^
 ||gsjlfs.com^
+||gslb.hpplay.cn^
 ||gslyyfntvnwbad.com^
 ||gsmtop.net^
 ||gso0.com^
@@ -16911,6 +16926,7 @@
 ||h4game.net^
 ||h4k5.com^
 ||h5.holalauncher.com^
+||h5.hpplay.com.cn^
 ||h5.jiumaster.com^
 ||h5.mse.360.cn^
 ||h5.pk1179.com^
@@ -17833,6 +17849,7 @@
 ||hotrank.com.tw^
 ||hotsocials.com^
 ||hottraffic.nl^
+||hotupgrade.hpplay.cn^
 ||hotwords.com.br^
 ||hotwords.com.mx^
 ||hotwords.com^
@@ -17875,7 +17892,7 @@
 ||hplctrsd.com^
 ||hplose.de^
 ||hpmyhrljkbl.com^
-||hpplay.cn^
+||hpplay.cdn.cibn.cc^
 ||hprofits.com^
 ||hpsszw.cn^
 ||hpuknttzl.com^
@@ -18610,6 +18627,7 @@
 ||image.box.xiaomi.com^
 ||image.cecash.com^
 ||image.fsyule.net^
+||image.hpplay.cn^
 ||image.p4p.sogou.com^
 ||image.qj175.com^
 ||image.ttyouma.cn^
@@ -18643,6 +18661,7 @@
 ||imbetan.info^
 ||imbwnxknxzmo.com^
 ||imcht.net^
+||imdns.hpplay.cn^
 ||imediaaudiences.com^
 ||imediarevenue.com^
 ||imeijiajia.com^
@@ -23269,6 +23288,7 @@
 ||m.zvfuka.cn^
 ||m.zwda.com^
 ||m.zwdu.com^
+||m06nev.com^
 ||m0hcppadsnq8.com^
 ||m0mentum.net^
 ||m1.100how.com^
@@ -28028,6 +28048,7 @@
 ||pimg1.126.net^
 ||pimlog.baidu.com^
 ||pimpmypr.de^
+||pin.hpplay.cn^
 ||pinballpublishernetwork.com^
 ||pincai.com^
 ||pinchingepoch.com^
@@ -29669,6 +29690,7 @@
 ||qkykxrm.cn^
 ||qkzwxhcleqj.com^
 ||ql.uzuzuz.com^
+||ql01t4.com^
 ||qlaot.com^
 ||qlblpyslxciorl.com^
 ||qlcsqjxly.com^
@@ -30260,6 +30282,7 @@
 ||realizerecess.com^
 ||realizevacation.com^
 ||realleguasse.xyz^
+||realm.hearst3pcc.com^
 ||realmatch.com^
 ||realmedia.com^
 ||realmpallduns.com^
@@ -30629,6 +30652,7 @@
 ||rev2pub.com^
 ||rev4rtb.com^
 ||revbigo.com^
+||revboostprocdnadsprod.azureedge.net^
 ||revcatch.com^
 ||revcontent.com^
 ||revdepo.com^
@@ -31002,6 +31026,7 @@
 ||rp-rep.net^
 ||rp.baidu.cn^
 ||rp.baidu.com^
+||rp.hpplay.cn^
 ||rpaulfrank.com^
 ||rpdtrk.com^
 ||rpjzlykhkdc.com^
@@ -31777,6 +31802,7 @@
 ||sdk2.youguoquan.com^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
+||sdkauth.hpplay.cn^
 ||sdkclick.com^
 ||sdkclick.mobile.sina.cn^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -32675,6 +32701,7 @@
 ||skytvonline.tv^
 ||skywinners.com.cn^
 ||sl-ct5.com^
+||sl.hpplay.cn^
 ||sl.video.xycdn.n0808.com^
 ||sl.xawjwl.com^
 ||sl1me.com^
@@ -34238,6 +34265,7 @@
 ||surveywriter.com^
 ||surveywriter.net^
 ||survicate.com^
+||susandsoc.top^
 ||susapi.dev.surepush.cn^
 ||susapi.lenovomm.com^
 ||sushipool.com^
@@ -36538,6 +36566,7 @@
 ||tuygdfsydexdeb.com^
 ||tuziluoluo.com^
 ||tv1s4d6klh4n.com^
+||tvapp.hpplay.cn^
 ||tvbyb04.cn^
 ||tvbyb04.com^
 ||tveszimawy.com^
@@ -36663,6 +36692,7 @@
 ||tz.1688988.com^
 ||tz284.com^
 ||tzbtw.com^
+||tzh019.cn^
 ||tzlchxdwreirbv.com^
 ||tztcvkhqrzjt.com^
 ||u-mob.cn^
@@ -37955,6 +37985,7 @@
 ||vip.qqxwf.com^
 ||vip.winfisc.com^
 ||vipads.cn^
+||vipauth.hpplay.cn^
 ||vipchaoshi.cn^
 ||vipcpms.com^
 ||vipicmou.net^
@@ -38451,6 +38482,7 @@
 ||wangdq.com^
 ||wangfenxi.com^
 ||wangjinhu.wang^
+||wangjulm.com^
 ||wangkeduo.cn^
 ||wangketuan.com^
 ||wangliqin.top^
@@ -40780,6 +40812,7 @@
 ||yjtag.jp^
 ||yjtag.yahoo.co.jp^
 ||yjwtxskmswcjc.com^
+||yjxqy.com^
 ||yk0712.com^
 ||ykad-gateway.youku.com^
 ||ykanx.com^
@@ -41559,6 +41592,7 @@
 ||zhlfogiy.com^
 ||zhlrcaahpuqh.com^
 ||zhmatou.com^
+||zhmyq.cn^
 ||zhongbolm.com^
 ||zhongchengzp.com^
 ||zhongdoulicai.com^
