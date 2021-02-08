@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 08-02-2021 02:58 UTC
-! Count: 82,077
+! Last Modified: 08-02-2021 03:31 UTC
+! Count: 82,073
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -17,7 +17,6 @@
 ! https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker
 ! https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad.txt
 ! https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
-! https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 ! https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt
 ! https://sub.adtchrome.com/adt-chinalist-easylist.txt
 !
@@ -19894,7 +19893,6 @@
 ||cmytuok.top^
 ||cn-3drp.com^
 ||cn.bidushe.com^
-||cn.bing.com^
 ||cn.innity-asia.com^
 ||cnad.economicoutlook.net^
 ||cnad1.economicoutlook.net^
@@ -30214,7 +30212,6 @@
 ||fpcclicks.com^
 ||fpctraffic.com^
 ||fpctraffic2.com^
-||fpdownload.macromedia.com^
 ||fpeegzspcgnjt.com^
 ||fperefo.ru^
 ||fpesoigpyes.com^
@@ -31789,7 +31786,6 @@
 ||get.thisisvegas.com^
 ||get.x-link.pl^
 ||get1trightn0w.com^
-||get3.adobe.com^
 ||get35.com^
 ||get8bit.com^
 ||getacool100.com^
@@ -36743,7 +36739,6 @@
 ||img.zsj18.com^
 ||img.zuowen8.com^
 ||img.zuowenwang.net^
-||img.zuoyebang.cc^
 ||img.zx590.com^
 ||img001.com^
 ||img01.taotaosou.cn^
