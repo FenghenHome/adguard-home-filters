@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-02-2021 09:52 UTC
-! Count: 42,834
+! Last Modified: 10-02-2021 11:00 UTC
+! Count: 42,856
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -67,6 +67,7 @@
 @@||ads.ultimatesurrender.com^
 @@||advert.kf5.com^
 @@||advertisement.taobao.com^
+@@||alicdn.com^
 @@||analytics.amplitude.com^
 @@||api-merchants.skimlinks.com^
 @@||api.ad-gone.com^
@@ -4318,6 +4319,7 @@
 ||aec.shjk123.net^
 ||aec40f9e073ba6.com^
 ||aeckcjy.com^
+||aecpm.alicdn.com^
 ||aeeefzfuk.com^
 ||aeesy.com^
 ||aeghae5y.com^
@@ -4456,6 +4458,7 @@
 ||aflrm.com^
 ||afminer.com^
 ||afoux.com^
+||afp.alicdn.com^
 ||afp.chinanews.com^
 ||afp.iqiyi.com^
 ||afp.m1905.com^
@@ -4466,6 +4469,7 @@
 ||afp.zol-img.com.cn^
 ||afpcreative.wasu.cn^
 ||afpimages.eastday.com^
+||afpmm.alicdn.com^
 ||afqveoju.com^
 ||afraidlanguage.com^
 ||afrfndbumyyt.com^
@@ -4782,7 +4786,6 @@
 ||alibdl.xyz^
 ||alibdm.xyz^
 ||alibdn.xyz^
-||alicdn.com^
 ||alicmayuns.com^
 ||alicpd.top^
 ||alidongxi.com^
@@ -4793,6 +4796,7 @@
 ||alignclamstram.com^
 ||aliguojw.com^
 ||alikeaddition.com^
+||alimama.alicdn.com^
 ||alimama.cn^
 ||alimama.com^
 ||alimb.top^
@@ -5568,6 +5572,7 @@
 ||appcpa.co^
 ||appcpa.net^
 ||appcpi.net^
+||appdownload.alicdn.com^
 ||appdriver.cn^
 ||appdriver.com.cn^
 ||appealthroughout.com^
@@ -5808,6 +5813,7 @@
 ||asdpoi.com^
 ||aseabnyw.com^
 ||aseadnet.com^
+||asearch.alicdn.com^
 ||asenytuhlhwrwz.com^
 ||asepurch.pro^
 ||aservices.party^
@@ -5905,6 +5911,8 @@
 ||atacjnqbkok.com^
 ||atadserver.com^
 ||ataijeeg.net^
+||atanx.alicdn.com^
+||atanx2.alicdn.com^
 ||atas.io^
 ||atatus.com^
 ||atax.gamermetrics.com^
@@ -6404,6 +6412,7 @@
 ||bahu.xyz^
 ||bai3.gushiwen.org^
 ||baiapk.com^
+||baichuan-sdk.alicdn.com^
 ||baichuan.baidu.com^
 ||baichuanbi.wang^
 ||baicoath.net^
@@ -12511,6 +12520,7 @@
 ||doqapnez.com^
 ||doqjemtf.com^
 ||dorama.site^
+||dorangesource.alicdn.com^
 ||dorbanise.pw^
 ||dormitysature.info^
 ||dormyawape.com^
@@ -16274,6 +16284,7 @@
 ||gemini.yahoo.com^
 ||gemius.pl^
 ||gemsasto.com^
+||gen.alicdn.com^
 ||gen.etherscan.io^
 ||gencehepatie.club^
 ||gendenlend.club^
@@ -16726,6 +16737,7 @@
 ||gm.uc003.com^
 ||gm682.com^
 ||gm99.com^
+||gma.alicdn.com^
 ||gma1.com^
 ||gmads.net^
 ||gmdsyfvwmqitz.com^
@@ -17163,6 +17175,7 @@
 ||gtiou.com^
 ||gtlcgovlg.com^
 ||gtlp.net.cn^
+||gtmsdd.alicdn.com^
 ||gtmucs.cn^
 ||gtnde.com^
 ||gtnlyyxfhkjv.com^
@@ -17481,6 +17494,7 @@
 ||handanxinkai.com^
 ||handll.com^
 ||handy-tab.com^
+||handycam.alicdn.com^
 ||hangorientalauto.com^
 ||hanhooo.cn^
 ||hanju18.net^
@@ -19163,6 +19177,7 @@
 ||ikyzcnyqkzctm.com^
 ||il05pzhujicf.com^
 ||il8r.com^
+||ilce.alicdn.com^
 ||ildhy.com^
 ||ileokscsawzzrh.com^
 ||ilepai.com^
@@ -26057,6 +26072,7 @@
 ||nbkwnsonadrb.com^
 ||nblczw.com^
 ||nbnhhwnjbkdmfi.com^
+||nbsdk-baichuan.alicdn.com^
 ||nbstatic.com^
 ||nbullrusma.top^
 ||nbuzrpmvgwsmjg.com^
@@ -29644,6 +29660,7 @@
 ||proximic.com^
 ||proxy-ddsjfhkmnk.now.sh^
 ||proxy-khlizawelj.now.sh^
+||proxy-mob-cld.alicdn.com^
 ||proxy.sec.miui.com^
 ||proxy4life.org^
 ||proxyfl.info^
@@ -29703,6 +29720,7 @@
 ||psoultar.net^
 ||psoumtou.net^
 ||psozoult.net^
+||pss.alicdn.com^
 ||pstarv.cn^
 ||pstats.com^
 ||psulsobi.net^
@@ -34826,6 +34844,7 @@
 ||strikeadcdn.s3.amazonaws.com^
 ||strikersucces.site^
 ||stringroadway.com^
+||strip.alicdn.com^
 ||stripedcollar.net^
 ||striplesthosen.club^
 ||stripsaver.com^
@@ -35640,6 +35659,7 @@
 ||tcatkrccxgc.com^
 ||tcblwdybgbtzl.com^
 ||tcbox.baidu.com^
+||tce.alicdn.com^
 ||tcetggiry.com^
 ||tcgqqmjyg.com^
 ||tchamomil.club^
@@ -37804,6 +37824,7 @@
 ||umapi.cn^
 ||umbbs.cn^
 ||umbel.com^
+||umc.danuoyi.alicdn.com^
 ||umcbbt.com^
 ||umebiggestern.club^
 ||umehoars.club^
@@ -37878,6 +37899,7 @@
 ||unicast.com^
 ||uniclick.openv.com^
 ||uniconsent.com^
+||unidesk.alicdn.com^
 ||unificfancin.club^
 ||unifini.de^
 ||uniformer.club^
