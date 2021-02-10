@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-02-2021 09:38 UTC
-! Count: 42,806
+! Last Modified: 10-02-2021 09:52 UTC
+! Count: 42,834
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -98,6 +98,7 @@
 @@||geo.query.yahoo.com^
 @@||image.coolapk.com^
 @@||img.ads.tvb.com^
+@@||jd.com^
 @@||lemon.baidu.com^
 @@||log.mmstat.com^
 @@||ltzn.9377.com^
@@ -3740,6 +3741,7 @@
 ||ads-sg.tiktok.com^
 ||ads-trk.vidible.tv^
 ||ads-twitter.com^
+||ads-union.jd.com^
 ||ads.979799777.com^
 ||ads.adaptv.advertising.com^
 ||ads.admoda.com^
@@ -3786,6 +3788,7 @@
 ||ads.tripod.lycos.nl^
 ||ads.ttv.com.tw^
 ||ads.uc.cn^
+||ads.union.jd.com^
 ||ads.unister-gmbh.de^
 ||ads.vipbaihe.com^
 ||ads.vserv.mobi^
@@ -6794,6 +6797,7 @@
 ||bdpuaw.com^
 ||bds.hainan.net^
 ||bds.snssdk.com^
+||bdsp.x.jd.com^
 ||bdstatic.eastmoney.com^
 ||bdtongfei.cn^
 ||bdtv.tianlangkm.com^
@@ -8113,6 +8117,7 @@
 ||bzsukdfbotd.com^
 ||bzxmgyfae.com^
 ||c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com^
+||c-nfa.jd.com^
 ||c-o-u-n-t.com^
 ||c-on-text.com^
 ||c-planet.net^
@@ -8549,6 +8554,7 @@
 ||cbzjukldosooj.com^
 ||cc-dt.com^
 ||cc.dace.hupu.com^
+||cc.m.jd.com^
 ||cc.piao.jianzhigg.com^
 ||cc.qiqisou.cn^
 ||cc.swiftype.com^
@@ -9605,6 +9611,7 @@
 ||cm.bilibili.com^
 ||cm.dmp.360.cn^
 ||cm.dmp.sina.cn^
+||cm.jd.com^
 ||cm.mediav.com^
 ||cm.p4p.cn.yahoo.com^
 ||cm.passport.iqiyi.com^
@@ -11939,6 +11946,7 @@
 ||dftoutiao.com^
 ||dfxvfkutloxnyl.com^
 ||dfyudpyceqoy.com^
+||dg.k.jd.com^
 ||dgafgadsgkjg.top^
 ||dgaoz.com^
 ||dgarvwharbgpb.com^
@@ -11952,6 +11960,7 @@
 ||dgoqeqfihs.com^
 ||dgpcdn.org^
 ||dgpzx.com^
+||dgstatic.jd.com^
 ||dgtauto.com^
 ||dgtmyxfuzwtr.com^
 ||dgtnoyoud.com^
@@ -12786,6 +12795,7 @@
 ||dtzysm.com^
 ||du.163.com^
 ||du.biqukan.com^
+||du.jd.com^
 ||du01z5hhojprz.cloudfront.net^
 ||du1.bbdj.com^
 ||du2uh7rq0r0d3.cloudfront.net^
@@ -16539,6 +16549,7 @@
 ||ghudns8sbb.buzz^
 ||ghvmjvkpapct.com^
 ||gi.xi.gxabj.com^
+||gia.jd.com^
 ||giantaffiliates.com^
 ||giantsavings-a.akamaihd.net^
 ||giddyattendant.com^
@@ -19181,6 +19192,7 @@
 ||ilypsycholasg.club^
 ||ilzjjdujrgaa.com^
 ||im-apps.net^
+||im-x.jd.com^
 ||im.aol.de^
 ||im.ov.yahoo.co.jp^
 ||im2ss2ss.top^
@@ -19230,6 +19242,7 @@
 ||imeijiajia.com^
 ||imetrix.it^
 ||img-ad.oupeng.com^
+||img-x.jd.com^
 ||img.12584.cn^
 ||img.1whour.com^
 ||img.263y.com^
@@ -20262,13 +20275,13 @@
 ||jchgcipyywszqt.com^
 ||jchhompudl.com^
 ||jcjrcmaunbqxg.com^
+||jcm.jd.com^
 ||jcs666.com^
 ||jct.maptu.cn^
 ||jcwwxn.com^
 ||jczzjx.com^
 ||jd.c-ptsp.com.cn^
 ||jd.com.pesbbw.cn^
-||jd.com^
 ||jdaot.com^
 ||jdb.jiudingcapital.cn^
 ||jdb.jiudingcapital.com^
@@ -20768,7 +20781,9 @@
 ||jqziltjcuwr.com^
 ||jqzlmjaph.com^
 ||jractwjn.com^
+||jrad.jd.com^
 ||jrarnqfvjijaa.com^
+||jrclick.jd.com^
 ||jrdkc.com^
 ||jrecvuklrjpli.com^
 ||jrhaigou.com^
@@ -21145,6 +21160,7 @@
 ||jzqemifphogo.com^
 ||jzrzpump.com^
 ||jzswicjgfvtqun.com^
+||jzt.jd.com^
 ||k-analytix.com^
 ||k.16vcd.com^
 ||k.5p67n.cn^
@@ -21325,6 +21341,7 @@
 ||kenfeeask.com^
 ||kennetting.club^
 ||kepler-37b.com^
+||kepler.jd.com^
 ||keplev.cn^
 ||keqii.com^
 ||kerg.net^
@@ -21584,6 +21601,7 @@
 ||kneadbewitch.com^
 ||knet.cn^
 ||kngcjx.com^
+||knicks.jd.com^
 ||kniferasatte.info^
 ||knivestuitionconsequence.com^
 ||knjkdsrw.com^
@@ -24137,6 +24155,7 @@
 ||maro30.com^
 ||maropost.com^
 ||marphezis.com^
+||mars.jd.com^
 ||marsads.com^
 ||marshydespotdestroyer.com^
 ||martafatass.pro^
@@ -24558,6 +24577,7 @@
 ||mercialtaver.club^
 ||merciselyancies.site^
 ||mercuras.com^
+||mercury.jd.com^
 ||mercy.ga^
 ||mercyusuallylikewise.com^
 ||meried.co^
@@ -27666,6 +27686,7 @@
 ||oratosaeron.com^
 ||orbengine.com^
 ||orbidder.otto.de^
+||orbit.jd.com^
 ||orbitfour47.com^
 ||orcapia.com^
 ||orchidscape.net^
@@ -29107,6 +29128,7 @@
 ||poleonaryprac.info^
 ||policemanciderpeeks.com^
 ||policityseriod.info^
+||policy.jd.com^
 ||policy.video.iqiyi.com^
 ||polishshinyspectacles.com^
 ||polituremil.club^
@@ -34363,6 +34385,7 @@
 ||stat.jc001.cn^
 ||stat.kbs.co.kr^
 ||stat.m.360.cn^
+||stat.m.jd.com^
 ||stat.matichon.co.th^
 ||stat.moevideo.net^
 ||stat.moji.com^
@@ -37448,6 +37471,7 @@
 ||u-mob.cn^
 ||u-on.eu^
 ||u-watchit.com^
+||u-x.jd.com^
 ||u.801t.com^
 ||u.api.look.360.cn^
 ||u.cnzol.com^
@@ -37457,6 +37481,7 @@
 ||u.qijads.com^
 ||u.qijipc.com^
 ||u.raidmedia.com.cn^
+||u.x.jd.com^
 ||u.xfmfqdt.cn^
 ||u.yizuya.com^
 ||u.zoulj.xyz^
@@ -39922,6 +39947,7 @@
 ||wl.duoshitong.com^
 ||wl.eastlady.cn^
 ||wl.hd.sohu.com^
+||wl.jd.com^
 ||wl.xsoftmall.com^
 ||wl963.com^
 ||wla.vivaldi.com^
@@ -39959,6 +39985,7 @@
 ||wmtech.website^
 ||wmtyrdrpjbhnj.com^
 ||wn.pos.baidu.com^
+||wn.x.jd.com^
 ||wnaibjbnqown.com^
 ||wnbfw.com^
 ||wndhsykmbe.com^
@@ -40388,6 +40415,7 @@
 ||x.disq.us^
 ||x.fidelity-media.com^
 ||x.infzm.com^
+||x.jd.com^
 ||x.lzspf.com^
 ||x.mtrend.cn^
 ||x.niuliyan.cn^
