@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 09-02-2021 18:50 UTC
-! Count: 42,798
+! Last Modified: 10-02-2021 09:38 UTC
+! Count: 42,806
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -117,6 +117,7 @@
 @@||sax.sina.com.cn^
 @@||sdkapi.sms.mob.com^
 @@||shop.letv.com^
+@@||sinaimg.cn^
 @@||skyapi.onedrive.live.com^
 @@||speedtest.net^
 @@||stat.jseea.cn^
@@ -3051,6 +3052,7 @@
 ||ad.tencentmusic.com^
 ||ad.thsi.cn^
 ||ad.toutiao.com^
+||ad.us.sinaimg.cn^
 ||ad.video.51togic.com^
 ||ad.vryeye.com^
 ||ad.walkgame.com^
@@ -5462,6 +5464,7 @@
 ||api.mini.wps.cn^
 ||api.mlinks.co^
 ||api.mp.uc.cn^
+||api.netflare.info^
 ||api.newad.ifeng.com^
 ||api.newbelden.com^
 ||api.newsfeed.intl.miui.com^
@@ -9573,7 +9576,6 @@
 ||cloudflare.solutions^
 ||cloudflareinsights.com^
 ||cloudfront-labs.amazonaws.com^
-||cloudgallery.net^
 ||cloudiiv.com^
 ||cloudimagesa.com^
 ||cloudioo.net^
@@ -10978,6 +10980,7 @@
 ||d.ynjk120.com^
 ||d.ziyuanm.com^
 ||d0.sina.com.cn^
+||d0.sinaimg.cn^
 ||d0.xcar.com.cn^
 ||d00.sina.com.cn^
 ||d04b7831b4690.com^
@@ -10992,6 +10995,7 @@
 ||d1.handdiy.com^
 ||d1.showself.com^
 ||d1.sina.com.cn^
+||d1.sinaimg.cn^
 ||d1.zhuangxiu6.com^
 ||d10gj7yjsfriaj.cloudfront.net^
 ||d10lpsik1i8c69.cloudfront.net^
@@ -11089,6 +11093,7 @@
 ||d1zgderxoe1a.cloudfront.net^
 ||d2-apps.net^
 ||d2.sina.com.cn^
+||d2.sinaimg.cn^
 ||d2.yiche.com^
 ||d20903hof2l33q.cloudfront.net^
 ||d20kffh39acpue.cloudfront.net^
@@ -11139,6 +11144,7 @@
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
 ||d2j042cj1421wi.cloudfront.net^
+||d2j1fszo1axgmp.cloudfront.net^
 ||d2k7b1tjy36ro0.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kk0o3fr7ed01.cloudfront.net^
@@ -11184,6 +11190,7 @@
 ||d2z51a9spn09cw.cloudfront.net^
 ||d2zcblk8m9mzq5.cloudfront.net^
 ||d3.sina.com.cn^
+||d3.sinaimg.cn^
 ||d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com^
 ||d30sxnvlkawtwa.cloudfront.net^
 ||d31ea41705818c9.com^
@@ -11274,12 +11281,14 @@
 ||d3vnm1492fpnm2.cloudfront.net^
 ||d3vpf6i51y286p.cloudfront.net^
 ||d4.sina.com.cn^
+||d4.sinaimg.cn^
 ||d41.co^
 ||d4a77d8bc81ae17.com^
 ||d4ax0r5detcsu.cloudfront.net^
 ||d4d48974197052ea.com^
 ||d4ngwggzm3w7j.cloudfront.net^
 ||d5.sina.com.cn^
+||d5.sinaimg.cn^
 ||d50285bff60edbb406.com^
 ||d58bf31082fa97.com^
 ||d59fa492f75f520.com^
@@ -11290,6 +11299,7 @@
 ||d5nxst8fruw4z.cloudfront.net^
 ||d5pb47xzjz3fc.cloudfront.net^
 ||d6.sina.com.cn^
+||d6.sinaimg.cn^
 ||d602196786e42d.com^
 ||d60227ef59e.com^
 ||d63a3au5lqmtu.cloudfront.net^
@@ -11299,6 +11309,7 @@
 ||d6s3mov.cn^
 ||d6sav80kktzcx.cloudfront.net^
 ||d7.sina.com.cn^
+||d7.sinaimg.cn^
 ||d7016uqa4s0lw.cloudfront.net^
 ||d71e6dd31a026d45.com^
 ||d72gb9oukw3j.com^
@@ -11309,6 +11320,7 @@
 ||d7e10fa2099.com^
 ||d7s3muv.cn^
 ||d8.sina.com.cn^
+||d8.sinaimg.cn^
 ||d81mfvml8p5ml.cloudfront.net^
 ||d8360.com^
 ||d869381a42af33b.com^
@@ -11317,6 +11329,7 @@
 ||d8ekco.com^
 ||d8rk54i4mohrb.cloudfront.net^
 ||d9.sina.com.cn^
+||d9.sinaimg.cn^
 ||d93nzb.cn^
 ||d99sure.xyz^
 ||d9ad.com^
@@ -12679,7 +12692,6 @@
 ||druic.mytxt.cc^
 ||druis.mytxt.cc^
 ||drunkersrr.club^
-||drupalupdates.tk^
 ||drvmy.ats68.cn^
 ||drwkzkncihwygw.com^
 ||drwttspxjdoosq.com^
@@ -21038,6 +21050,7 @@
 ||jvoice.cn^
 ||jvyigg.biquge.lu^
 ||jvyigg.biqugeq.com^
+||jvyigg.biqumo.com^
 ||jvyigg.zbzw.la^
 ||jvykohlq.com^
 ||jwcavytgs.com^
@@ -21862,6 +21875,7 @@
 ||l.ooyala.com^
 ||l.player.ooyala.com^
 ||l.qq.com^
+||l.typesquare.com^
 ||l.xfmfqdt.cn^
 ||l.yidianzixun.com^
 ||l.ykimg.com^
@@ -23028,6 +23042,7 @@
 ||lpwzjhkuwbe.com^
 ||lpxdkhfauevov.com^
 ||lpzsxemf.com^
+||lq.booktxt.net^
 ||lq.xsbooktxt.com^
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
@@ -25256,6 +25271,7 @@
 ||momdanwillingness.com^
 ||momently.com^
 ||momentumviable.com^
+||momwentthere.cf^
 ||momzs.com^
 ||mon.majorserving.com^
 ||mon.snssdk.com^
@@ -25791,7 +25807,6 @@
 ||myhard.com^
 ||myhug.cn^
 ||myiee.com^
-||myinfotopia.com^
 ||myip.myzaker.com^
 ||mykhtesikvuz.com^
 ||mylbhsppnrskr.com^
@@ -26171,7 +26186,6 @@
 ||netdebit-counter.de^
 ||netfix8.info^
 ||netflame.cc^
-||netflare.info^
 ||netgraviton.net^
 ||netinsight.co.kr^
 ||netko0o.com^
@@ -27243,7 +27257,6 @@
 ||oimagea2.ydstatic.com^
 ||oimg.m.cnbc.com^
 ||oimg.mobile.cnbc.com^
-||oinkinns.tk^
 ||oinqqbzs.com^
 ||oinvalentpriv.top^
 ||oipcqenejq.com^
@@ -27950,7 +27963,6 @@
 ||p.milliyet.com.tr^
 ||p.niudashu.com^
 ||p.pagesjaunes.fr^
-||p.pstatp.com^
 ||p.qfmzys.com^
 ||p.qijijs.top^
 ||p.raasnet.com^
@@ -27974,14 +27986,11 @@
 ||p0.raasnet.com^
 ||p0y.cn^
 ||p1.chinakaoyan.com^
-||p1.pstatp.com^
 ||p1.zhongyoo.com^
 ||p1.zhumengwl.com^
-||p10.pstatp.com^
 ||p188.cn^
 ||p1wr6.cn^
 ||p2.hunantv.com^
-||p2.pstatp.com^
 ||p2.ykauto.cn^
 ||p24.hu^
 ||p2ads.com^
@@ -27990,29 +27999,22 @@
 ||p2poolmining.com^
 ||p2r14.com^
 ||p2sdmkj6t.bkt.clouddn.com^
-||p3.pstatp.com^
 ||p30rank.ir^
 ||p3in5rismp.tk^
 ||p3p.mmstat.com^
 ||p3p.sogou.com^
 ||p3p.yahoo.com^
 ||p3tt.com^
-||p4.pstatp.com^
 ||p4p.sina.com.cn^
 ||p4psearch.china.alibaba.com^
-||p5.pstatp.com^
 ||p555.cc^
 ||p5genexs.com^
-||p6.pstatp.com^
 ||p6p2w3v92czo.com^
-||p7.pstatp.com^
 ||p74.cc^
 ||p77777777.com^
 ||p78lld1s.top^
 ||p7m1rc80jdum.com^
-||p8.pstatp.com^
 ||p8u.hinet.net^
-||p9.pstatp.com^
 ||p9oqu.com^
 ||pa-oa.com^
 ||paads.dk^
@@ -28276,8 +28278,6 @@
 ||pb.shuxigua.com^
 ||pb.sogou.com^
 ||pb.wang502.com^
-||pb1.pstatp.com^
-||pb2.pstatp.com^
 ||pb3.pstatp.com^
 ||pb5oqguywycj.com^
 ||pbbl.co^
@@ -29804,6 +29804,7 @@
 ||pubrain.com^
 ||pubs.hiddennetwork.com^
 ||pubstack.io^
+||pubtech.ai^
 ||pubted.com^
 ||pubwise.io^
 ||pucemara.com^
@@ -29905,6 +29906,7 @@
 ||push2check.com^
 ||push4site.com^
 ||pusha.se^
+||pushaddict.com^
 ||pushads.biz^
 ||pushagim.com^
 ||pushalert.co^
@@ -30845,6 +30847,7 @@
 ||raupsica.net^
 ||raupsooy.net^
 ||rauraich.com^
+||rav4.wn052ucd.online^
 ||ravalads.com^
 ||ravalynn.pw^
 ||ravelin.click^
@@ -31693,6 +31696,7 @@
 ||rotdubboy.com^
 ||rote8mino.com^
 ||rotorads.com^
+||rottenwhorememe.cf^
 ||rottilderum.cam^
 ||rotumal.com^
 ||roughthos.top^
@@ -33274,7 +33278,6 @@
 ||sinaalicdn.com^
 ||sinaaliyun.cn^
 ||sinabuy.cn^
-||sinaimg.cn^
 ||sinawap.com^
 ||sinawbimg.com^
 ||sinbinchina.cn^
@@ -38461,6 +38464,7 @@
 ||vcardsdkservice.vivo.com.cn^
 ||vcbn65.xyz^
 ||vcfnspbgztl.com^
+||vcfs6ip5h6.bi^
 ||vcfs6ip5h6.bid^
 ||vch.voyage-prive.ch^
 ||vchim.com^
@@ -39116,6 +39120,7 @@
 ||vwxptkkqbyppe.com^
 ||vwzolswcoyla.com^
 ||vxdrqtghmztm.com^
+||vxelkrhl.info^
 ||vxijqpsxpdlztm.com^
 ||vxkfvzhduws.com^
 ||vxneczkffmaxkf.com^
@@ -39133,6 +39138,7 @@
 ||vz71j.cn^
 ||vzbbzzasjtn.com^
 ||vzcljugmtuno.com^
+||vzhjnorkudcxbiy.com^
 ||vzjjglrnira.com^
 ||vzkdyladanuudb.com^
 ||vzkyivowceqcsd.com^
@@ -39140,6 +39146,7 @@
 ||vzsuiuamhuozw.com^
 ||vzvpswkjpxvzs.com^
 ||vzyclgqffpojk.com^
+||vzzexalcirfgrf.ru^
 ||vzzylo.com^
 ||w.5q67n.cn^
 ||w.bobocn.cn^
@@ -40277,6 +40284,7 @@
 ||wx.xwjqr.com^
 ||wx.zx590.com^
 ||wx16999.com^
+||wx3.sinaimg.cn^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||wxaeamianbg.com^
 ||wxapp.lvyadx.cn^
