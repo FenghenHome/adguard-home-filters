@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 18-02-2021 18:54 UTC
-! Count: 41,801
+! Last Modified: 19-02-2021 09:47 UTC
+! Count: 41,812
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -146,6 +146,7 @@
 @@||widget.weibo.com^
 @@||www.gsxt.gov.cn^
 @@||www.msftconnecttest.com^
+@@||wx3.sinaimg.cn^
 @@||xmxing.net^
 @@||zbj.com^
 ||00-gov.cn^
@@ -5395,6 +5396,7 @@
 ||api.iapps.ifeng.com^
 ||api.iimedia.cn^
 ||api.ijunhai.com^
+||api.inwemo.com^
 ||api.iplay.163.com^
 ||api.jr.mi.com^
 ||api.jsfc8.cn^
@@ -5406,7 +5408,6 @@
 ||api.mini.wps.cn^
 ||api.mlinks.co^
 ||api.mp.uc.cn^
-||api.netflare.info^
 ||api.newad.ifeng.com^
 ||api.newbelden.com^
 ||api.newsfeed.intl.miui.com^
@@ -7813,6 +7814,7 @@
 ||bugtags.com^
 ||buhatfjrk9dje10eme.com^
 ||buildhoodpip.club^
+||buildkiteanalytics.com^
 ||buildtrafficx.com^
 ||buipovexhav.com^
 ||bulankk.com^
@@ -9789,6 +9791,7 @@
 ||commodationship.info^
 ||comms.thewhiskyexchange.com^
 ||commsvc.stern.de^
+||communicationads.net^
 ||communicatoremail.com^
 ||communited.club^
 ||communits.club^
@@ -11984,7 +11987,6 @@
 ||djdcjvivns.com^
 ||djephnpzpjuvt.com^
 ||djers.com^
-||djfhwosjck.bi^
 ||djfhwosjck.bid^
 ||djfiln.com^
 ||djhbxz.com^
@@ -15446,6 +15448,7 @@
 ||fzz.cloud.1234507.com^
 ||g--o.info^
 ||g-cash.biz^
+||g-content.bi^
 ||g-content.bid^
 ||g-statistic.com^
 ||g-stats.openhost.es^
@@ -17939,6 +17942,7 @@
 ||htjsk.com^
 ||htl.bid^
 ||htlbid.com^
+||htm1.ch^
 ||html.350.com^
 ||html.696157.com^
 ||html.fsxinling.com^
@@ -18717,7 +18721,6 @@
 ||imgp.cymzc.com^
 ||imgpak.xyz^
 ||imgpop.googlecode.com^
-||imgprx.livejournal.net^
 ||imgs.cc^
 ||imgsniper.com^
 ||imgstat.ameba.jp^
@@ -18973,6 +18976,7 @@
 ||inside-graph.com^
 ||inside.bitcomet.com^
 ||insideall.com^
+||insideoftech.com^
 ||insideruser.trafficmanager.net^
 ||insidesoci.al^
 ||insight.fonecta.fi^
@@ -19137,7 +19141,6 @@
 ||invoca.solutions^
 ||invraisemblable.com^
 ||inwatrrcziyuet.com^
-||inwemo.com^
 ||inwig3aqg9xq.com^
 ||io1g.net^
 ||io8b80kcom8f.com^
@@ -20281,6 +20284,7 @@
 ||jvoice.cn^
 ||jvyigg.biquge.lu^
 ||jvyigg.biqugeq.com^
+||jvyigg.biqumo.com^
 ||jvyigg.zbzw.la^
 ||jwcavytgs.com^
 ||jwduahujge.ru^
@@ -21273,6 +21277,7 @@
 ||leadvision.dotmailer.co.uk^
 ||leadzu.com^
 ||leadzutw.com^
+||leafmedia.io^
 ||leagent.info^
 ||leak.360.cn^
 ||leakypatgoo.com^
@@ -22104,6 +22109,7 @@
 ||lptnfhmvnd.com^
 ||lpvgsdbtcmyqy.com^
 ||lpwwerdeef.com^
+||lq.booktxt.net^
 ||lq.xsbooktxt.com^
 ||lq0s3c.cn^
 ||lq1.abcxs.com^
@@ -24855,7 +24861,6 @@
 ||mylhebhwgim.com^
 ||mylikechat.com^
 ||mylinkbox.com^
-||mylovesister.gq^
 ||mynativeads.com^
 ||mynewcounter.com^
 ||mynsystems.com^
@@ -25229,6 +25234,7 @@
 ||netdebit-counter.de^
 ||netfix8.info^
 ||netflame.cc^
+||netflare.info^
 ||netgraviton.net^
 ||netinsight.co.kr^
 ||netko0o.com^
@@ -26308,6 +26314,7 @@
 ||oimagea2.ydstatic.com^
 ||oimg.m.cnbc.com^
 ||oimg.mobile.cnbc.com^
+||oinkinns.tk^
 ||oinqqbzs.com^
 ||oinvalentpriv.top^
 ||oipcqenejq.com^
@@ -28317,7 +28324,6 @@
 ||potentionsdarket.site^
 ||potjevleesch.xyz^
 ||pottendent.top^
-||potterpetrey.com^
 ||poubotem.com^
 ||poudeeri.com^
 ||pougg.com^
@@ -28485,6 +28491,7 @@
 ||prfdesk.pro^
 ||prfxrfkrvzroz.com^
 ||pricedinfo.com^
+||pricefbcf.gq^
 ||priceinfo.comuv.com^
 ||pricestern.top^
 ||prieseerunbe.info^
@@ -35060,7 +35067,6 @@
 ||thoseads.com^
 ||thoudroa.net^
 ||thoughtleadr.com^
-||thoughtsondance.info^
 ||thoughuttered.com^
 ||thoutiquede.club^
 ||thqwivyhdpoem.com^
@@ -36019,6 +36025,7 @@
 ||traq.li^
 ||trasholita.com^
 ||tratefirearly.top^
+||traumasister.tk^
 ||traumaticnoiseless.com^
 ||travangeind.club^
 ||travel-together.cn^
@@ -37590,6 +37597,7 @@
 ||verblife-3.co^
 ||verblife-5.co^
 ||vercel-analytics.com^
+||vercel-insights.com^
 ||vercraneans.club^
 ||verdriusuref.site^
 ||verdrivenbru.info^
@@ -38728,6 +38736,7 @@
 ||whalecloud.com^
 ||whalepp.com^
 ||whamukoji.pro^
+||whataboutnews.com^
 ||whathyx.com^
 ||whatsapp-sharing.com^
 ||whatsbroadcast.com^
@@ -38976,6 +38985,7 @@
 ||wmrmb.cn^
 ||wmtech.website^
 ||wmtyrdrpjbhnj.com^
+||wmwmwwfmkvucbln.ru^
 ||wn.pos.baidu.com^
 ||wn.x.jd.com^
 ||wnaibjbnqown.com^
@@ -39301,7 +39311,6 @@
 ||wx.xwjqr.com^
 ||wx.zx590.com^
 ||wx16999.com^
-||wx3.sinaimg.cn^
 ||wxa79ef55c1a84e284.wx.ckjr001.com^
 ||wxaeamianbg.com^
 ||wxapp.lvyadx.cn^
@@ -40053,6 +40062,7 @@
 ||xuanmin.wang^
 ||xuanxuan520.com^
 ||xubob.com^
+||xuchuang.com^
 ||xue.zbyw.cn^
 ||xuefenxi.com^
 ||xuehelei.com^
@@ -40487,6 +40497,7 @@
 ||yieldify.com^
 ||yieldkit.com^
 ||yieldlab.net^
+||yieldlift.com^
 ||yieldlove-ad-serving.net^
 ||yieldlove.com^
 ||yieldmanager.com^
