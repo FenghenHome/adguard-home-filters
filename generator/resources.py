@@ -9,7 +9,7 @@ import yaml
 import chardet
 
 # Set the locale to UTF-8
-locale.setlocale(locale.LC_ALL, 'en_GB.UTF-8')
+locale.setlocale(locale.LC_ALL, 'en_US.utf8')
 
 
 def read_yaml_settings(file_yaml):
