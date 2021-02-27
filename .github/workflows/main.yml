@@ -33,4 +33,4 @@ jobs:
 
     - name: build
       run: |
-        python generator/generate.py
+        sudo python generator/generate.py
