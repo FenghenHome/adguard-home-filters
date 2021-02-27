@@ -29,7 +29,7 @@ jobs:
 
     - name: SetLocale
       run: |
-        apt-get update && apt-get install tzdata locales -y && locale-gen en_GB.UTF-8
+        locale-gen en_GB.UTF-8
 
     - name: build
       run: |
