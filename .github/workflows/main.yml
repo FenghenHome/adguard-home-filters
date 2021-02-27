@@ -40,5 +40,5 @@ jobs:
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        FOLDER: rules
+        FOLDER: /home/travis/build/FenghenHome/adguard-home-filters/rules
 
