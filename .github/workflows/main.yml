@@ -36,10 +36,5 @@ jobs:
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
-        
-    - name: Clear cache
-      run: |
-        curl -s https://purge.jsdelivr.net/gh/FenghenHome/adguard-home-filters@gh-pages/filters.txt
-        curl -s https://purge.jsdelivr.net/gh/FenghenHome/adguard-home-filters@gh-pages/regex.txt
         FOLDER: rules
 
