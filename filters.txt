@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 13-03-2021 16:20 UTC
-! Count: 45,266
+! Last Modified: 14-03-2021 16:20 UTC
+! Count: 45,301
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -125,7 +125,6 @@
 @@||speedtest.net^
 @@||stat.jseea.cn^
 @@||stats.gov.cn^
-@@||stats.uptimerobot.com^
 @@||storage.live.com^
 @@||swjoy.com^
 @@||taobao.com^
@@ -3150,6 +3149,7 @@
 ||ad.vryeye.com^
 ||ad.walkgame.com^
 ||ad.wang502.com^
+||ad.weixin.qq.com^
 ||ad.winrar.com.cn^
 ||ad.wretch.cc^
 ||ad.wurangxian.top^
@@ -3892,6 +3892,7 @@
 ||ads.passiontimes.hk^
 ||ads.playboy.com^
 ||ads.playground.xyz^
+||ads.privacy.qq.com^
 ||ads.reader.yueyouxs.com^
 ||ads.service.kugou.com^
 ||ads.sina.com^
@@ -4845,6 +4846,7 @@
 ||al.newxue.com^
 ||alaccinalcom.top^
 ||alappropolylibe.site^
+||alawachi.net^
 ||alb.reddit.com^
 ||albacross.com^
 ||albalbant.com^
@@ -5603,6 +5605,8 @@
 ||api.e-cg.cn^
 ||api.e.mi.com^
 ||api.exc.mob.com^
+||api.fc.mob.com^
+||api.fd.mob.com^
 ||api.goulegu.com^
 ||api.groupon.com^
 ||api.hfyhjg.cn^
@@ -5786,6 +5790,7 @@
 ||appsmall.mobi^
 ||appsrv1.madserving.cn^
 ||appstoore.online^
+||appstreets.com^
 ||appsupdate.sinaapp.com^
 ||appsupport.qq.com^
 ||apptap.com^
@@ -6607,6 +6612,7 @@
 ||baidu-taobao-av.com^
 ||baidu-union-js.chuimg.com^
 ||baidu.bxwx3.org^
+||baidu.bxwx555.org^
 ||baidu.cmxsw.com^
 ||baidu.cybcyw.com^
 ||baidu.dengzhoull.com^
@@ -7274,6 +7280,7 @@
 ||betpartners.it^
 ||betrad.com^
 ||betrayedregretdeadline.com^
+||betshucklean.com^
 ||betsonsport.ru^
 ||betteradsystem.com^
 ||bettercontentservice.top^
@@ -10171,6 +10178,7 @@
 ||comm.app.autohome.com.cn^
 ||commander1.com^
 ||commdata.v.qq.com^
+||commdata6.v.qq.com^
 ||commencerons.xyz^
 ||commercial.davey.com^
 ||commercialvalue.org^
@@ -12862,6 +12870,7 @@
 ||dorama.site^
 ||dorangesource.alicdn.com^
 ||dorbanise.pw^
+||dorimnews.com^
 ||dormitysature.info^
 ||dormyawape.com^
 ||dortoolr.com^
@@ -14244,6 +14253,7 @@
 ||elr.sfr.fr^
 ||elsad.tw^
 ||elsbfby.com^
+||elsetormentshower.com^
 ||elsupposit.club^
 ||eltex.co.jp^
 ||elthamely.com^
@@ -15490,6 +15500,7 @@
 ||ffbook.cc^
 ||ffcpfu.kmyu.shop^
 ||fffeeeq.com^
+||ffg34fg.78zw.com^
 ||ffg34fg.877zw.com^
 ||ffhre.com^
 ||ffhtek.com^
@@ -17801,6 +17812,7 @@
 ||h41s.com^
 ||h4game.net^
 ||h4k5.com^
+||h4kdxs.com^
 ||h5.holalauncher.com^
 ||h5.hpplay.com.cn^
 ||h5.jiumaster.com^
@@ -18825,6 +18837,7 @@
 ||houchosi.net^
 ||houdaolj.com^
 ||houdodoo.net^
+||houfang8.com^
 ||houghtdespe.fun^
 ||hounicuy.com^
 ||hourakob.net^
@@ -20368,6 +20381,7 @@
 ||ir.mail.126.com^
 ||ir.mail.163.com^
 ||ir.mail.yeah.net^
+||ir2aok.com^
 ||iraithiz.com^
 ||irauz.com^
 ||irdcdrpzs.com^
@@ -20603,6 +20617,7 @@
 ||j200d3.cn^
 ||j2k9.in^
 ||j3.dthznc.com^
+||j5sq8.com^
 ||j6y54.xyz^
 ||j6yh5.xyz^
 ||j7182.hfxcsl.cn^
@@ -23008,6 +23023,7 @@
 ||lm1.tuliu.com^
 ||lm1.wzpcw.com^
 ||lmdknj.vbiquge.com^
+||lmdknj.xsbiquge.com^
 ||lmepskqkrrya.com^
 ||lmheeproc.com^
 ||lmiutil.com^
@@ -23290,6 +23306,7 @@
 ||loopoohy.com^
 ||loopr.co^
 ||loopredsglen.com^
+||lootynews.com^
 ||looyu.com^
 ||lope4refl.com^
 ||lopetgohou.cf^
@@ -25754,6 +25771,7 @@
 ||mixturehopeful.com^
 ||mixuaeielbnlg.com^
 ||miyudaquan.top^
+||mj.weimob.net^
 ||mj23.eulerian.com^
 ||mj70.cn^
 ||mjbuuxt7l18r.com^
@@ -26340,6 +26358,7 @@
 ||ms.computerbild.de^
 ||ms.ienkdaccessory.cn^
 ||ms.informaengage.com^
+||ms.markosaric.com^
 ||ms.vipstatic.com^
 ||ms3t.club^
 ||ms758.com^
@@ -26670,8 +26689,6 @@
 ||myvisualiq.net^
 ||myvoicenation.com^
 ||mywebclick.net^
-||mywebstats.com.au^
-||mywebstats.org^
 ||mywondertrip.com^
 ||myxuak.mir-kubikov.ru^
 ||myyage.com^
@@ -29530,6 +29547,7 @@
 ||pic1.429bi.com^
 ||pic1.59wd.com^
 ||pic1.97jut.com^
+||pic12x20.com^
 ||pic2.429bi.com^
 ||pic2.97jut.com^
 ||pic2016.5442.com^
@@ -30522,6 +30540,7 @@
 ||ps7894.com^
 ||ps868.xyz^
 ||psampabs.net^
+||psaughun.com^
 ||psaukrik.net^
 ||psclicks.com^
 ||psecurzoicompa.info^
@@ -31108,6 +31127,7 @@
 ||qhimg.com^
 ||qhkhchjqawst.com^
 ||qhl.bealge.sogou.com^
+||qhmrasvwzbwjpz.com^
 ||qhmsg.com^
 ||qhqofqeivtno.com^
 ||qhsyg.top^
@@ -32540,6 +32560,7 @@
 ||rqgsf.com^
 ||rqhere.com^
 ||rqtrk.eu^
+||rqusuqakwyejjn.com^
 ||rqvfewi.cn^
 ||rqyxdk.myanimelist.net^
 ||rrdtjj.top^
@@ -32711,6 +32732,7 @@
 ||rv.modanisa.com^
 ||rvbibmaixelnq.com^
 ||rvdiwgntri.com^
+||rvedfxeljxo.com^
 ||rviceschoolr.club^
 ||rvkcpqz.com^
 ||rvkfiomrjn.com^
@@ -33419,6 +33441,7 @@
 ||sdklog.uu.cc^
 ||sdkpay.uu.cc^
 ||sdksp.video.qq.com^
+||sdksp6.video.qq.com^
 ||sdlmaf.bestsecret.at^
 ||sdlzmm.cn^
 ||sdmwklnd.com^
@@ -35557,6 +35580,7 @@
 ||spankswindlewatchman.com^
 ||sparagken.com^
 ||sparechange.io^
+||spareddepressing.com^
 ||sparedshabbylaugh.com^
 ||sparkstudios.com^
 ||sparktrailerabonnement.com^
@@ -36357,6 +36381,8 @@
 ||stats.concierge.com^
 ||stats.cruisingpower.com^
 ||stats.datahjaelp.net^
+||stats.de^
+||stats.developingperspective.com^
 ||stats.dice.com^
 ||stats.digg.com^
 ||stats.digital-natives.de^
@@ -36374,6 +36400,7 @@
 ||stats.fd.nl^
 ||stats.fittkaumaass.de^
 ||stats.fomo.com^
+||stats.fr^
 ||stats.frankfurterneuepresse.de^
 ||stats.fs.com^
 ||stats.gc.apple.com^
@@ -36398,6 +36425,7 @@
 ||stats.kaltura.com^
 ||stats.libresse.no^
 ||stats.lotlinx.com^
+||stats.lt^
 ||stats.mako.co.il^
 ||stats.maxxim.de^
 ||stats.media.onet.pl^
@@ -36456,6 +36484,7 @@
 ||stats.townnews.com^
 ||stats.tudou.com^
 ||stats.tunt.lv^
+||stats.twhl.xyz^
 ||stats.twistage.com^
 ||stats.ulixes.pl^
 ||stats.united-domains.de^
@@ -36472,6 +36501,7 @@
 ||stats.vulture.com^
 ||stats.wartsila.com^
 ||stats.webs.com^
+||stats.webstarts.com^
 ||stats.winsim.de^
 ||stats.wired.com^
 ||stats.wordpress.com^
@@ -37940,6 +37970,7 @@
 ||theatredveres.site^
 ||theatrialmero.club^
 ||thebannerexchange.com^
+||thebestgame2020.com^
 ||thebestlinks.com^
 ||thebigchair.com.au^
 ||thebrighttag.com^
@@ -38882,6 +38913,7 @@
 ||tracker.shopclues.com^
 ||tracker.sns.iqiyi.com^
 ||tracker.softcube.com^
+||tracker.stats.in.th^
 ||tracker.stileo.it^
 ||tracker.swedish.org^
 ||tracker.tgbus.com^
@@ -43013,6 +43045,7 @@
 ||xiaopangtao.com^
 ||xiaoshuo.kp53.cn^
 ||xiaoshuo.zhandao.net^
+||xiaoshuoyun.cn^
 ||xiaoyida.com^
 ||xiaoyuanzuqiu.cn^
 ||xiaoyutiao.com^
@@ -44133,6 +44166,7 @@
 ||yoredi.com^
 ||yormedia.com^
 ||yoshatia.com^
+||yotta.scrolller.com^
 ||yottacash.com^
 ||yottos.com^
 ||you1ad.com^
@@ -44167,6 +44201,7 @@
 ||your0rder.com^
 ||youradexchange.com^
 ||youramigo.com^
+||yourcommonfeed.com^
 ||yourdatelink.com^
 ||yourfreshposts.com^
 ||yourhealth.bassett.org^
