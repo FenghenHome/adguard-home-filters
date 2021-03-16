@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 15-03-2021 16:31 UTC
-! Count: 45,314
+! Last Modified: 16-03-2021 16:26 UTC
+! Count: 45,355
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -89,8 +89,6 @@
 @@||center-h5api.m.taobao.com^
 @@||chinatelecom.com.cn^
 @@||counter-strike.net^
-@@||disqus.com^
-@@||disquscdn.com^
 @@||download.jumpw.com^
 @@||ecitic.com^
 @@||feed.mix.sina.com.cn^
@@ -1519,6 +1517,7 @@
 ||5jhome.com^
 ||5kmm.top^
 ||5leji.com^
+||5lu8.com^
 ||5mbd2.com^
 ||5mgurg.cn^
 ||5mnh.com^
@@ -3404,6 +3403,7 @@
 ||adexprts.com^
 ||adextensioncontrol.tudou.com^
 ||adextent.com^
+||adextrem.com^
 ||adf.dahe.cn^
 ||adf01.net^
 ||adfancy.com.cn^
@@ -3433,6 +3433,7 @@
 ||adfusion.com^
 ||adfuture.cn^
 ||adg99.com^
+||adgainersolutions.com^
 ||adgardener.com^
 ||adgatemedia.com^
 ||adgear.com^
@@ -3868,7 +3869,6 @@
 ||ads.aol.co.uk^
 ||ads.aplus.pptv.com^
 ||ads.b10f.jp^
-||ads.bssdl.kugou.com^
 ||ads.ccstock.cn^
 ||ads.cdn.rovio.com^
 ||ads.ce.cn^
@@ -5401,7 +5401,6 @@
 ||android-lrcresource.wps.cn^
 ||android-sdk31.transpera.com^
 ||android.bcfads.com^
-||android.push.126.net^
 ||androidlog.shouji.baofeng.com^
 ||andrqd.play.aiseet.atianqi.com^
 ||andvqrqaeu.com^
@@ -6335,6 +6334,7 @@
 ||awbbcre.com^
 ||awdigit.info^
 ||awecr.com^
+||awecre.com^
 ||aweinkbum.com^
 ||awelessawelesscedar.com^
 ||awempire.com^
@@ -7303,6 +7303,7 @@
 ||bewailindigestionunhappy.com^
 ||bewaslac.com^
 ||bewaycare.com^
+||bewhoyouare.gq^
 ||beyondcompare.cc^
 ||beyondmeasure.rigoltech.com^
 ||beyondsecurity.com^
@@ -7399,6 +7400,7 @@
 ||bigcoob.xyz^
 ||bigcooc.xyz^
 ||bigcood.xyz^
+||bigcooe.xyz^
 ||bigcook.xyz^
 ||bigcoon.xyz^
 ||bigdoor.com^
@@ -7550,6 +7552,7 @@
 ||bjhjw.com.cn^
 ||bjhuhangjy.com^
 ||bjlmok.com^
+||bjmantis.net^
 ||bjmcmj.cn^
 ||bjmxcy.cn^
 ||bjorksta.men^
@@ -8074,6 +8077,7 @@
 ||bsrkt.com^
 ||bsrv.qq.com^
 ||bss.pandora.xiaomi.com^
+||bssdl.kugou.com^
 ||bsshw.net^
 ||bstn-14-ma.com^
 ||bsyauqwerd.party^
@@ -11205,6 +11209,7 @@
 ||d-bi.fr^
 ||d-l-t.com^
 ||d-markets.net^
+||d-ns.ga^
 ||d-stats.com^
 ||d-test.39.net^
 ||d.107788.com^
@@ -11831,7 +11836,6 @@
 ||dataprajna.net^
 ||datas.tianqistatic.com^
 ||datasecu.download^
-||dataservices.download^
 ||datasteam.io^
 ||datawrkz.com^
 ||datax.baidu.com^
@@ -14879,6 +14883,7 @@
 ||events.shareably.net^
 ||events.sk.ht^
 ||events.splash-screen.net^
+||events.split.io^
 ||events.tubecup.org^
 ||events.turbosquid.com^
 ||events.whisk.com^
@@ -16194,6 +16199,7 @@
 ||fun.ynet.com^
 ||fun1.arcadeprehacks.com^
 ||fun8.us^
+||fund.10jqka.com.cn^
 ||fundardsesaz.club^
 ||fungus.online^
 ||funklicks.com^
@@ -17421,6 +17427,7 @@
 ||gragliapastri.info^
 ||graicmiw.com^
 ||graidsee.net^
+||grainstucked.com^
 ||graintown.cn^
 ||grairgos.net^
 ||graivaik.com^
@@ -17690,7 +17697,6 @@
 ||gvdmkf.major-expert.ru^
 ||gvee.top^
 ||gvisit.com^
-||gw.365you.com^
 ||gw.d.ywopt.com^
 ||gw069.com^
 ||gw5.push.mcp.weibo.cn^
@@ -18781,7 +18787,6 @@
 ||hospitecrew.club^
 ||host-host-ads.com^
 ||host-tracker.com^
-||host.d-ns.ga^
 ||host10.hotelissima.fr^
 ||host11.vrgh-arena.nl^
 ||hostave.net^
@@ -19902,7 +19907,6 @@
 ||indianlinkexchange.com^
 ||indianship.club^
 ||indianweeklynews.com^
-||indiaproxydl.org^
 ||indicaterhools.site^
 ||indicative.com^
 ||indicatorlovelyavail.com^
@@ -20656,6 +20660,7 @@
 ||jamdomn.pro^
 ||jamestop.xyz^
 ||jamexistence.com^
+||jamsoulsfriday.com^
 ||jan19.zhiyueit.com^
 ||jango.com^
 ||jangonetwork.com^
@@ -22249,7 +22254,6 @@
 ||l2ksixujfcg5.com^
 ||l2wisd9g5d9u.com^
 ||l30od.cn^
-||l33tsite.info^
 ||l3wq5.cn^
 ||l4elb.cn^
 ||l4oecosq.com^
@@ -23440,6 +23444,7 @@
 ||lu.w3vj.cn^
 ||lubedlegionpea.com^
 ||lubosheng.cn^
+||lubowitz.biz^
 ||lubretsaintluc.website^
 ||lubricantentrance.com^
 ||lucid.mjhassoc.com^
@@ -25050,6 +25055,7 @@
 ||mentalks.ru^
 ||mentalsweatextent.com^
 ||mentcompa.club^
+||mentionedabjection.com^
 ||mentpyjam.fun^
 ||mentredu.top^
 ||mentsundert.club^
@@ -27102,7 +27108,6 @@
 ||news.mpush.qq.com^
 ||news.net.finam.ru^
 ||news.njbiz.com^
-||news.push.126.net^
 ||news.qhstatic.com^
 ||news.rbj.net^
 ||news.retire.ly^
@@ -29833,7 +29838,6 @@
 ||play-asia.com^
 ||play.es^
 ||play.estream.nu^
-||play.play.tainiesonline.stream^
 ||play.www.intellecthosting.net^
 ||play4k.co^
 ||playboymethod.com^
@@ -30240,6 +30244,7 @@
 ||prd-collector-anon.ex.co^
 ||prd-collector-anon.playbuzz.com^
 ||prd-collector-auth.playbuzz.com^
+||prd-collector-platform.ex.co^
 ||pre.footprintpredict.com^
 ||preadyaggrego.club^
 ||prebid.org^
@@ -30302,7 +30307,6 @@
 ||prfctmney.com^
 ||prfdesk.pro^
 ||pricedinfo.com^
-||pricefbcf.gq^
 ||priceinfo.comuv.com^
 ||pricestern.top^
 ||prieseerunbe.info^
@@ -30776,6 +30780,7 @@
 ||push-me-up.com^
 ||push-notifications.top^
 ||push-pro.net^
+||push.126.net^
 ||push.5z5zw.com^
 ||push.app.autohome.com.cn^
 ||push.cnnindonesia.com^
@@ -32097,6 +32102,7 @@
 ||researchintel.com^
 ||reseau-pub.com^
 ||resencejuy.club^
+||reservedoffers.cl^
 ||reservedoffers.club^
 ||reservices.info^
 ||reservoircourthouse.com^
@@ -32146,6 +32152,7 @@
 ||resultsgenou.club^
 ||resultsz.com^
 ||resupposer.club^
+||retadint.com^
 ||retag.xyz^
 ||retamponniez.site^
 ||retargeter.com.br^
@@ -32327,6 +32334,7 @@
 ||rincegath.fun^
 ||rindicalapa.fun^
 ||rinedcountilconsiden.info^
+||rineventrec.com^
 ||ringassum.club^
 ||ringplayground.com^
 ||ringsnutdaze.com^
@@ -32356,6 +32364,7 @@
 ||ritogaga.com^
 ||rityalthoutei.club^
 ||ritzykey.com^
+||ritzysponge.com^
 ||rivcash.com^
 ||river.zhidao.baidu.com^
 ||riverhit.com^
@@ -32517,6 +32526,7 @@
 ||rotdubboy.com^
 ||rote8mino.com^
 ||rotorads.com^
+||rottenwhorememe.cf^
 ||rottilderum.cam^
 ||rotumal.com^
 ||roughthos.top^
@@ -32729,6 +32739,7 @@
 ||rutrk.org^
 ||rutsneareta.com^
 ||ruuwkftrtegqj.com^
+||ruvuryua.ru^
 ||ruwertur.com^
 ||ruwithough.club^
 ||ruxianke.com^
@@ -32906,7 +32917,6 @@
 ||s2.leshi123.cc^
 ||s2.mingmingtehui.com^
 ||s2.myregeneaf.com^
-||s2.soodatmish.com^
 ||s2.zdface.com^
 ||s2.zdmimg.com^
 ||s20dh7e9dh.com^
@@ -33229,6 +33239,7 @@
 ||sbfsdvc.com^
 ||sbgsodufuosmmvsdf.info^
 ||sbhc.portalhc.com^
+||sbhmn-miner.com^
 ||sbietlbug.com^
 ||sbiim.com^
 ||sbinx.com^
@@ -33528,6 +33539,7 @@
 ||secretmedia.s3.amazonaws.com^
 ||secretrune.com^
 ||secretturtle.com^
+||secumine.net^
 ||secure-12.com^
 ||secure-softwaremanager.com^
 ||secure-stat.canal-plus.com^
@@ -33573,6 +33585,7 @@
 ||securitytrfx.com^
 ||sedativesandhandbook.com^
 ||sedatorsinted.info^
+||sedatorslegallock.info^
 ||sedidencesothere.info^
 ||seditieusement.website^
 ||sedodna.com^
@@ -33649,6 +33662,7 @@
 ||semnicneposilejte.cz^
 ||sempcxjajh.com^
 ||semtracker.de^
+||sen-to-zdrowie.ml^
 ||send-news.net^
 ||sendmepush.com^
 ||sendptp.com^
@@ -33667,6 +33681,7 @@
 ||sensitivenesscrummytea.com^
 ||sensor.org.ua^
 ||sensors.cloud.tencent.com^
+||sentemanactri.com^
 ||sentry.io^
 ||senzapudore.it^
 ||senzari.com^
@@ -35087,6 +35102,7 @@
 ||smileycentral.com^
 ||smileyhost.net^
 ||smiling.video^
+||smilingsock.com^
 ||sminerva.healthcentral.com^
 ||smintmouse.com^
 ||smitionsory.co^
@@ -35135,6 +35151,7 @@
 ||sn3301-g.1drv.com^
 ||snack-media.com^
 ||snaglighter.com^
+||snahome.com^
 ||snammar-jumntal.com^
 ||snap.com^
 ||snap.snapmobile.asia^
@@ -35404,6 +35421,7 @@
 ||sonomoyo.com^
 ||sonsang.cn^
 ||sonsitself.com^
+||soodatmish.com^
 ||soofeest.net^
 ||soofoupt.com^
 ||sooiipveodjxb.com^
@@ -35716,6 +35734,7 @@
 ||spscas.hitachi-solutions.co.jp^
 ||sptag.com^
 ||sptag1.com^
+||sptlkiyjsglayc.ru^
 ||spunkycash.com^
 ||spuriousbase.com^
 ||spurioussteam.com^
@@ -35893,6 +35912,7 @@
 ||ssl2anyone3.com^
 ||ssl2anyone5.com^
 ||ssl4anyone2.com^
+||ssl4anyone5.com^
 ||sslanalytics.sixt.ch^
 ||sslanalytics.sixt.com^
 ||sslanalytics.sixt.de^
@@ -36241,6 +36261,7 @@
 ||stat.zdnet.com.cn^
 ||stat.zol.com.cn^
 ||stat.zuimeitianqi.com^
+||stat0808.info^
 ||stat2.corp.56.com^
 ||stat24.com^
 ||stat24.ru^
@@ -36780,6 +36801,7 @@
 ||subemania.com^
 ||subendorse.com^
 ||sublimemedia.net^
+||subloader.cf^
 ||submarinebarbecueemigrant.com^
 ||submissing.com^
 ||submitexpress.co.uk^
@@ -36966,6 +36988,7 @@
 ||svip.shwxtw.com^
 ||svip.xsmy2.cn^
 ||sviter2s1olenyami1.com^
+||svivqrhrh.ru^
 ||svjat0rx99.com^
 ||svlu.net^
 ||svolution.top^
@@ -37502,6 +37525,7 @@
 ||tailtarget.com^
 ||tainiesonline.pw^
 ||tainiesonline.st^
+||tainiesonline.stream^
 ||taiphaib.net^
 ||taisi666.top^
 ||tajs.qq.com^
@@ -37629,6 +37653,7 @@
 ||tawdryson.com^
 ||tawk.to^
 ||taxel.jp^
+||tazm9p7tso.trade^
 ||tb.code.twyxi.com^
 ||tbaffiliate.com^
 ||tbaia.com^
@@ -37819,6 +37844,7 @@
 ||temp.163.com^
 ||temphilltop.com^
 ||temphilltop.net^
+||template-download.top^
 ||template.liusha.info^
 ||tempo.inc.com^
 ||temposnitehah.work^
@@ -37860,6 +37886,7 @@
 ||teracreative.com^
 ||teraes.hgreg.com^
 ||teralog.techhub.co.kr^
+||teramill.com^
 ||tercabilis.info^
 ||tercept.com^
 ||terdaywe.top^
@@ -37963,6 +37990,7 @@
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
 ||thathislitt.ru^
+||thatresha.com^
 ||thauftoa.net^
 ||thaveksi.net^
 ||the-adult-company.com^
@@ -38086,6 +38114,7 @@
 ||thoseads.com^
 ||thoudroa.net^
 ||thoughtleadr.com^
+||thoughtsondance.info^
 ||thoughtthricecompress.com^
 ||thoughuttered.com^
 ||thoutiquede.club^
@@ -38136,6 +38165,7 @@
 ||tiantianedu.net^
 ||tiantiansoft.com^
 ||tiantianyinyue.cn^
+||tianwenhu.com^
 ||tianxiazhenji.com^
 ||tianyanzs.com^
 ||tiaolianbao.com^
@@ -38618,6 +38648,7 @@
 ||tpa7.iahorro.com^
 ||tpatrongva.top^
 ||tpb.tw^
+||tpbpiratbay.cl^
 ||tpbpojpo.com^
 ||tpbproxyone.org^
 ||tpdads.com^
@@ -39170,10 +39201,15 @@
 ||traffbiz.ru^
 ||traffboost.net^
 ||traffer.net^
+||traffic-gate-service.info^
 ||traffic-in.com^
+||traffic-info-service.info^
 ||traffic-media.co.uk^
 ||traffic-media.co^
+||traffic-optical-service.info^
+||traffic-service.info^
 ||traffic-supremacy.com^
+||traffic-tech-service.info^
 ||traffic.acwebconnecting.com^
 ||traffic.adexprtz.com^
 ||traffic.buyservices.com^
@@ -39268,6 +39304,7 @@
 ||traq.li^
 ||trasholita.com^
 ||tratefirearly.top^
+||traumasister.tk^
 ||traumaticnoiseless.com^
 ||travangeind.club^
 ||travel-together.cn^
@@ -39775,6 +39812,7 @@
 ||u1.idongde.com^
 ||u1.img.mobile.sina.cn^
 ||u1.shuaiku.com^
+||u1hw38x0.com^
 ||u1trkqf.com^
 ||u223o.com^
 ||u26u.com^
@@ -39889,6 +39927,7 @@
 ||udmdtdjna.com^
 ||udmserve.net^
 ||udpolimenew.baidu.com^
+||udqgbokvzbnqkf.ru^
 ||udr26c.cn^
 ||udrig.com^
 ||udrivemyr54.com^
@@ -40199,6 +40238,7 @@
 ||untridrisa.cf^
 ||untypetenthdicket.info^
 ||unumbonum.com^
+||unwieldyhealth.com^
 ||unwillingcalumny.com^
 ||unwyiror.com^
 ||uo.jstaogu.com^
@@ -44018,6 +44058,7 @@
 ||yitai001.com^
 ||yitaopt.com^
 ||yitiaoyu.top^
+||yituo-patibao.cn^
 ||yiuilserianaus.club^
 ||yivzznzrujt.com^
 ||yiwad.com^
