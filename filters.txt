@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 29-07-2021 16:12 UTC
-! Count: 47,390
+! Last Modified: 30-07-2021 16:11 UTC
+! Count: 47,376
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -4511,6 +4511,7 @@
 ||afsanalytics.com^
 ||afshanthough.pro^
 ||afssdmin.com^
+||aftdt.cn^
 ||afterdownload.com^
 ||afterdownloads.com^
 ||aftjohnanodes.com^
@@ -6532,6 +6533,7 @@
 ||ba7d8f30fba.com^
 ||baa2e174884c9c0460e.com^
 ||bab.frb.io^
+||babadnmak.com^
 ||babalink.net^
 ||babalink.top^
 ||babanmak.com^
@@ -7357,6 +7359,7 @@
 ||bidverdrd.com^
 ||bidvertiser.com^
 ||biemedia.com^
+||bigappboi.com^
 ||bigbolz.com^
 ||bigbootymania.com^
 ||bigcattracks.com^
@@ -8057,6 +8060,7 @@
 ||btrace.play.aiseet.atianqi.com^
 ||btrace.qq.com^
 ||btrace.video.qq.com^
+||btrace.ysp.cctv.cn^
 ||btrll.com^
 ||bts05.site^
 ||btserve.com^
@@ -11464,6 +11468,7 @@
 ||d2uap9jskdzp2.cloudfront.net^
 ||d2uepos3ef6db0.cloudfront.net^
 ||d2uy8iq3fi50kh.cloudfront.net^
+||d2v02itv0y9u9t.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
@@ -19075,6 +19080,7 @@
 ||honfleurisez.xyz^
 ||hongchenzhilu.com^
 ||hongdianshijue.com^
+||hongjiaex.cn^
 ||hongshikai.com^
 ||hongtefm.com^
 ||hongwenge.com^
@@ -21183,6 +21189,7 @@
 ||jemmgroup.com^
 ||jen.jiji.com^
 ||jenicdntc.com^
+||jenniferlaurax.com^
 ||jenxsw21lb.com^
 ||jeperdee.net^
 ||jeqixokniyny.com^
@@ -28048,6 +28055,7 @@
 ||mtqys.com^
 ||mtrace.play.aiseet.atianqi.com^
 ||mtrace.qq.com^
+||mtrace.ysp.cctv.cn^
 ||mtrack.nl^
 ||mtracking.com^
 ||mtrcs.popcap.com^
@@ -32343,6 +32351,7 @@
 ||pstarv.cn^
 ||pstat.akathists.com^
 ||pstats.com^
+||pstreetma.com^
 ||psulsobi.net^
 ||psuphuns.net^
 ||psurdoak.com^
@@ -32897,6 +32906,7 @@
 ||qgumjp.asiae.co.kr^
 ||qgumjp.joins.com^
 ||qguwoq.cn^
+||qgydhjh.cn^
 ||qhaif.com^
 ||qhdbfjx.com^
 ||qhdfxkj.com^
@@ -34616,6 +34626,7 @@
 ||s.h5king.com^
 ||s.hdsupplysolutions.com^
 ||s.hongshi33.top^
+||s.hoplon.pandora.com^
 ||s.hoverming.cn^
 ||s.infogram.com^
 ||s.jandan.com^
@@ -40076,6 +40087,7 @@
 ||tag.brandcdn.com^
 ||tag.cribnotes.jp^
 ||tag.elevaate.io^
+||tag.flagship.io^
 ||tag.goldenbees.fr^
 ||tag.leadplace.fr^
 ||tag.myplay.com^
@@ -40104,6 +40116,8 @@
 ||tagm.tchibo.de^
 ||tagmanager.cn^
 ||tagmngrs.com^
+||tags.aljazeera.com^
+||tags.aljazeera.net^
 ||tags.catapultx.com^
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
@@ -41351,6 +41365,7 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
+||tr.clickstay.com^
 ||tr.client.emailing.bnpparibas^
 ||tr.clientes.younited-credit.com^
 ||tr.clienti.younited-credit.com^
@@ -41573,6 +41588,7 @@
 ||traceybell.co.uk^
 ||track-re01.com^
 ||track-server-100.com^
+||track-srv.vietnamnet.vn^
 ||track-victoriadates.com^
 ||track-web.net^
 ||track.24heures.ch^
@@ -41586,10 +41602,7 @@
 ||track.bcvcmedia.com^
 ||track.berliner-kurier.de^
 ||track.bernerzeitung.ch^
-||track.briskfile.com^
 ||track.cafu.com^
-||track.catalogs.com^
-||track.cbs.com^
 ||track.cedsdigital.it^
 ||track.china.com^
 ||track.cinestar.de^
@@ -41612,12 +41625,9 @@
 ||track.e7r.com.br^
 ||track.eadv.it^
 ||track.easeus.com^
-||track.engagesciences.com^
 ||track.express.de^
 ||track.ferrari.com^
 ||track.ferraridealers.com^
-||track.fxstreet.com^
-||track.hubspot.com^
 ||track.hujiang.com^
 ||track.juno.com^
 ||track.ktplay.com^
@@ -41628,7 +41638,6 @@
 ||track.mopo.de^
 ||track.mycliplister.com^
 ||track.netzero.net^
-||track.ning.com^
 ||track.noddus.com^
 ||track.omgpl.com^
 ||track.pnicnik.live^
@@ -41645,7 +41654,6 @@
 ||track.shop2market.com^
 ||track.sigmob.cn^
 ||track.slickinbox.com^
-||track.slideshare.net^
 ||track.social.com^
 ||track.sohu.com^
 ||track.span-smt.jp^
@@ -41661,22 +41669,17 @@
 ||track.tiara.daum.net^
 ||track.tiara.kakao.com^
 ||track.uc.cn^
-||track.ugamezone.com^
-||track.ultimate-guitar.com^
 ||track.untd.com^
 ||track.vdo.ai^
 ||track.veedio.it^
 ||track.venatusmedia.com^
 ||track.vscash.com^
-||track.wattpad.com^
 ||track.wayin.com^
-||track.wildblue.com^
 ||track.written.com^
 ||track.yello.de^
 ||track.yellostrom.de^
 ||track.yfret.com^
 ||track.youniversalmedia.com^
-||track.zomato.com^
 ||track2.cliplister.com^
 ||track2.dulingo.com^
 ||track2.me^
@@ -41713,7 +41716,6 @@
 ||tracker.cauly.co.kr^
 ||tracker.cdnbye.com^
 ||tracker.cds-tracking.com^
-||tracker.cpapath.com^
 ||tracker.data-vp.com^
 ||tracker.digitalcamp.co.kr^
 ||tracker.downdetector.com^
@@ -41776,7 +41778,6 @@
 ||tracking.almax.com^
 ||tracking.almirallmed.es^
 ||tracking.americaneagle.com^
-||tracking.ancestry.com^
 ||tracking.arabiancentres.com^
 ||tracking.att.com^
 ||tracking.attsavings.com^
@@ -41784,8 +41785,6 @@
 ||tracking.aupairinamerica.com^
 ||tracking.babytree.com^
 ||tracking.base.de^
-||tracking.batanga.com^
-||tracking.battleon.com^
 ||tracking.bd4travel.com^
 ||tracking.bettingexpert.com^
 ||tracking.bnpparibas.fr^
@@ -41808,12 +41807,9 @@
 ||tracking.cat898.com^
 ||tracking.cengage.com^
 ||tracking.cerdmann.com^
-||tracking.chacha.com^
 ||tracking.chem-agilent.com^
-||tracking.christianpost.com^
 ||tracking.clarivate.com^
 ||tracking.columbiabank.com^
-||tracking.conduit.com^
 ||tracking.cranepi.com^
 ||tracking.cspire.com^
 ||tracking.customerly.io^
@@ -41831,7 +41827,6 @@
 ||tracking.emsmobile.de^
 ||tracking.engineering.cloud.seek.com.au^
 ||tracking.epsilon.com^
-||tracking.eurosport.com^
 ||tracking.evergy.com^
 ||tracking.fanbridge.com^
 ||tracking.fdm.dk^
@@ -41884,7 +41879,6 @@
 ||tracking.mathworks.com^
 ||tracking.max.co.il^
 ||tracking.menamarketplace.com^
-||tracking.military.com^
 ||tracking.mindshare.de^
 ||tracking.miui.com^
 ||tracking.mobile.de^
@@ -41892,23 +41886,19 @@
 ||tracking.motorolasolutions.com^
 ||tracking.musixmatch.com^
 ||tracking.mwe.com^
-||tracking.mycapture.com^
 ||tracking.netzathleten-media.de^
-||tracking.nextdoor.com^
 ||tracking.nkbm.si^
 ||tracking.noen.at^
 ||tracking.novem.pl^
 ||tracking.oceaneering.com^
 ||tracking.oe24.at^
 ||tracking.oldnational.com^
-||tracking.olx-st.com^
 ||tracking.omniture.nt.se^
 ||tracking.omron.cz^
 ||tracking.omron.es^
 ||tracking.omron.eu^
 ||tracking.opentable.com^
 ||tracking.oppd.com^
-||tracking.oui.sncf^
 ||tracking.pacharge.com^
 ||tracking.patientengagementhit.com^
 ||tracking.pella.com^
@@ -41917,15 +41907,12 @@
 ||tracking.pgi.com^
 ||tracking.pirelli.com^
 ||tracking.plinga.de^
-||tracking.porndoelabs.com^
-||tracking.pornhd.com^
 ||tracking.precisely.com^
 ||tracking.promiflash.de^
 ||tracking.quisma.com^
 ||tracking.rapidape.com^
 ||tracking.redbutton.de^
 ||tracking.regus.com^
-||tracking.resumecompanion.com^
 ||tracking.retailrocket.net^
 ||tracking.revcycleintelligence.com^
 ||tracking.rinoebastel.com^
@@ -41941,11 +41928,9 @@
 ||tracking.shl.com^
 ||tracking.shop.verymobile.it^
 ||tracking.shopstyle.com^
-||tracking.shoptogether.buy.com^
 ||tracking.sierrawireless.com^
 ||tracking.smartbets.com^
 ||tracking.smartmeapp.com^
-||tracking.softwareprojects.com^
 ||tracking.sp.sofi.com^
 ||tracking.sport1.de^
 ||tracking.srv2.de^
@@ -41962,17 +41947,13 @@
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.de^
 ||tracking.tdk.com^
-||tracking.teamskeet.com^
 ||tracking.thehut.net^
 ||tracking.ti.com.cn^
 ||tracking.ti.com^
-||tracking.tidalhifi.com^
 ||tracking.trinet.com^
 ||tracking.trovaprezzi.it^
-||tracking.ukwm.co.uk^
 ||tracking.umbrella.com^
 ||tracking.unisabana.edu.co^
-||tracking.unitednaturals.com^
 ||tracking.unrealengine.com^
 ||tracking.uwindsor.ca^
 ||tracking.vegasinsider.com^
@@ -42375,6 +42356,7 @@
 ||trysprierratty.com^
 ||trytipemo.com^
 ||trzi30ic.com^
+||ts.delfi.lt^
 ||ts.faz.net^
 ||ts.popsugar.com^
 ||ts.rtl.de^
@@ -44061,6 +44043,8 @@
 ||vstat.v.blog.sohu.com^
 ||vstats.digitaltrends.com^
 ||vsteepo.com^
+||vstet.com^
+||vstzen.com^
 ||vsu2jbpvgx3m.com^
 ||vsvihsib.com^
 ||vsyaiejmfooba.com^
@@ -45970,6 +45954,7 @@
 ||xunzhuo123.com^
 ||xuossk3tu6hb.com^
 ||xuro006.com^
+||xuruochen.cn^
 ||xushenghb.com^
 ||xutolr.mainichikirei.jp^
 ||xutolr.mantan-web.jp^
@@ -47026,6 +47011,7 @@
 ||zhantai.com^
 ||zhanzhang.net^
 ||zhaoshang8.com^
+||zhaosijie.cn^
 ||zhaowaibao.mobi^
 ||zhaoyafang.cn^
 ||zhcps.cn^
