@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-12-2021 16:15 UTC
-! Count: 52,231
+! Last Modified: 23-12-2021 16:11 UTC
+! Count: 52,373
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -41,6 +41,7 @@
 @@||17173im.allyes.com^
 @@||360buyimg.com^
 @@||ad-gone.com^
+@@||ad-putting.gw.zt-express.com^
 @@||ad.10010.com^
 @@||ad.abchina.com^
 @@||ad.azure.com^
@@ -1850,10 +1851,8 @@
 ||8882915.com^
 ||888888888888.online^
 ||88888888vip.top^
-||888games.com^
 ||888lianmeng.com^
 ||888media.net^
-||888poker.com^
 ||888promos.com^
 ||888zr022.com^
 ||889fb4992d4e8.com^
@@ -5271,6 +5270,7 @@
 ||analytics-api.samsunghealthcn.com^
 ||analytics-api.smzdm.com^
 ||analytics-cms.whitebeard.me^
+||analytics-gw.games.wanmei.com^
 ||analytics-production.hapyak.com^
 ||analytics-proxy.springboard.com^
 ||analytics-rhwg.rhcloud.com^
@@ -7069,6 +7069,7 @@
 ||bananastouching.com^
 ||banbanfun.com^
 ||banbf.com^
+||banbw.com^
 ||banclip.com^
 ||bandborder.com^
 ||bandelcot.com^
@@ -7102,6 +7103,7 @@
 ||bangyuandianzi.top^
 ||banhfw.cn^
 ||banht.com^
+||banhx.com^
 ||banianspaddi.info^
 ||banicywan.com^
 ||banjuanmao.com^
@@ -7463,6 +7465,7 @@
 ||bduserlog.eastmoney.com^
 ||bdwblog.eastmoney.com^
 ||bdwmhz.120askimages.com^
+||bdwst1.xyz^
 ||bdx.playnext.cn^
 ||bdxnc.com^
 ||bdyjxghwfbyups.com^
@@ -7715,6 +7718,7 @@
 ||besocial.online^
 ||besoes.com^
 ||besstahete.info^
+||best-cdn.pl^
 ||best-eye.cn^
 ||best-protection4.me^
 ||best-top.de^
@@ -8257,6 +8261,44 @@
 ||bmzuyj.nifty.com^
 ||bn2-ris-ap-prod-atm.trafficmanager.net^
 ||bn2-ris-prod-atm.trafficmanager.net^
+||bn2wns1.wns.windows.com^
+||bn3sch020010558.wns.windows.com^
+||bn3sch020010560.wns.windows.com^
+||bn3sch020010618.wns.windows.com^
+||bn3sch020010629.wns.windows.com^
+||bn3sch020010631.wns.windows.com^
+||bn3sch020010635.wns.windows.com^
+||bn3sch020010636.wns.windows.com^
+||bn3sch020010650.wns.windows.com^
+||bn3sch020011727.wns.windows.com^
+||bn3sch020012850.wns.windows.com^
+||bn3sch020020322.wns.windows.com^
+||bn3sch020020749.wns.windows.com^
+||bn3sch020022328.wns.windows.com^
+||bn3sch020022335.wns.windows.com^
+||bn3sch020022361.wns.windows.com^
+||bn4sch101120814.wns.windows.com^
+||bn4sch101120818.wns.windows.com^
+||bn4sch101120911.wns.windows.com^
+||bn4sch101120913.wns.windows.com^
+||bn4sch101121019.wns.windows.com^
+||bn4sch101121109.wns.windows.com^
+||bn4sch101121118.wns.windows.com^
+||bn4sch101121223.wns.windows.com^
+||bn4sch101121407.wns.windows.com^
+||bn4sch101121618.wns.windows.com^
+||bn4sch101121704.wns.windows.com^
+||bn4sch101121709.wns.windows.com^
+||bn4sch101121714.wns.windows.com^
+||bn4sch101121908.wns.windows.com^
+||bn4sch101122117.wns.windows.com^
+||bn4sch101122310.wns.windows.com^
+||bn4sch101122312.wns.windows.com^
+||bn4sch101122421.wns.windows.com^
+||bn4sch101123108.wns.windows.com^
+||bn4sch101123110.wns.windows.com^
+||bn4sch101123202.wns.windows.com^
+||bn4sch102110124.wns.windows.com^
 ||bn5x.net^
 ||bnbxwdkxccxfsn.com^
 ||bnc.autopass.xyz^
@@ -10376,6 +10418,8 @@
 ||clickaider.com^
 ||clickaine.com^
 ||clickalyzer.com^
+||clickandbuy.review^
+||clickandbuy.win^
 ||clickathere.com^
 ||clickbet88.com^
 ||clickbigo.com^
@@ -11856,6 +11900,7 @@
 ||create2fear.com^
 ||creative-banana.tk^
 ||creative-serving.com^
+||creative.1111cpc.com^
 ||creative.jdkic.com^
 ||creative.ltheanine.cn^
 ||creative.stripchat.com^
@@ -12093,6 +12138,7 @@
 ||cueohf.actieforum.com^
 ||cueohf.forumactif.org^
 ||cuev.in^
+||cuewbsmpk.top^
 ||cueyetwee.site^
 ||cufcmdj.cn^
 ||cugylkeqvdfrwi.xyz^
@@ -13772,6 +13818,7 @@
 ||dilutionjavelinexterminator.com^
 ||dilvehoammp.com^
 ||dimedontisar.cam^
+||dimensionhatefulstricken.com^
 ||dimeromaean.com^
 ||dimessing-parker.com^
 ||dimestore.com^
@@ -14502,6 +14549,7 @@
 ||druic.mytxt.cc^
 ||druis.mytxt.cc^
 ||drunkenknowing.com^
+||drupalupdates.tk^
 ||drvive.lamoda.ru^
 ||drvmy.ats68.cn^
 ||drydrum.com^
@@ -16004,6 +16052,7 @@
 ||elsetormentshower.com^
 ||elsiehoney.com^
 ||eltex.co.jp^
+||elthamely.com^
 ||eltrafiko.com^
 ||eluxer.net^
 ||elvfdnj.cn^
@@ -16563,7 +16612,6 @@
 ||etl.xlmc.sandai.net^
 ||etl.xlmc.sec.miui.com^
 ||etlcrfkkfl.com^
-||etlrsq.ru^
 ||etology.com^
 ||etoschedul.fun^
 ||etoyourco.club^
@@ -17081,6 +17129,7 @@
 ||faithfulfacultativeladder.com^
 ||faithknotpositive.com^
 ||faithlessdessertdetailed.com^
+||fajuer.xyz^
 ||fakinggivewacko.com^
 ||faktor.io^
 ||falangerewires.com^
@@ -17529,7 +17578,6 @@
 ||fillsitsy.cam^
 ||filmoljupci.com^
 ||filthslowlycoolly.com^
-||fimg-resp.seznam.cz^
 ||fimserve.com^
 ||fimyxg.haberturk.com^
 ||final-aws-01.com^
@@ -17691,6 +17739,7 @@
 ||flashx.cc^
 ||flashx.co^
 ||flashx.pw^
+||flashymass.com^
 ||flatcapspriggy.cam^
 ||flatepicbats.com^
 ||flatlyforensics.com^
@@ -18315,6 +18364,7 @@
 ||fuzzyweather.com^
 ||fv99.com^
 ||fvenxjtzuaxu.com^
+||fvhbful.cn^
 ||fvvyjd.jtv.com^
 ||fw-ad.jp^
 ||fw.qq.com^
@@ -18671,7 +18721,6 @@
 ||gayxperience.com^
 ||gaz-electricitezomation.carte-gr.total.fr^
 ||gaza2lote.com^
-||gazanew.com^
 ||gazati.com^
 ||gazitidi.xyz^
 ||gb.corp.163.com^
@@ -20830,12 +20879,88 @@
 ||hjklf.com^
 ||hjl0618.cn^
 ||hjmagamal.com^
+||hjnbvg.ru^
 ||hjsled.com^
 ||hjues.com^
 ||hjyll.top^
 ||hk.jtsh123.com^
 ||hk2.settings.data.microsoft.com.akadns.net^
+||hk2.wns.windows.com^
 ||hk2d.tourismemauricie.com^
+||hk2sch130020721.wns.windows.com^
+||hk2sch130020723.wns.windows.com^
+||hk2sch130020726.wns.windows.com^
+||hk2sch130020729.wns.windows.com^
+||hk2sch130020732.wns.windows.com^
+||hk2sch130020824.wns.windows.com^
+||hk2sch130020843.wns.windows.com^
+||hk2sch130020851.wns.windows.com^
+||hk2sch130020854.wns.windows.com^
+||hk2sch130020855.wns.windows.com^
+||hk2sch130020924.wns.windows.com^
+||hk2sch130020936.wns.windows.com^
+||hk2sch130020940.wns.windows.com^
+||hk2sch130020956.wns.windows.com^
+||hk2sch130020958.wns.windows.com^
+||hk2sch130020961.wns.windows.com^
+||hk2sch130021017.wns.windows.com^
+||hk2sch130021029.wns.windows.com^
+||hk2sch130021035.wns.windows.com^
+||hk2sch130021137.wns.windows.com^
+||hk2sch130021142.wns.windows.com^
+||hk2sch130021153.wns.windows.com^
+||hk2sch130021217.wns.windows.com^
+||hk2sch130021246.wns.windows.com^
+||hk2sch130021249.wns.windows.com^
+||hk2sch130021260.wns.windows.com^
+||hk2sch130021264.wns.windows.com^
+||hk2sch130021322.wns.windows.com^
+||hk2sch130021323.wns.windows.com^
+||hk2sch130021329.wns.windows.com^
+||hk2sch130021334.wns.windows.com^
+||hk2sch130021360.wns.windows.com^
+||hk2sch130021432.wns.windows.com^
+||hk2sch130021433.wns.windows.com^
+||hk2sch130021435.wns.windows.com^
+||hk2sch130021437.wns.windows.com^
+||hk2sch130021440.wns.windows.com^
+||hk2sch130021450.wns.windows.com^
+||hk2sch130021518.wns.windows.com^
+||hk2sch130021523.wns.windows.com^
+||hk2sch130021526.wns.windows.com^
+||hk2sch130021527.wns.windows.com^
+||hk2sch130021544.wns.windows.com^
+||hk2sch130021554.wns.windows.com^
+||hk2sch130021618.wns.windows.com^
+||hk2sch130021634.wns.windows.com^
+||hk2sch130021638.wns.windows.com^
+||hk2sch130021646.wns.windows.com^
+||hk2sch130021652.wns.windows.com^
+||hk2sch130021654.wns.windows.com^
+||hk2sch130021657.wns.windows.com^
+||hk2sch130021723.wns.windows.com^
+||hk2sch130021726.wns.windows.com^
+||hk2sch130021727.wns.windows.com^
+||hk2sch130021730.wns.windows.com^
+||hk2sch130021731.wns.windows.com^
+||hk2sch130021754.wns.windows.com^
+||hk2sch130021829.wns.windows.com^
+||hk2sch130021830.wns.windows.com^
+||hk2sch130021833.wns.windows.com^
+||hk2sch130021840.wns.windows.com^
+||hk2sch130021842.wns.windows.com^
+||hk2sch130021851.wns.windows.com^
+||hk2sch130021852.wns.windows.com^
+||hk2sch130021927.wns.windows.com^
+||hk2sch130021928.wns.windows.com^
+||hk2sch130021929.wns.windows.com^
+||hk2sch130021958.wns.windows.com^
+||hk2sch130022035.wns.windows.com^
+||hk2sch130022041.wns.windows.com^
+||hk2sch130022049.wns.windows.com^
+||hk2sch130022135.wns.windows.com^
+||hk2wns1.wns.windows.com^
+||hk2wns1b.wns.windows.com^
 ||hk50606.cn^
 ||hk662.com^
 ||hk9600.com^
@@ -20974,6 +21099,7 @@
 ||holder.com.ua^
 ||holdierpriv.club^
 ||holdspreoccupation.com^
+||holidayhappy.online^
 ||hollowafterthought.com^
 ||hollydeal.club^
 ||home-prize-winner-ma2d.live^
@@ -22710,6 +22836,7 @@
 ||intelensafrete.stream^
 ||intelimet.com^
 ||intell.work^
+||intellectualcontradictstuck.com^
 ||intelli-direct.com^
 ||intelliad.de^
 ||intellibanners.com^
@@ -23560,7 +23687,6 @@
 ||jingdian230.meilika.net^
 ||jingdingjy.top^
 ||jinghuazhijia.com^
-||jingjia.qq.com^
 ||jinglongtang.cn^
 ||jingshenhaixian.cn^
 ||jingteinv.com^
@@ -23841,6 +23967,7 @@
 ||jqk72ugyl2pz.com^
 ||jqki.cn^
 ||jqmt.qq.com^
+||jqrcdn.download^
 ||jqsex.com^
 ||jquery-cdn.download^
 ||jquery-uim.download^
@@ -24109,6 +24236,7 @@
 ||juroptyne.com^
 ||juroudaw.com^
 ||jursp.com^
+||jurty.ml^
 ||jurtym.cf^
 ||juryexecute.com^
 ||jurysatisfy.com^
@@ -24177,6 +24305,7 @@
 ||jx.renrensousuo.com^
 ||jx118114.net^
 ||jx1999.com^
+||jx3yixi.club^
 ||jx5m.com^
 ||jx8200o4h2.cn^
 ||jxad.jx163.com^
@@ -24237,6 +24366,7 @@
 ||jyzaj.cn^
 ||jyzap.cn^
 ||jyzaw.cn^
+||jyzaz.cn^
 ||jyzbv.cn^
 ||jyzce.cn^
 ||jyzmsy.com.cn^
@@ -24248,6 +24378,7 @@
 ||jzkapp.com^
 ||jzn360.cn^
 ||jzntxs.com^
+||jzpffierce.cloud^
 ||jzq2019.top^
 ||jzrzpump.com^
 ||jzt.jd.com^
@@ -26522,6 +26653,7 @@
 ||luggagetumbledapple.com^
 ||luhoio.zum.com^
 ||luhtb.top^
+||lujingyu.fun^
 ||lujxmxlmdfwhauw.top^
 ||lujxmxlmdfwhauw.xyz^
 ||lulumao.com.cn^
@@ -28736,6 +28868,7 @@
 ||merryemotionally.com^
 ||meryjane.pro^
 ||merzostueru2hu8jr09.com^
+||meshare.site^
 ||meshlucky.com^
 ||message.alldata.com^
 ||message.meitu.com^
@@ -30196,6 +30329,7 @@
 ||mobilemsg.youku.com^
 ||mobileoffers-al-download.com^
 ||mobilerevenu.com^
+||mobiletracking.ru^
 ||mobilevodad-hamivideo.cdn.hinet.net^
 ||mobilityware.com^
 ||mobipromote.com^
@@ -30671,6 +30805,7 @@
 ||mumosy.com^
 ||mumulian.com^
 ||mundanepollution.com^
+||munero.me^
 ||mupsytyzu.com^
 ||mupteekr.net^
 ||muqson0kgr.com^
@@ -31940,6 +32075,7 @@
 ||nuclef.com^
 ||nucleo.online^
 ||nuconomy.com^
+||nudedworld.com^
 ||nudercodaclot.work^
 ||nuevonoelmid.com^
 ||nuggad.net^
@@ -33245,7 +33381,6 @@
 ||p4psearch.china.alibaba.com^
 ||p555.cc^
 ||p5genexs.com^
-||p6-ad-sign.byteimg.com^
 ||p6p2w3v92czo.com^
 ||p77777777.com^
 ||p78lld1s.top^
@@ -33384,7 +33519,6 @@
 ||pandan.love^
 ||panection.co^
 ||panel-cn.com^
-||panelsave.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin.snssdk.com^
 ||pangu.cc^
@@ -33416,6 +33550,7 @@
 ||paperg.com^
 ||papoto.com^
 ||paqiqqjmmo.com^
+||par02p.wns.windows.com^
 ||paradisetits.ru^
 ||paradocs.ru^
 ||paradoxfactor.com^
@@ -33462,7 +33597,6 @@
 ||partner.dw.com^
 ||partner.e-conomic.com^
 ||partner.haru-shop.jp^
-||partner.linkfire.com^
 ||partner.loveplanet.ru^
 ||partner.toutiao.com^
 ||partner.video.syndication.msn.com^
@@ -33555,6 +33689,7 @@
 ||pay838.com^
 ||payae8moon9.com^
 ||paybackvocal.com^
+||paydemic.com^
 ||paydotcom.com^
 ||payingnoodlescam.com^
 ||paymentdeceasedcommence.com^
@@ -34835,6 +34970,7 @@
 ||powerjobs.com^
 ||powerlinks.com^
 ||powermelting.com^
+||powferads.com^
 ||poxa.xyz^
 ||poxaharap.com^
 ||poxeemso.com^
@@ -35568,6 +35704,7 @@
 ||push-android.myzaker.com^
 ||push-centr.com^
 ||push-centr.net^
+||push-content.springernature.io^
 ||push-free.com^
 ||push-house.net^
 ||push-me-up.com^
@@ -35779,7 +35916,6 @@
 ||pwmpartner.carte-gr.total.fr^
 ||pwptibeetbf.com^
 ||pwrads.net^
-||pwt.soundcloud.com^
 ||pwwghcyzsn.info^
 ||px.ads.linkedin.com^
 ||px.derstandard.at^
@@ -35807,6 +35943,7 @@
 ||pyblogs.xyz^
 ||pyeditingpro.biz^
 ||pyerc.com^
+||pyhszs.cn^
 ||pyhuiyu.com^
 ||pyloic.com^
 ||pymsqjixir.xyz^
@@ -37248,6 +37385,7 @@
 ||riceck.cn^
 ||ricewaterh.co^
 ||rich.kuwo.cn^
+||rich.qq.com^
 ||richard-group.com^
 ||richardenlightenfervent.com^
 ||richaudience.com^
@@ -39225,6 +39363,7 @@
 ||sg-autorepondeur.com^
 ||sg.a.stat.mi.com^
 ||sg01.top^
+||sg2p.wns.windows.com^
 ||sg2rgnza7k9t.com^
 ||sg3.notarize.com^
 ||sg92.com^
@@ -39673,7 +39812,6 @@
 ||simpli.fi^
 ||simplisticstem.com^
 ||simplycast.us^
-||simplyhired.com^
 ||simplyjmp.com^
 ||simplymeasured.com^
 ||simpunok.com^
@@ -40012,6 +40150,7 @@
 ||smbranch.nc.mails.sssports.com^
 ||smct.co^
 ||smeasurement.nissan.ca^
+||smectapop12.pl^
 ||smellerkutcha.cam^
 ||smenqskfmpfxnb.bid^
 ||smentbrads.co^
@@ -41493,6 +41632,7 @@
 ||sourcepoint-mms.aetv.com^
 ||sourcepoint-mms.history.com^
 ||sourcepoint-mms.mylifetime.com^
+||sourcepoint.dexerto.com^
 ||sourcescdn.xiaobingw.cn^
 ||sourceszomation.carte-gr.total.fr^
 ||sousaira.com^
@@ -43121,6 +43261,7 @@
 ||streamstats.prd.dlive.tv^
 ||streamyourvid.com^
 ||streem.com.au^
+||streetmetrics.io^
 ||stremanp.com^
 ||strengthletterhotline.com^
 ||strenuoustarget.com^
@@ -48264,7 +48405,6 @@
 ||vps.gcx3.cn^
 ||vptbn.com^
 ||vpyqdlrweoc.com^
-||vpzccwpyilvoyg.ru^
 ||vq1qi.pw^
 ||vq7736.com^
 ||vqbidy.benetton.com^
@@ -48471,6 +48611,7 @@
 ||waatch.gva.be^
 ||waatch.nieuwsblad.be^
 ||waati.quechoisir.org^
+||wabobkoirw.top^
 ||wackeerd.com^
 ||wackotracko.com^
 ||waddlegrammind.com^
@@ -48813,8 +48954,6 @@
 ||webforensics.co.uk^
 ||webgains.com^
 ||webglstats.com^
-||webgozar.com^
-||webgozar.ir^
 ||webhit.snd.no^
 ||webhits.de^
 ||webiqonline.com^
@@ -49428,7 +49567,6 @@
 ||wnp.com^
 ||wnpbdan.bid^
 ||wnprot.com^
-||wns.windows.com^
 ||wnsoth.cn^
 ||wnyywf.frankonia.de^
 ||wo-x.cn^
@@ -49579,6 +49717,7 @@
 ||wpushsdk.com^
 ||wpwocgjsqselo.xyz^
 ||wpyjkfcucjpuwh.com^
+||wqdwork.com^
 ||wqfflc.fupa.net^
 ||wqfflc.gartenlexikon.de^
 ||wqlkp.com^
@@ -50783,6 +50922,7 @@
 ||ybczal.bitterliebe.com^
 ||ybgduoac.xyz^
 ||ybhypt.com^
+||ybjfsqcevow.ru^
 ||ybnndud.cn^
 ||ybotvisit.com^
 ||ybp.yahoo.com^
@@ -51137,7 +51277,6 @@
 ||ynyyx168.com^
 ||ynzby.cn^
 ||ynzhby.com^
-||yoaabgvkm.ru^
 ||yobihost.com^
 ||yobr.net^
 ||yoc-adserver.com^
@@ -51516,6 +51655,7 @@
 ||yyshow.top^
 ||yyslate.com^
 ||yysvzaodorhv.com^
+||yyxirksdsnru.top^
 ||yyy6999.com^
 ||yzaosite.com^
 ||yzbqz.com^
@@ -51599,6 +51739,7 @@
 ||zap.dw-world.de^
 ||zaparena.com^
 ||zapunited.com^
+||zaqedc.top^
 ||zarget.com^
 ||zasheeca.com^
 ||zathytycho.com^
@@ -51772,6 +51913,7 @@
 ||zhctrack.net^
 ||zhcxvk.qvc.com^
 ||zhekoudajie.com^
+||zhemaijs.net^
 ||zhenghemold.com^
 ||zhengyahong.cn^
 ||zhengyejixie.com^
