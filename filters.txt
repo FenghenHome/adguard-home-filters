@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 05-01-2022 16:14 UTC
-! Count: 52,911
+! Last Modified: 06-01-2022 16:12 UTC
+! Count: 52,952
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -119,6 +119,7 @@
 @@||sax.sina.com.cn^
 @@||sdkapi.sms.mob.com^
 @@||settings-win.data.microsoft.com^
+@@||shop.letv.com^
 @@||sinaimg.cn^
 @@||skyapi.onedrive.live.com^
 @@||skydrivesync.policies.live.net^
@@ -5458,6 +5459,7 @@
 ||analytics.ncaa.com^
 ||analytics.newscred.com^
 ||analytics.nike.com^
+||analytics.oceanengine.com^
 ||analytics.oneplus.cn^
 ||analytics.onlyonlinemarketing.com^
 ||analytics.ooyala.com^
@@ -7684,6 +7686,7 @@
 ||beiwz.com^
 ||beixbw.cn^
 ||beixcw.cn^
+||beixhw.cn^
 ||beiyc.com^
 ||beiyicc.cn^
 ||beiyu.xin^
@@ -10899,6 +10902,7 @@
 ||cnxad.com^
 ||cnxad.net^
 ||cnxmyb.cn^
+||cnxunkewang.info^
 ||cnxweb.com^
 ||cnyibs.com^
 ||cnzhqs.com^
@@ -12146,6 +12150,7 @@
 ||csi.gstatic.com^
 ||csiasvapqrccq.com^
 ||csjs.ltd^
+||cslcjaoerfbuxrq.top^
 ||csp-collector.appspot.com^
 ||csp.archant.co.uk^
 ||cspb1.5w5w.com^
@@ -12185,6 +12190,7 @@
 ||ct.thegear-box.com^
 ||ct.xn--0et88ccz6awh1a.biz^
 ||ct1985.com^
+||ct372.cn^
 ||ct5m.citadium.com^
 ||cta.onguard.com^
 ||ctags.cn^
@@ -15898,6 +15904,7 @@
 ||eee.kj78.org^
 ||eee.ttyy888.co^
 ||eee3a05c040fef3.com^
+||eeeap.cn^
 ||eeeqi.cn^
 ||eeftordu.net^
 ||eefxjexuwls.com^
@@ -16460,6 +16467,7 @@
 ||enjuk.com^
 ||enjuw.com^
 ||enkayijamal.club^
+||enkjaq.cn^
 ||enlarget.com^
 ||enlightenment.secureshoppingbasket.com^
 ||enlnks.com^
@@ -17588,6 +17596,7 @@
 ||feministascertained.com^
 ||fen.dkdlsj.com^
 ||fenbo.cn^
+||fendhaunteddelay.com^
 ||fenefa.com^
 ||fengbuy.com^
 ||fengchedaomall.cn^
@@ -18651,6 +18660,7 @@
 ||g.whatsapp.net.iberostar.com^
 ||g.x.evolife.cn^
 ||g.yccdn.com^
+||g.youyou234.com^
 ||g.zhangaiwan.com^
 ||g.zhgdhe.com^
 ||g.zhoukaika.com^
@@ -18759,6 +18769,7 @@
 ||gaitdrummerauto.com^
 ||gaitheed.com^
 ||gaitoath.com^
+||gaizeissuer.com^
 ||gak.webtoons.com^
 ||gakinibe.pro^
 ||gakseeft.com^
@@ -20619,6 +20630,7 @@
 ||hcvhhj.cc^
 ||hcwaxejunyzvxt.com^
 ||hcwljy.com^
+||hcwloycadkpcva.top^
 ||hcxfsh.publicdesire.com^
 ||hczkduimaipr.com^
 ||hczzw.com^
@@ -23295,6 +23307,7 @@
 ||irecentlym.club^
 ||iredirect.net^
 ||irements.club^
+||iremukentsiw.com^
 ||iridiumsergeiprogenitor.info^
 ||irkdsu.ru^
 ||irkfunkyformer.com^
@@ -23674,6 +23687,7 @@
 ||jcwuzktevijp.com^
 ||jcwwxn.com^
 ||jcxcvqc.cn^
+||jczs.xyz^
 ||jczzjx.com^
 ||jd.c-ptsp.com.cn^
 ||jdb.jiudingcapital.cn^
@@ -24159,6 +24173,7 @@
 ||joyekepus.online^
 ||joyfullysacrificeralph.com^
 ||joyhaftsyears.com^
+||joyjour.xyz^
 ||joyog.com^
 ||joyourself.com^
 ||joyschema13.live^
@@ -24593,6 +24608,7 @@
 ||jysbwtfct.top^
 ||jyshavefu.com^
 ||jystea.com^
+||jytetnyuauwiwgf.top^
 ||jytitenu.com^
 ||jytjw.com^
 ||jyz.fjtzjy.com^
@@ -24606,6 +24622,7 @@
 ||jyzbv.cn^
 ||jyzce.cn^
 ||jyzmsy.com.cn^
+||jzcool.top^
 ||jzdianlan.cn^
 ||jzdn.talk-hk.cn^
 ||jzhxzsgs.com^
@@ -31875,6 +31892,7 @@
 ||nh738.cn^
 ||nhdfbupcbfnmue.com^
 ||nhesekiqgoifti.com^
+||nhfhqcbtmj.top^
 ||nhfpdc.cn^
 ||nhgmdwaqsd.top^
 ||nhkoze.saneibd.com^
@@ -32363,6 +32381,7 @@
 ||ntfsformac.cn^
 ||ntheenclo.club^
 ||ntiveandi.biz^
+||ntjanyc.cn^
 ||ntkjbweenycfq.com^
 ||ntlab.org^
 ||ntothefundra.biz^
@@ -34330,6 +34349,7 @@
 ||peuzubuqo.com^
 ||pevftg.shopee.sg^
 ||pexa.realestate.com.au^
+||peymdpws.top^
 ||pezrphjl.com^
 ||pf-2.pchome.net^
 ||pf.h5game.cn^
@@ -36470,6 +36490,7 @@
 ||qibalmm.com^
 ||qibxdwe1.com^
 ||qichacha.ink^
+||qichenx.com^
 ||qichetiemo.info^
 ||qichetuoyun.com.cn^
 ||qichexin.com^
@@ -36514,6 +36535,7 @@
 ||qiqiyii.com^
 ||qiruidea.com^
 ||qishituan.top^
+||qistgfokje.top^
 ||qiubang.org^
 ||qiuchuanling.cn^
 ||qivaiw.com^
@@ -36538,6 +36560,7 @@
 ||qjezukyqwj.com^
 ||qjfcdn1220.0101122.com^
 ||qjhlc.com^
+||qjhtdsstyrbc.top^
 ||qjxiyt.respect-shoes.ru^
 ||qjxszp.cn^
 ||qjyzj.cn^
@@ -37069,6 +37092,7 @@
 ||rcptik.ru^
 ||rcpudkfstrocmx.top^
 ||rcpuierp.cn^
+||rctxcsi.cn^
 ||rctxiqx.cn^
 ||rctxsrv.cn^
 ||rctxtjp.cn^
@@ -37413,6 +37437,7 @@
 ||reliablespecified.com^
 ||reliancehamlet.com^
 ||reliancevalve.com^
+||relivesovereign.com^
 ||relmaxtop.com^
 ||relytec.com^
 ||rem-track.bild.de^
@@ -37687,6 +37712,7 @@
 ||revupads.com^
 ||rewardsaffiliates.com^
 ||rewardtv.com^
+||rewardunderneathreport.com^
 ||rewhichesa.info^
 ||rewriteconserve.com^
 ||rexadvert.xyz^
@@ -38184,6 +38210,7 @@
 ||rtrlseqbudrzfd.com^
 ||rtserversp.fun^
 ||rttxcxvq.top^
+||rtxpx-a.akamaihd.net^
 ||rtzkyxtfwo.com^
 ||ru.net^
 ||ru4.com^
@@ -38325,6 +38352,7 @@
 ||ryturtviaqcana.top^
 ||ryvapi.fragrancenet.com^
 ||rywoments.info^
+||ryxfyjvcdugdf.com^
 ||ryynoljdarrw.com^
 ||rz.w8r4q.cn^
 ||rz261.cn^
@@ -38637,6 +38665,7 @@
 ||sadbmetrics.xlsemanal.com^
 ||sadbmetrics.zendalibros.com^
 ||sadesriffsmap.com^
+||sadirectresu.com^
 ||sadits.com^
 ||sadjk.com^
 ||sadlyfortunesgame.com^
@@ -40312,6 +40341,7 @@
 ||sixscissors.com^
 ||sixsigmatraffic.com^
 ||sixteenabsorptionbreed.com^
+||sixtyhardwarepreference.com^
 ||siyuanmall.com^
 ||sizd.6nzev.cn^
 ||sizd.chengboke.cn^
@@ -41988,6 +42018,7 @@
 ||sophisticatedstove.com^
 ||sophus3.com^
 ||soquan.xyz^
+||sordidsmile.com^
 ||sordidstir.com^
 ||soresneeze.com^
 ||sorethunder.com^
@@ -44146,6 +44177,7 @@
 ||sxrgd.com^
 ||sxsui.cn^
 ||sxswjkgs.com^
+||sxtcdjy.com^
 ||sxtyhl.top^
 ||sxxfmc.com^
 ||sxxjdz.com^
@@ -45330,6 +45362,7 @@
 ||tics.seeker.gg^
 ||tics.techdirt.com^
 ||ticsandski.club^
+||ticuru.com^
 ||tidafors.xyz^
 ||tidaltv.com^
 ||tidint.pro^
@@ -45596,6 +45629,7 @@
 ||tncred.com^
 ||tnctrx.com^
 ||tndiltm.cn^
+||tnecgrgp.top^
 ||tngmn.com^
 ||tnhcsf.holzkern.com^
 ||tnl808z.cn^
@@ -47303,6 +47337,7 @@
 ||tz.70e.me^
 ||tz284.com^
 ||tzbtw.com^
+||tzfafzmooqum.com^
 ||tzh019.cn^
 ||tzhqg.cn^
 ||tzjovzs.cn^
@@ -47796,6 +47831,7 @@
 ||unumbonum.com^
 ||unusedquestion.com^
 ||unusedstone.com^
+||unusuallygravely.com^
 ||unusualtitle.com^
 ||unvexedmehari.com^
 ||unwieldyhealth.com^
@@ -48200,6 +48236,7 @@
 ||vaebard.com^
 ||vaedan.top^
 ||vafbmmsda.com^
+||vagime.com^
 ||vaileeps.com^
 ||vainews.cn^
 ||vaipsona.com^
@@ -50066,6 +50103,7 @@
 ||wojiabaoye.com^
 ||wojiacanting.info^
 ||wojv.club^
+||wokawot.com^
 ||wokcementaid.com^
 ||wokekk.com^
 ||wokfirsax.com^
@@ -51080,6 +51118,7 @@
 ||xqtcur.kirklands.com^
 ||xqtzp.cn^
 ||xqwiremesh.com^
+||xqwkjf.top^
 ||xqxlaymd.xyz^
 ||xqygyp.cn^
 ||xqzlgbbe.com^
@@ -52385,6 +52424,7 @@
 ||zgcqxjzny.cn^
 ||zgctig.cn^
 ||zgfszs.com^
+||zghowanhgcxbpf.com^
 ||zghs.net.cn^
 ||zgjckgys.com.cn^
 ||zgjjkk.com^
@@ -52539,6 +52579,7 @@
 ||zhushicm.com^
 ||zhuzaogangqiu.com^
 ||zhwnlapi.etouch.cn^
+||zhwotai.com^
 ||zhwyjd.cn^
 ||zhxkzss.cn^
 ||zhy333.com^
