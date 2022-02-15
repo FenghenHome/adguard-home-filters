@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 14-02-2022 16:10 UTC
-! Count: 53,107
+! Last Modified: 15-02-2022 16:09 UTC
+! Count: 53,144
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -46,6 +46,7 @@
 @@||ad.abchina.com^
 @@||ad.azure.com^
 @@||ad.cityu.edu.hk^
+@@||ad.ext.azure.cn^
 @@||ad.ext.azure.com^
 @@||ad.jp^
 @@||ad.kazakinfo.com^
@@ -2711,6 +2712,7 @@
 ||ablatesgascon.cam^
 ||ableaborah.com^
 ||ablebodiedcool.com^
+||ablebodiedfibre.com^
 ||ablehed.pro^
 ||ablenctionalle.info^
 ||ablerivetdoubted.com^
@@ -4778,6 +4780,7 @@
 ||agadum.com^
 ||agaenteitor.com^
 ||againd.name^
+||againedam.com^
 ||againstperfectlywrench.com^
 ||aganj.com^
 ||agathaedith.com^
@@ -6006,6 +6009,7 @@
 ||apicit.net^
 ||apiecelee.com^
 ||apilog.app.acfun.cn^
+||apio.ink^
 ||apisoft.df0535.com^
 ||apistat.gao7.com^
 ||apistat.wasu.cn^
@@ -7926,6 +7930,7 @@
 ||bet3000partners.com^
 ||bet36500050.com^
 ||bet365affiliates.com^
+||beta-news.org^
 ||betahit.click^
 ||betarget.com^
 ||betarget.de^
@@ -8480,6 +8485,7 @@
 ||bngwlt.com^
 ||bnhtml.com^
 ||bnjxyqdvoegi.com^
+||bnkpgjw.cn^
 ||bnmjjwinf292.com^
 ||bnmla.com^
 ||bnnapbth.com^
@@ -9584,6 +9590,7 @@
 ||capturly.com^
 ||capultytrese.xyz^
 ||capyestern.com^
+||capzo.cn^
 ||car.qcmrjx.com^
 ||car156.net^
 ||carabidshooter.com^
@@ -9700,6 +9707,7 @@
 ||cb.baidu.cn^
 ||cb.baidu.com^
 ||cb.h5.coffeedak.cn^
+||cb8lvgd.cn^
 ||cba-fed-igh.com^
 ||cbba8228b1.com^
 ||cbclickbank.com^
@@ -10052,6 +10060,8 @@
 ||cftrack.com^
 ||cfts1tifqr.com^
 ||cfvapda.cn^
+||cfwchydynfc.com^
+||cfwchydynfc.top^
 ||cfyao.club^
 ||cg2017.com^
 ||cgdh.fenbengpan.cn^
@@ -12235,6 +12245,7 @@
 ||crystalapp.miguvideo.com^
 ||crystalmart.cn^
 ||crystalproducerhurried.com^
+||crytyingcrutch.com^
 ||crywl.com^
 ||cs-bailing.com.cn^
 ||cs-feige.iqiyi.com^
@@ -12515,6 +12526,7 @@
 ||cyjaruvndimgaa.com^
 ||cykynethe.com^
 ||cyneburg-yam.com^
+||cynthet.com^
 ||cyp889.cn^
 ||cyperjs.cn^
 ||cyrasi.com^
@@ -14355,6 +14367,7 @@
 ||dmxleo.com^
 ||dmxleo.dailymotion.com^
 ||dmym.aixyy.com^
+||dmz3nd5oywtsw.cloudfront.net^
 ||dmzjmp.com^
 ||dn-growing.qbox.me^
 ||dn34cbtcv9mef.cloudfront.net^
@@ -14567,7 +14580,6 @@
 ||doveprovidingyear.com^
 ||dowfbrodder.com^
 ||down.360.cn^
-||down.360safe.com^
 ||down.91wangmeng.com^
 ||down.bugeyu.com^
 ||down.dashendown.com^
@@ -14741,6 +14753,7 @@
 ||dsbahmgppc0j4.cloudfront.net^
 ||dscenn.com^
 ||dscloud.ltd^
+||dscmcbov.com^
 ||dsdsds8848.xyz^
 ||dsdydk.com^
 ||dseloqua.danskespil.dk^
@@ -15485,6 +15498,7 @@
 ||e18a97eee94d0f2519.com^
 ||e1c.curtisswrightds.com^
 ||e1e.io^
+||e1f95201b19594.site^
 ||e21b1642db801b2a.com^
 ||e2a1c91d8b.com^
 ||e2ertt.com^
@@ -16047,6 +16061,7 @@
 ||ehu96t2p.com^
 ||ehxyz.com^
 ||eiasia.ltd^
+||eiasninancu.com^
 ||eicyds.qoo10.jp^
 ||eidsign.com.cn^
 ||eifold.com^
@@ -20966,6 +20981,7 @@
 ||helpinfo.cn^
 ||hemnes.win^
 ||hempunevenfeminist.com^
+||hemquotedchamber.com^
 ||hemtatch.net^
 ||hen360.com^
 ||henanfs.com^
@@ -21841,6 +21857,7 @@
 ||hugeincome.cf^
 ||hugelyantony.com^
 ||hugexdeal.com^
+||hughester.com^
 ||hugiffamopfrge.top^
 ||huglivoa.net^
 ||hugregregy.pro^
@@ -23442,7 +23459,6 @@
 ||iovation.com^
 ||ioxiyaff.xyz^
 ||ip-label.net^
-||ip-tracker.org^
 ||ip.120ask.com^
 ||ip.cliphunter.com^
 ||ip.pichunter.com^
@@ -24007,6 +24023,7 @@
 ||jessieemys.com^
 ||jessieflown.com^
 ||jestmonths.com^
+||jesult.com^
 ||jetsowilk.com^
 ||jettrujole.com^
 ||jetx.info^
@@ -24026,6 +24043,7 @@
 ||jfqzwsczsf.com^
 ||jfsdiwmnbsk003.top^
 ||jfsm5.top^
+||jfvmafyksfj.top^
 ||jfy-stone.cn^
 ||jfypfmew.com^
 ||jg.bjpengyi.com^
@@ -24129,6 +24147,7 @@
 ||jighucme.com^
 ||jiglarexi.com^
 ||jigred.com^
+||jigsawhybrid.com^
 ||jigsawpopcorn.com^
 ||jigsawthirsty.com^
 ||jiguang.cn^
@@ -25143,6 +25162,7 @@
 ||kfluoa.com^
 ||kfuiprtjuqntp.com^
 ||kfweo2.com^
+||kfxfcofkumv.top^
 ||kfyg.xyz^
 ||kfzhph.bonprix.pl^
 ||kg8l81yh7vnf.com^
@@ -25202,6 +25222,7 @@
 ||kilo6alga.com^
 ||kilometrix.de^
 ||kim.lfhnkp.com^
+||kindeargrain.com^
 ||kindlyfeebleremembered.com^
 ||king-oak.cn^
 ||kingads.mobi^
@@ -25328,6 +25349,7 @@
 ||kmgfjc.cn^
 ||kmindex.ru^
 ||kmovuj.com^
+||kmoxhjwng.com^
 ||kmpkedsbdb.com^
 ||kmqkdhqaqt.com^
 ||kmrcewt.cn^
@@ -25466,6 +25488,7 @@
 ||koxeebee.net^
 ||kpirog.com^
 ||kplanet.cn^
+||kpmmthnpqoc.xyz^
 ||kpr2exp21.com^
 ||kprbexp21.com^
 ||kpshx.douguo.com^
@@ -26618,7 +26641,6 @@
 ||live.tvpot.daum.net^
 ||live.xunlei.com^
 ||live4sport.net^
-||live800.com^
 ||liveadexchanger.com^
 ||liveadoptimizer.com^
 ||liveadserver.net^
@@ -27394,6 +27416,7 @@
 ||lyaeccn.com^
 ||lyapi.1391.com^
 ||lyatblkpblca.com^
+||lyautotech.club^
 ||lyceasannop.com^
 ||lychangxu.cn^
 ||lycooc.com^
@@ -32270,6 +32293,7 @@
 ||ntfsformac.cc^
 ||ntfsformac.cn^
 ||ntheenclo.club^
+||nthxbfedxfkpx.com^
 ||ntiveandi.biz^
 ||ntjanyc.cn^
 ||ntkjbweenycfq.com^
@@ -32558,6 +32582,7 @@
 ||oca.telemetry.microsft.com^
 ||oca.telemetry.microsoft.com.nsatc.net^
 ||occultcreed.com^
+||occupyskinnymaggot.com^
 ||occursexpertloving.com^
 ||occxfzqyhhq.com^
 ||ocdnmq.com^
@@ -32770,6 +32795,7 @@
 ||oktpage.com^
 ||okueroskynt.com^
 ||okuis.com^
+||okupsudd.work^
 ||okwan.cn^
 ||okwfx.cn^
 ||olap.net.zooplus.com^
@@ -36541,6 +36567,7 @@
 ||qksrv.net^
 ||qksz.net^
 ||qktbbiavkqcqmn.com^
+||qktfwkftgqeynnp.com^
 ||qkxlyg.cn^
 ||ql.uzuzuz.com^
 ||qlaot.com^
@@ -36655,6 +36682,7 @@
 ||qrzlaatf.xyz^
 ||qs01.cn^
 ||qsart.cn^
+||qscidskqz.com^
 ||qscwdv.top^
 ||qservz.com^
 ||qshxc.com^
@@ -37291,6 +37319,7 @@
 ||redtram.com^
 ||reducedgulliblepeevish.com^
 ||reducingcommission.com^
+||reductionjogvast.com^
 ||redundancyphilosophicalwest.com^
 ||redventures.io^
 ||redvxjlmaehy.com^
@@ -37858,6 +37887,7 @@
 ||rktch.com^
 ||rktu.com^
 ||rktupt.cn^
+||rkumsvlvfeeewog.xyz^
 ||rkxkesgncpkcf.xyz^
 ||rkyijdrys.com^
 ||rl-mb90b39t.cn^
@@ -43632,6 +43662,7 @@
 ||suntcontent.se^
 ||suntechauto.com.cn^
 ||suntiz.com^
+||sunwardamoraic.com^
 ||suo.im^
 ||suoooi.cn^
 ||super-links.net^
@@ -45101,6 +45132,7 @@
 ||tidydownright.com^
 ||tiedme.com^
 ||tielengthenelaborate.com^
+||tienu.tech^
 ||tieqifeng.com^
 ||tiexing.com^
 ||tigerhub.net^
@@ -48822,6 +48854,7 @@
 ||vocoat.com^
 ||vod-cash.com^
 ||vodlog.m1905.cn^
+||vodobyve.pro^
 ||vodone.com^
 ||vodpic.320down.club^
 ||voevtwfpd.xyz^
@@ -51814,6 +51847,7 @@
 ||yiydtredbofv.com^
 ||yiyu-fz.cn^
 ||yiyuantian.com^
+||yiyuwl.cn^
 ||yizhanghaoquan.pw^
 ||yizhongyi.info^
 ||yjbuhao.top^
@@ -52091,6 +52125,7 @@
 ||ys2000.cdn.bcebos.com^
 ||ys6ot.cn^
 ||ysclub.top^
+||ysczggasfx.com^
 ||ysdtcdnoox.com^
 ||ysfc360.cn^
 ||ysgqfroqbqk.xyz^
@@ -52556,6 +52591,7 @@
 ||zgty365.com^
 ||zgunion.cn^
 ||zgvcfridw.com^
+||zgwxt.vip^
 ||zgxieshou.com^
 ||zgyemy.com^
 ||zgyiyi.com^
@@ -53049,6 +53085,7 @@
 ||zxgroymagqu.com^
 ||zxh.bzshzx.com^
 ||zxhrq.cn^
+||zxhstudy.online^
 ||zxhymh.com^
 ||zxin131.cn^
 ||zxjjzx.com^
