@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-02-2022 16:11 UTC
-! Count: 53,440
+! Last Modified: 24-02-2022 16:07 UTC
+! Count: 53,480
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -71,7 +71,6 @@
 @@||alicdn.com^
 @@||analytics.itunes.apple.com^
 @@||api-merchants.skimlinks.com^
-@@||api.ad-gone.com^
 @@||api.ads.tvb.com^
 @@||api.huangye.miui.com^
 @@||api.onedrive.com^
@@ -683,6 +682,7 @@
 ||1to1.bbva.com^
 ||1ts03.top^
 ||1ts17.top^
+||1ts19.top^
 ||1uandun.com^
 ||1ug8jn.cn^
 ||1v1.ink^
@@ -839,6 +839,7 @@
 ||2bc2456a2b.com^
 ||2bdde500c34.com^
 ||2beon.co.kr^
+||2bfdf2d456.com^
 ||2bj.cn^
 ||2bssjsq.com^
 ||2c3a97984f45.com^
@@ -5821,6 +5822,7 @@
 ||answers.teradata.com^
 ||answers.teradata.pl^
 ||answerscloud.com^
+||antaciddjebel.com^
 ||antananarbdivu.com^
 ||antaraimedia.com^
 ||antdivisitlodg.info^
@@ -6030,6 +6032,7 @@
 ||api.sdk.fmobi.cn^
 ||api.share.mob.com^
 ||api.shuaji.360.cn^
+||api.so.lianmeng.360.cn^
 ||api.ssp.adoceans.com^
 ||api.ssp.zxrtb.com^
 ||api.starsmp.com^
@@ -7937,6 +7940,7 @@
 ||besoes.com^
 ||besstahete.info^
 ||best-eye.cn^
+||best-offer-for-you.com^
 ||best-protection4.me^
 ||best-top.de^
 ||best-top.ro^
@@ -10377,6 +10381,7 @@
 ||chmproxy.bid^
 ||chnci.com^
 ||chnhty.com^
+||chnt.wang^
 ||cho7932105co3l2ate3covere53d.com^
 ||choanabethump.com^
 ||chobsang.net^
@@ -10967,6 +10972,7 @@
 ||cm.dmp.sina.cn^
 ||cm.informaengage.com^
 ||cm.jd.com^
+||cm.lianmeng.360.cn^
 ||cm.p4p.cn.yahoo.com^
 ||cm.passport.iqiyi.com^
 ||cm8.lycos.com^
@@ -12223,6 +12229,7 @@
 ||cre-dp.sina.cn^
 ||cre.dp.sina.cn^
 ||cre99.com^
+||creakversionfort.com^
 ||creamssicsite.com^
 ||creasureeffe.club^
 ||create-tracking.com^
@@ -12527,6 +12534,7 @@
 ||curvecaressmean.com^
 ||curveconjure.com^
 ||curvycry.com^
+||cuseccharm.com^
 ||cushionpig.com^
 ||custodyabsolutiondrawback.com^
 ||custom.plausible.io^
@@ -14503,6 +14511,7 @@
 ||dnjj.mobi^
 ||dnjszp.cn^
 ||dnk2wr2ch6zxa.cloudfront.net^
+||dnk56q7h.cn^
 ||dnn506yrbagrg.cloudfront.net^
 ||dnpz123.com^
 ||dns.m.sm.cn^
@@ -15787,6 +15796,7 @@
 ||easyad.com^
 ||easyads28.info^
 ||easyads28.mobi^
+||easyads29.info^
 ||easybrochurecinnamon.com^
 ||easycounter.com^
 ||easydistrustuldistrustul.com^
@@ -18207,6 +18217,7 @@
 ||floordisclosewhereas.com^
 ||flophous.cf^
 ||flopinclose.com^
+||flords.com^
 ||flow8free.com^
 ||flowcodeapp.com^
 ||floweryoperation.com^
@@ -18393,6 +18404,7 @@
 ||forzslodge.com^
 ||forzubatr.com^
 ||fosiecajeta.com^
+||fosterhindtalent.com^
 ||fotao9.com^
 ||fotsaulr.net^
 ||fouanalytics.com^
@@ -18796,6 +18808,7 @@
 ||fuz.cc^
 ||fuzausb.top^
 ||fuzhang.xyz^
+||fuzhuyuan1688.xyz^
 ||fuziontech.net^
 ||fuzzybasketball.com^
 ||fuzzyflavor.com^
@@ -18925,6 +18938,7 @@
 ||g.zhangaiwan.com^
 ||g.zhgdhe.com^
 ||g.zhoukaika.com^
+||g081fme.cn^
 ||g1.08160.cn^
 ||g1.163.com^
 ||g1.ads.oppomobile.com^
@@ -19214,6 +19228,7 @@
 ||gdhyoa.cn^
 ||gdhzpmh.com^
 ||gdicoou.com^
+||gdjvznzeik.com^
 ||gdl5vtbbv0lj.com^
 ||gdlbdzkj.com^
 ||gdlnldbvjdt.com^
@@ -22348,6 +22363,7 @@
 ||iasuv928u1q.top^
 ||iatmaihn.xyz^
 ||iaudienc.com^
+||iaxibctn.com^
 ||iazwzp.lyst.com^
 ||ib-ibi.com^
 ||ib00.cn^
@@ -22898,6 +22914,7 @@
 ||imtwjwoasak.com^
 ||imymobi.com^
 ||imyqb.cn^
+||imzahrwl.xyz^
 ||imzhide.net.cn^
 ||in-appadvertising.com^
 ||in-page-push.com^
@@ -24231,6 +24248,7 @@
 ||jhwt.shop^
 ||jia-huan.cn^
 ||jiachangwuliu.cn^
+||jiadunkeji.com^
 ||jiaeasy.net^
 ||jiage.ink^
 ||jiagu.360.cn^
@@ -25172,6 +25190,7 @@
 ||kargo.com^
 ||karma.mdpcdn.com^
 ||karteljackal.com^
+||kasheglesy.pro^
 ||katatalkenna.com^
 ||katecrochetvanity.com^
 ||katelin.top^
@@ -25967,6 +25986,7 @@
 ||landing.computershare.com^
 ||landing.wolterskluwer.hu^
 ||landingpg.com^
+||landlordbrieflywhereupon.com^
 ||landlordmanoeuvre.com^
 ||landscapeuproar.com^
 ||landslidechoreloft.com^
@@ -26178,6 +26198,7 @@
 ||leadforce1.com^
 ||leadforensics.com^
 ||leadformix.com^
+||leadhit.io^
 ||leadhit.ru^
 ||leadid.com^
 ||leadin.com^
@@ -26359,6 +26380,7 @@
 ||lfdydk.com^
 ||lfercl.tcb-beauty.net^
 ||lfg5jnbi.com^
+||lfjvvccsucsmxg.com^
 ||lfkesv.seeplaces.com^
 ||lflable.com^
 ||lflbey.gate31.ru^
@@ -26422,7 +26444,6 @@
 ||lianka.cn^
 ||lianle.com^
 ||lianmen1.joyyang.com^
-||lianmeng.360.cn^
 ||lianmeng.com^
 ||lianruntang.cn^
 ||liantmartier.info^
@@ -27601,6 +27622,7 @@
 ||lxiu.shop^
 ||lxlx.shop^
 ||lxoemc.libero.it^
+||lxphwibrkt.xyz^
 ||lxqcgj.com^
 ||lxsway.nyheter24.se^
 ||lxting.com^
@@ -29808,6 +29830,7 @@
 ||merdpspl.com^
 ||meremark.com^
 ||mergedeep.xyz^
+||mergedlava.com^
 ||mergerpep.com^
 ||meried.co^
 ||meriesbefor.fun^
@@ -32919,6 +32942,7 @@
 ||ofreligionrumble.com^
 ||oftheussi.one^
 ||ofvosb.jumbo.com.tr^
+||ofvsruaqukye.xyz^
 ||ofy3m0gp.com^
 ||ogaqgazu.com^
 ||ogb2.biovie.com^
@@ -33344,6 +33368,7 @@
 ||opinionbar.com^
 ||opinionstage.com^
 ||opinionsurprise.com^
+||opiwb.com^
 ||oplo.org^
 ||oplwseln.com^
 ||opmnstr.com^
@@ -34030,6 +34055,7 @@
 ||papa999.xyz^
 ||papaneecorche.com^
 ||papaqq.com^
+||papawrefits.com^
 ||papayaburbles.com^
 ||papayads.net^
 ||paperclipservice.com^
@@ -36792,6 +36818,7 @@
 ||qiyijiazhuangshi.com^
 ||qiyix.cn^
 ||qiyou.com^
+||qiyu.shop^
 ||qizhao.com^
 ||qizixsw.com^
 ||qizltkyxlgua.com^
@@ -38354,6 +38381,7 @@
 ||rprygapywrk.com^
 ||rps-p2.rockpapershotgun.com^
 ||rps-uk.rockpapershotgun.com^
+||rpsrv.com^
 ||rptnwbxbl.com^
 ||rpts.org^
 ||rptxjrygvkmnl.xyz^
@@ -38669,6 +38697,7 @@
 ||s.jandan.com^
 ||s.jlminte.com^
 ||s.l8l9.com^
+||s.lianmeng.360.cn^
 ||s.maipubao.cn^
 ||s.mannes.tech^
 ||s.maxrozen.com^
@@ -40129,6 +40158,7 @@
 ||shtiesen.cn^
 ||shtptt.cupshe.com^
 ||shua66.vip^
+||shuai.love^
 ||shuaiqiwudixiaoliangzaidddd.icu^
 ||shuaixu.site^
 ||shuake.ink^
@@ -42242,6 +42272,7 @@
 ||sparkstudios.com^
 ||sparkyinchun.com^
 ||spaung.cn^
+||spawnpredicatemutual.com^
 ||spcode.baidu.cn^
 ||spcode.baidu.com^
 ||speaknews.cn^
@@ -42920,6 +42951,7 @@
 ||stat.letv.com^
 ||stat.lex.pl^
 ||stat.liaisons-sociales.fr^
+||stat.lianmeng.360.cn^
 ||stat.livesportbar.net^
 ||stat.m.360.cn^
 ||stat.m.jd.com^
@@ -44304,6 +44336,7 @@
 ||szltwl.com^
 ||szmjskjx.com^
 ||szmpc.cn^
+||szmsao.com^
 ||szmxwjm.com^
 ||szoiuthrlzpdi.com^
 ||szpengliye.com^
@@ -49084,6 +49117,7 @@
 ||vknrfwwxhxaxupqp.pro^
 ||vkuay.com^
 ||vl665.cn^
+||vlbvgtj.cn^
 ||vlclptmgxmijbyf.com^
 ||vlexokrako.com^
 ||vlion.cn^
@@ -50624,6 +50658,7 @@
 ||wrkl.xyz^
 ||wrongpotato.com^
 ||wroteadministercurve.com^
+||wrotr.com^
 ||wrqmkayidop.com^
 ||wrvdmh.cn^
 ||wrvueo.mollis.ru^
@@ -51277,6 +51312,7 @@
 ||xingxingdd.com^
 ||xingxingdm.com^
 ||xingyao.doubiy.com^
+||xingyou25.xyz^
 ||xingyou46.icu^
 ||xingzhu.top^
 ||xingzuomeixue.com^
@@ -51652,6 +51688,7 @@
 ||xwpoxv.birdies.com^
 ||xwuad.com^
 ||xww360.com^
+||xwxmfubxzc.com^
 ||xx123.top^
 ||xxaalsn.cn^
 ||xxccdshj.com^
@@ -52557,6 +52594,7 @@
 ||yurivideo.com^
 ||yushengyuancaishui.com^
 ||yushuha.com^
+||yuubuslvsqhopkk.com^
 ||yuunion.com^
 ||yuuykrunvh.com^
 ||yuxiangrc.com^
@@ -52823,6 +52861,7 @@
 ||zelten.fritz-berger.de^
 ||zemanta.com^
 ||zemqvlylmtu.com^
+||zenaps.com^
 ||zencu.com.cn^
 ||zengwx.cn^
 ||zenkreka.com^
@@ -53452,6 +53491,7 @@
 ||zzhszj.com^
 ||zzkangyuan.cn^
 ||zzkbsm.cn^
+||zzkj.biz^
 ||zzkoubei.com^
 ||zzm.cn^
 ||zzmmkj.com^
