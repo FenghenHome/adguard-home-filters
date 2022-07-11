@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-07-2022 16:07 UTC
-! Count: 56,134
+! Last Modified: 11-07-2022 16:12 UTC
+! Count: 56,172
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -94,6 +94,7 @@
 @@||browser.cloud.ucweb.com^
 @@||buyad.bi-xenon.cn^
 @@||captcha.su.baidu.com^
+@@||cbsi.map.fastly.net^
 @@||center-h5api.m.taobao.com^
 @@||chinatelecom.com.cn^
 @@||counter-strike.net^
@@ -176,6 +177,7 @@
 @@||widget.weibo.com^
 @@||www.gsxt.gov.cn^
 @@||www.msftconnecttest.com^
+@@||wwwimage-tve.cbsstatic.com^
 @@||wx3.sinaimg.cn^
 @@||xmxing.net^
 @@||zbj.com^
@@ -849,6 +851,7 @@
 ||26zsd.cn^
 ||272829.cc^
 ||272xb.com^
+||27417130d3.com^
 ||2748cfaad3.com^
 ||27admin.com^
 ||27ceb2d5631623.com^
@@ -2204,6 +2207,7 @@
 ||9857064.hello.spriggy.com.au^
 ||9857064.notice.spriggy.com.au^
 ||9868.online^
+||986808cb44.com^
 ||9869936.com^
 ||9876.cc^
 ||98765432100.online^
@@ -3102,6 +3106,7 @@
 ||accedenonre.club^
 ||accelacomm.com^
 ||accengage.net^
+||acceptabletally.com^
 ||access-analyze.org^
 ||access-mc.com^
 ||access.acspubs.org^
@@ -4138,6 +4143,7 @@
 ||adplay.tudou.com^
 ||adplexo.com^
 ||adplugg.com^
+||adplusplus.fr^
 ||adplxmd.com^
 ||adpm.app.qq.com^
 ||adpmbglobal.com^
@@ -5615,7 +5621,6 @@
 ||amexcadrillon.com^
 ||amfi.gou.sogou.com^
 ||amgdgt.com^
-||amhixwqagiz.ru^
 ||amhpbhyxfgvd.com^
 ||amiablebackscertified.com^
 ||amikay.com^
@@ -6827,6 +6832,7 @@
 ||astaticglib.com^
 ||astcarbinkom.com^
 ||astep.info^
+||aster18cdn.nl^
 ||asterilivestream.com^
 ||asteriresearch.com^
 ||asterpix.com^
@@ -10369,6 +10375,7 @@
 ||ccjxwlkj.com^
 ||ccjxybj.cn^
 ||ccjysdii.xyz^
+||cckb.online^
 ||ccksdwtuzmadx.com^
 ||cclnuzn.cn^
 ||ccm19.de^
@@ -10414,7 +10421,6 @@
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
 ||cdn-alliancegravity.s3.amazonaws.com^
 ||cdn-analytics.ladmedia.fr^
-||cdn-analytics.pl^
 ||cdn-channels-pixel.ex.co^
 ||cdn-code.host^
 ||cdn-haokanapk.baidu.com^
@@ -11083,6 +11089,7 @@
 ||cjsossrbji.xyz^
 ||cjt1.net^
 ||cjvdfw.com^
+||cjwtkm.cn^
 ||cjwyvwbxpbo.com^
 ||cjy200107152004.ltd^
 ||ck-cdn.com^
@@ -13281,6 +13288,7 @@
 ||cyteed.com^
 ||cythusheju.com^
 ||cytoclause.com^
+||cytrd0.site^
 ||cytxt.com^
 ||cyulewkqz.com^
 ||cyveillance.com^
@@ -15370,6 +15378,7 @@
 ||dojx47ab4dyxi.cloudfront.net^
 ||dokaboka.com^
 ||dokauzob.top^
+||dokawd.cn^
 ||doklam.wang^
 ||dol.tianya.cn^
 ||dol.tianyaui.cn^
@@ -18919,6 +18928,7 @@
 ||fffeeeq.com^
 ||ffhre.com^
 ||ffhwzaenzoue.com^
+||ffinwwfpqi.gq^
 ||ffjk.space^
 ||ffkdxymyji.com^
 ||fflsn.com^
@@ -19884,6 +19894,7 @@
 ||fvxgpnlvxo.com^
 ||fw-ad.jp^
 ||fw.qq.com^
+||fw.zhuaji.org^
 ||fwbntw.com^
 ||fwccw.com^
 ||fwcdn2.com^
@@ -19958,6 +19969,7 @@
 ||fzz.cloud.1234507.com^
 ||g--o.info^
 ||g-cash.biz^
+||g-content.bi^
 ||g-content.bid^
 ||g-day.design^
 ||g-statistic.com^
@@ -20560,6 +20572,7 @@
 ||gfncg.cn^
 ||gfnormal00aa.com^
 ||gfnormal00aj.com^
+||gfnormal00an.com^
 ||gfnttldx.com^
 ||gforanoppo.com^
 ||gforasale.club^
@@ -20923,6 +20936,7 @@
 ||gnaunbiu.rest^
 ||gnawinstruct.com^
 ||gnbunbiv.rest^
+||gncunbiw.rest^
 ||gnehataj.xyz^
 ||gnezdo.ru^
 ||gnfvwfo.cn^
@@ -23634,6 +23648,7 @@
 ||icelessbogles.com^
 ||icemf.com^
 ||icepey.com^
+||iceplant.hk^
 ||icetraffic.com^
 ||icewaterhou.xyz^
 ||icfy.xyz^
@@ -23754,6 +23769,7 @@
 ||ifaeqvt.cn^
 ||ifc-edu.cn^
 ||ifc58.com^
+||ifdcvns.cn^
 ||ifdvlh.cn^
 ||ifengad.3g.ifeng.com^
 ||ifil.shop^
@@ -23780,6 +23796,7 @@
 ||igameunion.com^
 ||igaming.biz^
 ||igcdnnu.com^
+||igdxzzeglrlqm.ru^
 ||igehuo.com^
 ||igetui.com^
 ||igexin.com^
@@ -25645,6 +25662,7 @@
 ||jingdian230.meilika.net^
 ||jingdingjy.top^
 ||jinghuazhijia.com^
+||jingjia.qq.com^
 ||jinglongtang.cn^
 ||jingshenhaixian.cn^
 ||jingteinv.com^
@@ -25959,6 +25977,7 @@
 ||jqki.cn^
 ||jqmt.qq.com^
 ||jqsex.com^
+||jquerrycdn.download^
 ||jquery-uim.download^
 ||jquery.envi-met.com.cn^
 ||jquerycdn.host^
@@ -26591,6 +26610,7 @@
 ||kdanxmiirxh.xyz^
 ||kdata.fr^
 ||kdbhvi.xyz^
+||kdcegqtdrtij.com^
 ||kddtri.cn^
 ||kdf.jssumei.cn^
 ||kdh8.com^
@@ -26841,6 +26861,7 @@
 ||kjkhgtwft.com^
 ||kjkwrmwdyhi.com^
 ||kjldh.top^
+||kjli.fi^
 ||kjltxn.com^
 ||kjlzt.cn^
 ||kjmx.shop^
@@ -27106,6 +27127,7 @@
 ||krux.net^
 ||krxd.net^
 ||ks.walkq.com^
+||ksadrewrty.com^
 ||ksaggspp.xyz^
 ||ksdqhiaythajdv.com^
 ||ksdr.xyz^
@@ -28368,6 +28390,7 @@
 ||ljk.ink^
 ||ljlxy.cn^
 ||ljmei.com^
+||ljmzugo.cn^
 ||ljrshdrbbmwae.xyz^
 ||ljrtb.cn^
 ||ljwbrgipuqqnpe.com^
@@ -31837,7 +31860,6 @@
 ||mhebbkfyhsu.com^
 ||mhi9da.cn^
 ||mhidwg.elgiganten.se^
-||mhiobjnirs.gq^
 ||mhjk.1391.com^
 ||mhmetr.billabongstore.jp^
 ||mhqx.store^
@@ -31923,6 +31945,7 @@
 ||migdtqq.com^
 ||mighbest.host^
 ||mighbest.pw^
+||mighbest.si^
 ||mighbest.site^
 ||mightstrikingfled.com^
 ||mightwhiskers.com^
@@ -33709,6 +33732,7 @@
 ||nftqpw.com^
 ||nftvvjpla.com^
 ||nfwebminer.com^
+||nfwtime.com^
 ||nfwvip.com^
 ||nfzplus.com^
 ||ng3.ads.warnerbros.com^
@@ -36032,6 +36056,7 @@
 ||pcd.autohome.com.cn^
 ||pcdnlt.com^
 ||pcejsc.hellomolly.com^
+||pcejuyhjucmkiny.ru^
 ||pcfdgc.cn^
 ||pcfg.wps.cn^
 ||pcfvnp.undercovertourist.com^
@@ -36064,6 +36089,7 @@
 ||pdfexpert.cc^
 ||pdflive.org^
 ||pdghunlvi.com^
+||pdheuryopd.loan^
 ||pdiinfo.com.cn^
 ||pdjyzx.com^
 ||pdkuai.com^
@@ -37542,6 +37568,7 @@
 ||prheoxpdoqmjou.com^
 ||prhhqo.vintagevoyage.ru^
 ||pri12mel.com^
+||pricefbcf.gq^
 ||priceplaneadulthood.com^
 ||pricestern.top^
 ||pricklydebt.com^
@@ -40293,6 +40320,7 @@
 ||rove.cl^
 ||rovettobirse.com^
 ||rovion.com^
+||rowemfg.com^
 ||rowensalmner.com^
 ||rowenspopped.website^
 ||rowfeedire.casa^
@@ -47009,6 +47037,7 @@
 ||tcmsp.cn^
 ||tcnmf.com^
 ||tcoekdwnuveaisk.com^
+||tcpcharms.com^
 ||tcppu.com^
 ||tcss.qq.com^
 ||tctask.com^
@@ -49272,6 +49301,7 @@
 ||traffer.net^
 ||traffic-gate.com^
 ||traffic-in.com^
+||traffic-info-service.info^
 ||traffic-media.co.uk^
 ||traffic-media.co^
 ||traffic-supremacy.com^
@@ -50181,6 +50211,7 @@
 ||ueadlian.com^
 ||ueb4.destinia.tw^
 ||uebabuf.cn^
+||uebawtz7.me^
 ||uedas.qdmm.com^
 ||uedas.qidian.com^
 ||uedvam.tatilsepeti.com^
@@ -50318,6 +50349,7 @@
 ||ult-blk-cbl.com^
 ||ultimowraxle.com^
 ||ultingcoempa.xyz^
+||ultra-cdn.pl^
 ||ultraiso.net^
 ||ultralove.net^
 ||ultranote.org^
@@ -51135,6 +51167,7 @@
 ||vdzpnx.gnc.com.mx^
 ||ve.kj-cy.cn^
 ||ve001nz.com^
+||veadmin.com^
 ||vebadu.com^
 ||vectorstock.com^
 ||vecturequotes.com^
@@ -54514,6 +54547,7 @@
 ||ydfz.org^
 ||ydgaopinlu.com^
 ||ydgege.xyz^
+||ydhwhz.cn^
 ||yditweb.cn^
 ||ydjs.zol.com.cn^
 ||ydlz.k859n.cn^
@@ -54552,6 +54586,7 @@
 ||yeld9auto.com^
 ||yellads.com^
 ||yellowacorn.net^
+||yellowblue.io^
 ||yellowbrix.com^
 ||yellowto.com^
 ||yema.shop^
@@ -54647,6 +54682,7 @@
 ||yhsmk.com^
 ||yhvewh.aboutyou.ro^
 ||yhyped.stolplit.ru^
+||yhz18.com^
 ||yhzm.cc^
 ||yi.ximizi.com^
 ||yiangds.com^
@@ -55040,6 +55076,7 @@
 ||ypymsisnwv.com^
 ||yq6.lhkwy.com^
 ||yqanlvekcrfkd.xyz^
+||yqaywudifu.date^
 ||yqeuu.com^
 ||yqgjq.com^
 ||yqhlty.com^
@@ -55880,6 +55917,7 @@
 ||znazlahbcu.com^
 ||zncat.cn^
 ||znctrack.net^
+||zndaowjdnf.stream^
 ||zndsssp.dangbei.net^
 ||znlgplt.com^
 ||znq9.destinia.mx^
