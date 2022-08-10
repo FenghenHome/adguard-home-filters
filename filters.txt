@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 09-08-2022 16:07 UTC
-! Count: 56,520
+! Last Modified: 10-08-2022 16:07 UTC
+! Count: 56,542
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -128,7 +128,6 @@
 @@||microsoftazuresponsorships.com^
 @@||minigame.qq.com^
 @@||msn.wrating.com^
-@@||newad.mail.wo.cn^
 @@||news-app.abumedia.yql.yahoo.com^
 @@||optout.networkadvertising.org^
 @@||passport.bobo.com^
@@ -1686,6 +1685,7 @@
 ||666748.xyz^
 ||666749.xyz^
 ||666752.xyz^
+||666753.xyz^
 ||6667778882021.site^
 ||6668078.com^
 ||6669667.com^
@@ -2091,6 +2091,7 @@
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||8en.net^
 ||8ezc.sfr.fr^
+||8feichai.com^
 ||8ff01bde37db289d5.com^
 ||8gl.com.cn^
 ||8gustis.xyz^
@@ -5005,6 +5006,7 @@
 ||afij001.xyz^
 ||afj.cc^
 ||afj0.com^
+||afjk001.xyz^
 ||afjlb.com^
 ||afjxriipst.com^
 ||afk-i.com^
@@ -9964,6 +9966,7 @@
 ||c5b39ff13b3259df.com^
 ||c5b8d9d52f.com^
 ||c6.friok.com^
+||c60china.com^
 ||c63d72a4022.com^
 ||c6890.cn^
 ||c753738.r38.cf2.rackcdn.com^
@@ -11469,7 +11472,6 @@
 ||client-api.ele.me^
 ||client-dmp.suishenyun.cn^
 ||client-log.box.com^
-||client.88tours.com^
 ||client.show.qq.com^
 ||client.sidesearch.lycos.com^
 ||client.tahono.com^
@@ -13305,6 +13307,7 @@
 ||cxfzw.cn^
 ||cxgfq.pinlue.com^
 ||cxhjpcrvxd.com^
+||cxiwn.xyz^
 ||cxkivjsorpburb.com^
 ||cxlm.net.cn^
 ||cxmygp.xyz^
@@ -15883,6 +15886,7 @@
 ||dt00.net^
 ||dt07.net^
 ||dt243100.com^
+||dtag.breadfinancial.com^
 ||dtakdb1z5gq7e.cloudfront.net^
 ||dtc-330d.com^
 ||dtc-v6t.com^
@@ -21212,7 +21216,6 @@
 ||go2media.org^
 ||go2page.net^
 ||go2speed.org^
-||go2yd.com^
 ||go6shde9nj2itle.com^
 ||go9.online^
 ||goaciptu.net^
@@ -23711,6 +23714,7 @@
 ||i.zhuoyaju.com^
 ||i0.letvimg.com^
 ||i03.xyz^
+||i1.go2yd.com^
 ||i1.services.social.microsoft.com.nsatc.net^
 ||i1.services.social.microsoft.com^
 ||i1236.net^
@@ -26515,6 +26519,7 @@
 ||jwpepper.actonsoftware.com^
 ||jwplayer.space^
 ||jwt8e5vzc1.com^
+||jwtkw2w.cn^
 ||jwvjcr.cn^
 ||jwyiyqptg.com^
 ||jwz.3conline.com^
@@ -28492,6 +28497,7 @@
 ||liushuaib.xyz^
 ||liusuqin.fun^
 ||liutt.online^
+||liuxiangxiang.top^
 ||liuyangyang.cn^
 ||liuzhen.love^
 ||liuziqiu.cn^
@@ -28999,6 +29005,7 @@
 ||lorenzourban.com^
 ||loreps.com^
 ||lorimertoned.com^
+||lorlsblh.cyou^
 ||lornardchr.club^
 ||lorybnfh.com^
 ||losecounter.de^
@@ -33857,7 +33864,6 @@
 ||news.tagtoo.co^
 ||news.valawyersweekly.com^
 ||news.xcpi.cn^
-||news.zsjxwj.com^
 ||news02.biz^
 ||news2day.me^
 ||newsadsppush.com^
@@ -34971,6 +34977,7 @@
 ||okeo.ru^
 ||okeydumping.com^
 ||okeyletsgo.ml^
+||okfzopj.cn^
 ||okhfyyfgw.com^
 ||oki.sxlczj.cn^
 ||okkkk.com^
@@ -39042,6 +39049,7 @@
 ||qoepkc.top^
 ||qoevjugu.com^
 ||qofowyki.xyz^
+||qofvpbo.cn^
 ||qogbgxne.com^
 ||qoijertneio.com^
 ||qomdf.top^
@@ -39524,6 +39532,7 @@
 ||rayli.com.cn^
 ||rayrecollect.com^
 ||rays-counter.com^
+||razasot.cn^
 ||razdvabm.com^
 ||razuphyju.com^
 ||rbbf.07kfh.cn^
@@ -40432,6 +40441,7 @@
 ||rkxkesgncpkcf.xyz^
 ||rkyijdrys.com^
 ||rl-mb90b39t.cn^
+||rl.go2yd.com^
 ||rlaa.xyz^
 ||rlcdn.com^
 ||rldwideorga.com^
@@ -40809,6 +40819,7 @@
 ||rukoval.com^
 ||rukplaza.com^
 ||ruliam.com^
+||ruliglso.space^
 ||rulinecrea.xyz^
 ||rulkerton.site^
 ||rum.api.intuit.com^
@@ -40981,6 +40992,7 @@
 ||s.freelanceratecalculator.com^
 ||s.georgias.cn^
 ||s.glimesh.tv^
+||s.go2yd.com^
 ||s.guelphmercury.com^
 ||s.h5king.com^
 ||s.hdsupplysolutions.com^
@@ -42256,6 +42268,7 @@
 ||shanxicloud.net^
 ||shanxige.com^
 ||shanyi.info^
+||shaokaodaren.top^
 ||shaonlt.love^
 ||shapelcounset.xyz^
 ||shappapa.top^
@@ -42465,6 +42478,7 @@
 ||shouyili.mobi^
 ||shouyoutan.com^
 ||shouyouyou.com^
+||shouzhuanfs.com^
 ||shovedrailwaynurse.com^
 ||shovelimetreekit.com^
 ||shoveoccupiedinsult.com^
@@ -42565,6 +42579,7 @@
 ||shzuggo.cn^
 ||shzyjbr.wtdtjs.rocks^
 ||si.efwga.xyz^
+||si1.go2yd.com^
 ||si1ef.com^
 ||si9377.com^
 ||siamtheo.online^
@@ -45153,7 +45168,6 @@
 ||ssp.kssws.ks-cdn.com^
 ||ssp.kxly360.com^
 ||ssp.lionmobo.com^
-||ssp.njxzwh.com^
 ||ssp.qq.com^
 ||ssp.rambler.ru^
 ||ssp.seznam.cz^
@@ -49058,6 +49072,7 @@
 ||track.adx.adlefee.com^
 ||track.auckland.ac.nz^
 ||track.bannedcelebs.com^
+||track.buyma.com^
 ||track.cafu.com^
 ||track.cedsdigital.it^
 ||track.china.com^
@@ -52068,6 +52083,7 @@
 ||voraciousgrip.com^
 ||voraciousthursdaydaughterinlaw.com^
 ||voredi.com^
+||vorlsblf.cyou^
 ||vorrireer.com^
 ||vorseh.com^
 ||vortex-sandbox.data.microsoft.com^
@@ -52658,6 +52674,7 @@
 ||web-security.cloud^
 ||web-t.9gag.com^
 ||web-trace.ksapisrv.com^
+||web-track.go2yd.com^
 ||web-visor.com^
 ||web.900.la^
 ||web.ali213.net^
@@ -54227,6 +54244,7 @@
 ||xibadupty.com^
 ||xibao100.com^
 ||xidx.org^
+||xiezhong.club^
 ||xifatime.com^
 ||xifuquan.com^
 ||xigeng0375.com^
@@ -54354,6 +54372,7 @@
 ||xkqpco.com^
 ||xkunjfkb.com^
 ||xkzjq.cn^
+||xkzzyk.cn^
 ||xladapi.izuiyou.com^
 ||xlcun.com^
 ||xld.caicool.co^
@@ -55092,6 +55111,7 @@
 ||yigao.com^
 ||yigemi.com^
 ||yigesi.top^
+||yihoo.biz^
 ||yihu.s06th.cn^
 ||yihubaiying.com^
 ||yihuifu.cn^
@@ -55479,6 +55499,7 @@
 ||ysnvlxop.com^
 ||ysont.cn^
 ||ysrmy1.com^
+||yswphit.cn^
 ||yswuen.top^
 ||ysx8.vip^
 ||ysxywj.com^
@@ -56368,6 +56389,7 @@
 ||zshacker.com^
 ||zsi7.destinia.do^
 ||zsinek.com^
+||zsjxwj.com^
 ||zsmmflxvkgvmcf.com^
 ||zsmyzg.cn^
 ||zstjy.com^
