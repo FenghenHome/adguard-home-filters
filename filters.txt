@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-06-2023 16:04 UTC
-! Count: 70,469
+! Last Modified: 18-06-2023 16:04 UTC
+! Count: 70,486
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -5206,6 +5206,7 @@
 ||adbuyer.com^
 ||adbuyer3.lycos.com^
 ||adbxb.com^
+||adc-js.nine.com.au^
 ||adc-serv.net^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
@@ -6673,7 +6674,6 @@
 ||affiliates.minglematch.com^
 ||affiliates.systems^
 ||affiliates.thrixxx.com^
-||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||affiliatesensor.com^
 ||affiliatewindow.com^
@@ -7912,7 +7912,6 @@
 ||analytics.disneyinternational.com^
 ||analytics.dspunion.com^
 ||analytics.dvidshub.net^
-||analytics.ecosia.org^
 ||analytics.edgekey.net^
 ||analytics.eggoffer.com^
 ||analytics.eikko.ai^
@@ -8124,7 +8123,6 @@
 ||analytics.trust.page^
 ||analytics.tv189.cn^
 ||analytics.tver.jp^
-||analytics.twitter.com^
 ||analytics.unibuddy.co^
 ||analytics.unilogcorp.com^
 ||analytics.unive.nl^
@@ -18845,7 +18843,6 @@
 ||d2qn0djb6oujlt.cloudfront.net^
 ||d2qnx6y010m4rt.cloudfront.net^
 ||d2qz7ofajpstv5.cloudfront.net^
-||d2r1yp2w7bby2u.cloudfront.net^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||d2r3rw91i5z1w9.cloudfront.net^
 ||d2rnkf2kqy5m6h.cloudfront.net^
@@ -18881,7 +18878,6 @@
 ||d2wa5sea6guof0.cloudfront.net^
 ||d2werg7o2mztut.cloudfront.net^
 ||d2wu036mkcz52n.cloudfront.net^
-||d2wy8f7a9ursnm.cloudfront.net^
 ||d2x0u7rtw4p89p.cloudfront.net^
 ||d2x19ia47o8gwm.cloudfront.net^
 ||d2xng9e6gymuzr.cloudfront.net^
@@ -23232,6 +23228,7 @@
 ||ehtel.endress.com^
 ||ehxqelwtthwyo.com^
 ||ehxyz.com^
+||eiadf.xyz^
 ||eib2.cc^
 ||eicecixkxuq.com^
 ||eicyds.qoo10.jp^
@@ -24516,6 +24513,7 @@
 ||events.pingan.com^
 ||events.practo.com^
 ||events.prd.api.max.com^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.reclamefolder.nl^
 ||events.reddit.com^
@@ -28296,6 +28294,7 @@
 ||gobbinsantos.store^
 ||gobiaesker.uno^
 ||gobicyice.com^
+||gobitta.info^
 ||goblin.hupu.com^
 ||gobmodfoe.com^
 ||gocertiport.pearsonvue.com^
@@ -28968,6 +28967,7 @@
 ||guq9.vente-unique.it^
 ||gurabinhetot.com^
 ||gurgle.pcmag.com^
+||gurgle.spiceworks.com^
 ||gurimix.com^
 ||guro2.com^
 ||gurshesenglute.website^
@@ -32486,6 +32486,7 @@
 ||ingeneumps.com^
 ||ingenioustech.biz^
 ||ingest.make.rvapps.io^
+||ingest.make.rvohealth.com^
 ||ingforthemoonheap.com^
 ||ingorob.com^
 ||ingramony.com^
@@ -32619,6 +32620,7 @@
 ||insights.bodoglife.co.uk^
 ||insights.cdt.ch^
 ||insights.compagnon.com^
+||insights.decathlon.net^
 ||insights.documill.com^
 ||insights.frenchtogether.com^
 ||insights.golubcapital.com^
@@ -33974,6 +33976,7 @@
 ||jldbnjghezv.com^
 ||jldtlh.fashionnova.com^
 ||jlhygy.com^
+||jljftl.xyz^
 ||jlkhaohgew.xyz^
 ||jllfxt.xyz^
 ||jln3.clstudios.com^
@@ -36159,6 +36162,7 @@
 ||leadboltapps.net^
 ||leadboltmobile.net^
 ||leadboxer.com^
+||leadc7.icu^
 ||leadchampion.com^
 ||leadcola.com^
 ||leaddyno.com^
@@ -40795,7 +40799,6 @@
 ||metrics.n-tv.de^
 ||metrics.nationalgeographic.com^
 ||metrics.nba.com^
-||metrics.newegg.com^
 ||metrics.nissanusa.com^
 ||metrics.northwesternmutual.com^
 ||metrics.nu.nl^
@@ -40803,6 +40806,7 @@
 ||metrics.oanda.com^
 ||metrics.ogilvy.com^
 ||metrics.omniture.com^
+||metrics.onewegg.com^
 ||metrics.onshape.com^
 ||metrics.optimum.net^
 ||metrics.oreilly.com^
@@ -44950,6 +44954,7 @@
 ||opxapvdpqnbbhl.xyz^
 ||opxnwz.shop^
 ||opymgaj.cn^
+||opzksyy.cn^
 ||oq68.com^
 ||oqeohuc.cn^
 ||oqfdan.cn^
@@ -46441,6 +46446,7 @@
 ||pf.a23.in^
 ||pf.h5game.cn^
 ||pf.intuit.com^
+||pf.newegg.com^
 ||pf.pchome.net^
 ||pf34zdjoeycr.com^
 ||pfewuzbtkr.com^
@@ -46455,6 +46461,7 @@
 ||pfpmmxa.xyz^
 ||pfskzj.cn^
 ||pftamvhajdqhps.xyz^
+||pftdmmc.xyz^
 ||pftservice.click^
 ||pfukrywmoa.com^
 ||pg-ad-b1.nosdn.127.net^
@@ -46937,6 +46944,7 @@
 ||pixel.homebook.pl^
 ||pixel.honestjohn.co.uk^
 ||pixel.inforsea.com^
+||pixel.ionos.com^
 ||pixel.ionos.de^
 ||pixel.ionos.fr^
 ||pixel.kknews.cc^
@@ -47818,6 +47826,7 @@
 ||pqmbxd.betersport.nl^
 ||pqn7.cheque-dejeuner.fr^
 ||pqnnjjpzarpb.com^
+||pqomnfbg.com^
 ||pqxbcydpv.xyz^
 ||pqxyqq.com^
 ||pr-chart.com^
@@ -49689,6 +49698,7 @@
 ||qvpublish.com^
 ||qvqcfau.cn^
 ||qvxhgni.cn^
+||qvxvvjom.com^
 ||qvyzdox.cn^
 ||qwa3ldhn9u0t.com^
 ||qwadakesy.cyou^
@@ -51746,6 +51756,7 @@
 ||rvmessages.online^
 ||rvmessages.site^
 ||rvmessages.top^
+||rvo-cohesion.healthline.com^
 ||rvrpushserv.com^
 ||rvrpushsrv.com^
 ||rvv.emol.com^
@@ -55452,6 +55463,7 @@
 ||sp.data.funkedigital.de^
 ||sp.dnqc.com^
 ||sp.dpgmedia.net^
+||sp.ecosia.org^
 ||sp.gameomatic.fr^
 ||sp.jrklein.com^
 ||sp.logicforte.com^
@@ -62366,6 +62378,7 @@
 ||tretisretired.com^
 ||tretmumbel.com^
 ||trewnhiok.com^
+||trfmxf.xyz^
 ||trfpump.com^
 ||trftopp.biz^
 ||trgzurt.cn^
@@ -65349,6 +65362,7 @@
 ||vr.vivareal.com^
 ||vraatdwugla.com^
 ||vrcamdl.istaging.com^
+||vreephay.com^
 ||vrffwbf.cn^
 ||vrhorus.com^
 ||vriddhiabrege.live^
@@ -67046,6 +67060,7 @@
 ||worersie.com^
 ||worimu.uno^
 ||worimu.xyz^
+||worjeklmq.com^
 ||work.construction.com^
 ||workableachiever.com^
 ||workback.net^
@@ -68191,6 +68206,7 @@
 ||xoalt.com^
 ||xobr219pa.com^
 ||xogogowebcams.com^
+||xokcaxw.cn^
 ||xoktditxsmr.xyz^
 ||xopew.cyou^
 ||xopf.lhy1.xyz^
@@ -69548,6 +69564,7 @@
 ||yzdltz.pricerunner.dk^
 ||yzgid.cn^
 ||yzh.jyjhkz.com^
+||yziwoidi.icu^
 ||yzjihang.cn^
 ||yzjy.pro^
 ||yzmqkz.neredekal.com^
