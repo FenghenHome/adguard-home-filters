@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-08-2023 16:06 UTC
-! Count: 77,423
+! Last Modified: 26-08-2023 16:04 UTC
+! Count: 77,442
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -62,11 +62,10 @@
 @@||adm.crowdicity.com^
 @@||ads.95516.com^
 @@||ads.alafish.cn^
-@@||ads.amazon^
 @@||ads.doordash.com^
 @@||ads.elevateplatform.co.uk^
 @@||ads.finance^
-@@||ads.instacart.com^
+@@||ads.google.com^
 @@||ads.kazakh-zerno.net^
 @@||ads.listonic.com^
 @@||ads.lollipod.de^
@@ -5956,6 +5955,7 @@
 ||admatrix.jp^
 ||admavvex.com^
 ||admax.network^
+||admax.space^
 ||admaxim.com^
 ||admd.housefun.com.tw^
 ||admd.yam.com^
@@ -6230,7 +6230,6 @@
 ||ads.gionee.com^
 ||ads.globo.com^
 ||ads.gmodules.com^
-||ads.google.com^
 ||ads.house365.com^
 ||ads.huan.tv^
 ||ads.icloseli.cn^
@@ -8861,6 +8860,7 @@
 ||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
 ||api-analytics-cn.huami.com^
+||api-analytics-prd.pelcro.com^
 ||api-analytics.huami.com^
 ||api-app.coocaa.ottcn.com^
 ||api-deal.kechenggezi.com^
@@ -12012,6 +12012,7 @@
 ||bestdeals.ws^
 ||bestdisplaycontent.com^
 ||bestdisplayformats.com^
+||beste1.icu^
 ||besteasyclick.com^
 ||bestexp1.com^
 ||bestforexpartners.com^
@@ -12138,6 +12139,7 @@
 ||bfda839646.com^
 ||bfdaawe.top^
 ||bfdcdn.com^
+||bfdcuy9.com^
 ||bfdtt.com^
 ||bfejteb.cn^
 ||bfg.loanzify.app^
@@ -17130,6 +17132,7 @@
 ||confrontationdrunk.com^
 ||confused-classic.pro^
 ||confusedcart.com^
+||confvtt.com^
 ||congestionbeautycrystal.com^
 ||congestit.com^
 ||congressaffrayghosts.com^
@@ -17430,6 +17433,7 @@
 ||convertexperiments.com^
 ||convertflow.co^
 ||convertglobal.com^
+||convertlink.com^
 ||convertmb.com^
 ||convertro.com^
 ||convertsocial.com^
@@ -21141,6 +21145,7 @@
 ||direct-aws-a1.com^
 ||direct-azr-78.com^
 ||direct-collect.dy-api.com^
+||direct-collect.dy-api.eu^
 ||direct-events-collector.spot.im^
 ||direct-specific.com^
 ||direct.diarymuslim.com^
@@ -24861,6 +24866,7 @@
 ||erizoricher.life^
 ||erkeincepts.website^
 ||erlfhw.glamira.com.au^
+||erlirscid.com^
 ||erlpbwy.cn^
 ||erm5aranwt7hucs.com^
 ||ermao20230220.live^
@@ -25803,6 +25809,7 @@
 ||fademployedtransactions.com^
 ||fadewaves.com^
 ||fadian.xin^
+||fads315.com^
 ||fadsims.com^
 ||fadsimz.com^
 ||fadsipz.com^
@@ -26356,6 +26363,7 @@
 ||feudistchub.uno^
 ||feuingcrche.com^
 ||fewergkit.com^
+||fewjuice.com^
 ||fewplan.pro^
 ||fewrfie.com^
 ||fewsvuh.cn^
@@ -27220,6 +27228,7 @@
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
 ||fpjs.io^
+||fpjscdn.net^
 ||fpnpmcdn.net^
 ||fprnt.com^
 ||fpt.inxinternational.com^
@@ -27450,6 +27459,7 @@
 ||frownfirsthand.com^
 ||frpns.com^
 ||frrdlass.com^
+||frrhdl.xyz^
 ||frsejhged.xyz^
 ||frstlead.com^
 ||frtya.com^
@@ -31885,6 +31895,7 @@
 ||hpdwfd2.com^
 ||hpejlsb.com^
 ||hpfbiu.com^
+||hpgmkbt.icu^
 ||hphtjv.orellfuessli.ch^
 ||hpiekt.cn^
 ||hpijkah.com^
@@ -36074,6 +36085,7 @@
 ||jtbunh.xyz^
 ||jtdqxsfzi.com^
 ||jtdxz.top^
+||jtienla.top^
 ||jtjsmp.top^
 ||jtjtqar.com^
 ||jtpu9s.icu^
@@ -53592,6 +53604,7 @@
 ||randallbesin.com^
 ||randiul.com^
 ||randolph.love^
+||random-affiliate.atimaze.com^
 ||randomadsrv.com^
 ||randomassertiveacacia.com^
 ||randomignitiondentist.com^
@@ -69876,6 +69889,7 @@
 ||uhodsplo.com^
 ||uhpdsplo.com^
 ||uhsmmaq4l2n5.com^
+||uhwnrfu.cn^
 ||uhxmyqyevkcvit.com^
 ||uhygtf1.com^
 ||uhyhdrh.cn^
@@ -70853,6 +70867,7 @@
 ||uxiaaip.cn^
 ||uxip.meizu.com^
 ||uxlidt.ink^
+||uxlqwra.cn^
 ||uxmwh0f.xyz^
 ||uxngqd.cn^
 ||uxpascal.com^
@@ -75356,6 +75371,7 @@
 ||xxofygygumf.com^
 ||xxp.gytygc.com^
 ||xxp123.live^
+||xxpghuf.com^
 ||xxrsxs.cn^
 ||xxsmcps.com^
 ||xxtalp.xyz^
@@ -75907,6 +75923,7 @@
 ||ykdwyf.com^
 ||ykg5.cn^
 ||ykghl.top^
+||ykkbwdf.cn^
 ||yklfg.cn^
 ||ykotyeo.cn^
 ||ykoz.cn^
@@ -76014,6 +76031,7 @@
 ||yoginsnorland.com^
 ||yoiqacw.cn^
 ||yojanaarabic.life^
+||yok.la^
 ||yoke.jyhlo0.com^
 ||yokeeroud.com^
 ||yolo.philipbjorge.com^
@@ -76502,6 +76520,7 @@
 ||z2.yunl1.com^
 ||z2.zhishidu.com^
 ||z211.yourconroenews.com^
+||z3yfkdjd.icu^
 ||z444o.com^
 ||z492.ctinsider.com^
 ||z5x.net^
