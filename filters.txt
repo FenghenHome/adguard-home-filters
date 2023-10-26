@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-10-2023 16:07 UTC
-! Count: 81,034
+! Last Modified: 26-10-2023 16:07 UTC
+! Count: 81,072
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -73,6 +73,7 @@
 @@||ads.pinterest.com^
 @@||ads.privacy.qq.com^
 @@||ads.smartmidea.net^
+@@||ads.snapchat.com^
 @@||ads.spotify.com^
 @@||ads.taboola.com^
 @@||ads.twitter.com^
@@ -585,6 +586,7 @@
 ||116b.com^
 ||116bea31bf.com^
 ||1170555.com^
+||1172011200.rsc.cdn77.org^
 ||1178.shucong.com^
 ||1187531871.rsc.cdn77.org^
 ||1188.com^
@@ -791,6 +793,7 @@
 ||181m2fscr.de^
 ||181ue.com^
 ||1821e9a2d9.com^
+||1830447531.rsc.cdn77.org^
 ||1834979659.rsc.cdn77.org^
 ||1847ff24f9.com^
 ||184c4i95p.de^
@@ -3015,6 +3018,7 @@
 ||999.com^
 ||9996777888.com^
 ||99997aaa.com^
+||999aa666bb.com^
 ||999d.com^
 ||999pro.top^
 ||999zz333zz.com^
@@ -5234,6 +5238,7 @@
 ||activeprospects.com^
 ||activeqq.3g.qq.com^
 ||actives.youku.com^
+||activity-flow.vtex.com^
 ||activity.app.autohome.com.cn^
 ||activity.browser.intl.miui.com^
 ||activity.clotfun.xyz^
@@ -12068,6 +12073,7 @@
 ||beevalt.com^
 ||beevephe.xyz^
 ||beewakiy.com^
+||beezwol.com^
 ||bef62233f1.com^
 ||befd.fanqingzhou.cn^
 ||befirstcdn.com^
@@ -14879,6 +14885,7 @@
 ||cal.meizu.com^
 ||calamityfortuneaudio.com^
 ||calarm.info^
+||calcpol.com^
 ||calculatingcircle.com^
 ||calculatingtoothbrush.com^
 ||calculatorcamera.com^
@@ -20871,6 +20878,7 @@
 ||dcclaa.einfachbacken.de^
 ||dcclaa.slowlyveggie.de^
 ||dcdf4.com^
+||dcdglb.xyz^
 ||dcdvie.cn^
 ||dcdxpdxbp.com^
 ||dcebmbsnmcs.com^
@@ -24482,6 +24490,7 @@
 ||ec.thredup.com^
 ||ec.walkme.com^
 ||ec.yimg.com^
+||ec1e2c92b3.com^
 ||ec2-13-58-215-234.us-east-2.compute.amazonaws.com^
 ||ec2867edc4.com^
 ||ec5e727d37.com^
@@ -26221,6 +26230,7 @@
 ||eventgateway.soundcloud.com^
 ||eventhenherthis.info^
 ||eventhenherthisi.com^
+||eventlog.chatlead.com^
 ||eventlog.hd.baofeng.com^
 ||eventlog.inspsearchapi.com^
 ||eventlog.jackpot.de^
@@ -26287,6 +26297,7 @@
 ||events.split.io^
 ||events.splunk.com^
 ||events.squarespace.com^
+||events.storifyme.com^
 ||events.tafensw.edu.au^
 ||events.tubecup.org^
 ||events.turbosquid.com^
@@ -27146,6 +27157,7 @@
 ||fcbqxt.xyz^
 ||fccinteractive.com^
 ||fccxgjg.com^
+||fcgmoas.cn^
 ||fchio.com^
 ||fcied.xyz^
 ||fciyckhlpdxou.xyz^
@@ -27337,6 +27349,7 @@
 ||female-yard.pro^
 ||femalehasslegloss.com^
 ||femefaih.com^
+||femetrics.grammarly.io^
 ||femin.online^
 ||femsoahe.com^
 ||fen.dkdlsj.com^
@@ -30342,6 +30355,7 @@
 ||gmx29.top^
 ||gmx30.top^
 ||gmx42.top^
+||gmx43.top^
 ||gmx44.top^
 ||gmx45.top^
 ||gmx46.top^
@@ -31533,6 +31547,7 @@
 ||gwallet.com^
 ||gwbgqrxlelrjsi.com^
 ||gwcpdvojom.com^
+||gwdobvs.cn^
 ||gweducelne.com^
 ||gweini.com^
 ||gwekzilagfux.com^
@@ -32218,6 +32233,7 @@
 ||headstonerinse.com^
 ||headup.com^
 ||headusuallyopener.com^
+||headydegree.com^
 ||headyhook.com^
 ||healflowers.com^
 ||healte.de^
@@ -33832,6 +33848,7 @@
 ||hypemakers.net^
 ||hyperactivate.com^
 ||hyperbanner.net^
+||hypercounter.com^
 ||hyperdx.io^
 ||hyperlinksecure.com^
 ||hyperoi.com^
@@ -36409,6 +36426,7 @@
 ||iwstat.tudou.com^
 ||iwuh.org^
 ||iwvo.bym03.cn^
+||iwwdcglj.com^
 ||iwyuaqs.cn^
 ||ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com^
 ||ixbccrp.cn^
@@ -36865,6 +36883,7 @@
 ||jettrujole.com^
 ||jetx.info^
 ||jevlcjc.cn^
+||jevwdao.cn^
 ||jewelbeeperinflection.com^
 ||jewelryedu.cn^
 ||jewelstastesrecovery.com^
@@ -37251,6 +37270,7 @@
 ||jnmaeun.xyz^
 ||jnmami.cn^
 ||jnn-pa.googleapis.com^
+||jnnbzmyqaekzj.top^
 ||jnp0kmm.icu^
 ||jnqiangzhi.xyz^
 ||jnrtavp2x66u.com^
@@ -37395,6 +37415,7 @@
 ||journity.com^
 ||jourohun.xyz^
 ||jouteetu.net^
+||jouthee.com^
 ||jouzoapi.com^
 ||jowarblushed.space^
 ||jowlishdiviner.com^
@@ -39033,6 +39054,7 @@
 ||ksnignsd.xyz^
 ||ksnoownmd.fun^
 ||kspotson.de^
+||ksrgsc.xyz^
 ||kssvsjfhxpzwfd.com^
 ||kstj.baidu.com^
 ||kstvhknmhfppbf.com^
@@ -41791,6 +41813,7 @@
 ||lr-in.com^
 ||lr-ingest.com^
 ||lr-ingest.io^
+||lr-intake.com^
 ||lr6e.top^
 ||lraa.xiaoniutui.com^
 ||lrah0.top^
@@ -41920,6 +41943,7 @@
 ||lufax.com^
 ||lufbogazixz.com^
 ||luffic.com^
+||lugajxy.com^
 ||lugansk-info.ru^
 ||luggageflinchdew.com^
 ||lugjdylyqc.xyz^
@@ -49029,6 +49053,7 @@
 ||nyctrl32.com^
 ||nydbehindforh.xyz^
 ||nyetm2mkch.com^
+||nyfgpbsc.xyz^
 ||nyfoknamlrqxc.com^
 ||nygwcwsvnu.com^
 ||nyhgvn.xyz^
@@ -49277,6 +49302,7 @@
 ||oca.telemetry.microsft.com^
 ||oca.telemetry.microsoft.com.nsatc.net^
 ||oca.telemetry.microsoft.us^
+||ocalqoiw.com^
 ||ocarinaboot.xhamster.com^
 ||ocbv0.baiyangzs.com^
 ||occame.com^
@@ -49638,6 +49664,7 @@
 ||oknmalpxnjhe.xyz^
 ||oko.net^
 ||okokw.com^
+||okpcyp.icu^
 ||okpoiione.com^
 ||okqapmnpyox.com^
 ||oksooem.com^
@@ -49690,6 +49717,7 @@
 ||oljjiplpyo.com^
 ||ollrzaontww.com^
 ||ollsukztoo.com^
+||olltcqg.xyz^
 ||olmsoneenh.info^
 ||olmvkq.cn^
 ||olomonautcatho.info^
@@ -55868,6 +55896,7 @@
 ||qutaovip.com^
 ||qutyan8848.com^
 ||quxiangkeji.cn^
+||quxsiraqxla.com^
 ||quyaoya.com^
 ||quzmtpxw.xyz^
 ||qvbwras.cn^
@@ -57069,6 +57098,7 @@
 ||rereddit.com^
 ||rergeema.com^
 ||reroplittrewheck.pro^
+||rerpartmentm.info^
 ||rertrc.abc-mart.net^
 ||reryn2ce.com^
 ||res-ga.smzdm.com^
@@ -57414,6 +57444,7 @@
 ||rglymepfbvdeb.xyz^
 ||rgnlaigz.fun^
 ||rgrd.xyz^
+||rgtcqif.com^
 ||rgvqcsxqge.com^
 ||rgyfqq.com^
 ||rgyun.com^
@@ -61338,6 +61369,7 @@
 ||sjjaewodpexdcyf.com^
 ||sjjk.ltd^
 ||sjkdbvjksbv.com^
+||sjkekxjkca.com^
 ||sjkzeivw.com^
 ||sjomilbedwarf.digital^
 ||sjourney.aarp.org^
@@ -68034,6 +68066,7 @@
 ||tdc.qq.com^
 ||tdcoincore.org^
 ||tddemchenko.info^
+||tdditqosnpeo.com^
 ||tddmp.com^
 ||tdedqqv.cn^
 ||tdeogusnou.xyz^
@@ -68254,6 +68287,7 @@
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.urs.microsoft.com^
+||telemetry.vtex.com^
 ||teleostrodmen.com^
 ||telepang.com^
 ||telephoneapparatus.com^
@@ -72576,6 +72610,7 @@
 ||twpasol.com^
 ||twpfa.cn^
 ||twrank.com^
+||twrencesprin.info^
 ||twrkcbs.cn^
 ||twtad.com^
 ||twtiq.xyz^
@@ -75477,6 +75512,7 @@
 ||vungqwclop.xyz^
 ||vupload.duowan.com^
 ||vupulse.com^
+||vuruzy.xyz^
 ||vuryua.ru^
 ||vuuwd.com^
 ||vuvacu.xyz^
@@ -77621,6 +77657,7 @@
 ||wtbtop.cn^
 ||wtcpm.com^
 ||wtd57s7j.cn^
+||wtfdontblock.theporndudes.xyz^
 ||wtfgep.xyz^
 ||wtg-ads.com^
 ||wtgnmr.golfdigest.co.jp^
@@ -80024,6 +80061,7 @@
 ||z.inlist.com^
 ||z.nowscore.com^
 ||z.tudouxy01.com^
+||z0a1b2c3d4.com^
 ||z0s9n.xhamster.com^
 ||z0uolej1qnxzub1.info^
 ||z1.bohuaqiche.com^
