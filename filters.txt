@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-07-2024 16:08 UTC
-! Count: 102,330
+! Last Modified: 18-07-2024 16:08 UTC
+! Count: 102,366
 !
 ! Sources:
 ! https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
@@ -181,6 +181,7 @@
 @@||tracking-protection.cdn.mozilla.net^
 @@||tracking.dpd.de^
 @@||tracking.epicgames.com^
+@@||tracking.ubisoft.com^
 @@||trackings.post.japanpost.jp^
 @@||tuhu.cn^
 @@||ui.ads.microsoft.com^
@@ -2135,7 +2136,6 @@
 ||7me0ssd6.de^
 ||7mediaxx-ai.com^
 ||7mnpeh.com1.z0.glb.clouddn.com^
-||7moor-fs1.com^
 ||7mvmjg.www.emanualonline.com^
 ||7mx.eider.com^
 ||7mx.eidershop.com^
@@ -2821,7 +2821,6 @@
 ||a.zleep.com^
 ||a.zuowenku.net^
 ||a.zuowenxuan.cn^
-||a0.app.xiaomi.com^
 ||a00s.net^
 ||a013.com^
 ||a06bbd98194c252.com^
@@ -8161,6 +8160,7 @@
 ||alfatraffic.com^
 ||alfelixstownrusis.info^
 ||alfeza.vueling.com^
+||alfionecasave.com^
 ||alflying.bi^
 ||alflying.bid^
 ||alflying.date^
@@ -8955,6 +8955,7 @@
 ||analytics.ihg.com^
 ||analytics.ikyu.com^
 ||analytics.infobae.com^
+||analytics.inquisitr.com^
 ||analytics.iraiser.eu^
 ||analytics.ishopchangi.com^
 ||analytics.jazel.net^
@@ -9734,6 +9735,7 @@
 ||apfbrk.butorline.hu^
 ||apglinks.net^
 ||aphagiafiking.com^
+||apharponloun.com^
 ||aphasicstoray.space^
 ||aphemicstull.com^
 ||aphidsapprend.top^
@@ -11953,6 +11955,7 @@
 ||audiencies.ccma.cat^
 ||audiens.com^
 ||audienzz.ch^
+||audioad.zenomedia.com^
 ||audioadx.com^
 ||audioarctic.com^
 ||audionews.fm^
@@ -12970,6 +12973,7 @@
 ||baigm.com^
 ||baihuiad.com^
 ||baihuwang.com^
+||baijs010.xyz^
 ||baijs02.xyz^
 ||baijs03.xyz^
 ||baijs05.xyz^
@@ -13539,6 +13543,7 @@
 ||bdgg.youbian.com^
 ||bdhddyknhy.com^
 ||bdickh.globalgolf.com^
+||bdipsumv.top^
 ||bdj.tianya.cn^
 ||bdj.tianyaui.cn^
 ||bdj5.terrassesmontecarlosbm.com^
@@ -15334,6 +15339,9 @@
 ||booster.monster^
 ||booster3d.com^
 ||boostog.net^
+||bootcdn.cn^
+||bootcdn.net^
+||bootcss.com^
 ||bootharchie.com^
 ||bootstrap-framework.org^
 ||bootstrap-js.com^
@@ -15913,6 +15921,7 @@
 ||brillianceherewife.com^
 ||brilliantcollector.com^
 ||brimmallow.com^
+||brimmedbryozoa.com^
 ||bringclockwise.com^
 ||bringglacier.com^
 ||bringmethehats.com^
@@ -17765,7 +17774,6 @@
 ||cdn.app.liuxingyul.cn^
 ||cdn.arcstudiopro.com^
 ||cdn.b2.ai^
-||cdn.bootcdn.net^
 ||cdn.c-i.as^
 ||cdn.dragonstatic.com^
 ||cdn.dsp.com^
@@ -19175,6 +19183,7 @@
 ||clickthruhost.com^
 ||clickthruserver.com^
 ||clicktime.symantec.com^
+||clicktimes.bid^
 ||clicktraceclick.com^
 ||clicktracker.iscan.nl^
 ||clicktracklink.com^
@@ -23094,6 +23103,7 @@
 ||d2ltukojvgbso5.cloudfront.net^
 ||d2lxammzjarx1n.cloudfront.net^
 ||d2lxqodqbpy7c2.cloudfront.net^
+||d2m785nxw66jui.cloudfront.net^
 ||d2mic0r0bo3i6z.cloudfront.net^
 ||d2mqdhonc9glku.cloudfront.net^
 ||d2muzdhs7lpmo0.cloudfront.net^
@@ -26629,6 +26639,7 @@
 ||dmehoamo.com^
 ||dmeia.xyz^
 ||dmemndrjim.com^
+||dmepyodjotcuks.com^
 ||dmeq7blex6x1u.cloudfront.net^
 ||dmetherearlyinhes.info^
 ||dmeukeuktyoue.info^
@@ -27057,6 +27068,7 @@
 ||doujs06.xyz^
 ||doujs07.xyz^
 ||doujs08.xyz^
+||doujs09.xyz^
 ||doukekan.cn^
 ||doukoula.com^
 ||doulaikanapp.com^
@@ -27723,6 +27735,7 @@
 ||dump4barn.com^
 ||dumpaudible.com^
 ||dumpconfinementloaf.com^
+||dumpilydieted.click^
 ||dumplingclubhousecompliments.com^
 ||dumplingdirewomen.com^
 ||dumpster.cam4.com^
@@ -29040,6 +29053,7 @@
 ||economicpizzas.com^
 ||economies.adp.ca^
 ||economyhave.com^
+||econsistentlyplea.com^
 ||econstramedia.com^
 ||econtinuedidg.com^
 ||ecookie.nl^
@@ -30676,6 +30690,7 @@
 ||enteredcocktruthful.com^
 ||entereddebt.com^
 ||enteringimposter.com^
+||enterombacerick.com^
 ||enterprise-consortiumoperation.com^
 ||enterprise.dnb.ca^
 ||enterprise2.secureforms.mcafee.com^
@@ -33134,7 +33149,6 @@
 ||fire.solutions.jci.com^
 ||firearminvoluntary.com^
 ||firearmtire.com^
-||firebaseinstallations.googleapis.com^
 ||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||fireboxarborer.com^
@@ -37187,6 +37201,7 @@
 ||godev.steps.me^
 ||godforsakensubordinatewiped.com^
 ||godhat.com^
+||godiciardstia.com^
 ||godlessabberant.com^
 ||godloveme.cn^
 ||godlu.com^
@@ -37292,6 +37307,7 @@
 ||google-analytics.com^
 ||google-js-01.xyz^
 ||google-js-02.xyz^
+||google-js-08.xyz^
 ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
@@ -39618,6 +39634,7 @@
 ||hjnjjcw.xyz^
 ||hjprhubzqgw.com^
 ||hjqdwmekhur.com^
+||hjrcjz.xyz^
 ||hjrvsw.info^
 ||hjrwwwlqcovom.com^
 ||hjshal.com^
@@ -40396,7 +40413,6 @@
 ||httpdns.push.oppomobile.com^
 ||httpool.com^
 ||httpp.gdn^
-||https-filtering-check.adtidy.org^
 ||httpsecurity.org^
 ||httr.redskins.com^
 ||htubzpb.cn^
@@ -41181,6 +41197,7 @@
 ||ievvo.xyz^
 ||iewhonhdvryu.com^
 ||iewtwo.xyz^
+||ieymhkx.icu^
 ||iezptsoc.com^
 ||iezxmddndn.com^
 ||if.yyjsbz.cn^
@@ -46407,6 +46424,7 @@
 ||juzi.cn^
 ||juzi007.com^
 ||juzilm.com^
+||juznlx.xyz^
 ||juzqsq.finanzcheck.de^
 ||juzzclftcseca.com^
 ||jvbvng.notino.it^
@@ -46644,6 +46662,7 @@
 ||k8s-adserver-adserver-4b35ec6a1d-815734624.us-east-1.elb.amazonaws.com^
 ||k8s-tracking-tracking-6c17add7fc-253503024.eu-central-1.elb.amazonaws.com^
 ||k99.cc^
+||k9gj.site^
 ||ka5188.com^
 ||kaacsi.belvilla.nl^
 ||kaaqgf.icu^
@@ -55107,6 +55126,7 @@
 ||mblhzlqkhukry.com^
 ||mbljpu9.com^
 ||mbly0.xyz^
+||mbmgivexdvpajr.com^
 ||mbna.bruker.com^
 ||mbnot.com^
 ||mbns.bruker.com^
@@ -58430,6 +58450,7 @@
 ||moligh.com^
 ||mollandgleam.top^
 ||mollnia.com^
+||molpmh.xyz^
 ||molseelr.xyz^
 ||molttenglobins.casa^
 ||molypsigry.pro^
@@ -61873,7 +61894,6 @@
 ||oatmealstickyflax.com^
 ||oatscheapen.com^
 ||oatsouje.net^
-||oauth-login-drcn.platform.dbankcloud.com^
 ||oawhaursaith.com^
 ||oawvsm.xyz^
 ||oaxoulro.com^
@@ -62306,6 +62326,7 @@
 ||ohgmnmgrd.xyz^
 ||ohhotnmcibij.com^
 ||ohibal.com^
+||ohimunpracticalw.info^
 ||ohjhsopp.com^
 ||ohjrxj.personalizationmall.com^
 ||ohkahfwumd.com^
@@ -64784,6 +64805,7 @@
 ||parsec.media^
 ||parser.houyi.baofeng.net^
 ||parserskiotomy.com^
+||parsiheep.net^
 ||parsimoniousinvincible.net^
 ||parsimoniouspolice.com^
 ||parsleyagencyoutnumber.com^
@@ -66695,6 +66717,7 @@
 ||plotzn.apmex.com^
 ||ploughbrushed.com^
 ||ploygunline.com^
+||ployingcurship.com^
 ||plpuybpodusgb.xyz^
 ||plqbxvnjxq92.com^
 ||plrjs.org^
@@ -69134,6 +69157,7 @@
 ||q.skiplino.com^
 ||q.tubetruck.com^
 ||q02orc.cn^
+||q0losid.com^
 ||q1-tdsge.com^
 ||q1.yyxwzx.com^
 ||q1gel.icu^
@@ -73012,6 +73036,7 @@
 ||rvbqze.albamoda.de^
 ||rvddfchkj.xyz^
 ||rverxn.autosphere.fr^
+||rvetreyu.net^
 ||rvhzjg.desivero.com^
 ||rvibgboy.com^
 ||rvioyjme.com^
@@ -77284,6 +77309,7 @@
 ||smatning.volkswagen.se^
 ||smatr.icu^
 ||smatrix.hbo.com^
+||smawwgsdayrgijp.com^
 ||smb-cashback.alcatel-lucent.com.au^
 ||smb.info.shutterstock.com^
 ||smbranch.nc.mails.sssports.com^
@@ -83022,6 +83048,8 @@
 ||static1.searchbox.baidu.com^
 ||staticadm.leju.com^
 ||staticcdn.ecootec.com^
+||staticfile.net^
+||staticfile.org^
 ||staticiv.com^
 ||staticjs.cn^
 ||statics.3987.com^
@@ -85294,6 +85322,7 @@
 ||swiftmining.win^
 ||swigdomable.com^
 ||swigethinyl.top^
+||swiggermahwa.com^
 ||swiggrazer.life^
 ||swimmerallege.com^
 ||swimmerperfectly.com^
@@ -85436,6 +85465,7 @@
 ||sy.jlhygy.com^
 ||sy.shongcheng.com^
 ||sy.sxjxhg.com^
+||sy57d8wi.com^
 ||sya9yncn3q.com^
 ||sybhpi.cn^
 ||syblyj.com^
@@ -87179,6 +87209,7 @@
 ||tellysetback.com^
 ||telulr.golfgalaxy.com^
 ||telwrite.com^
+||temachaumble.top^
 ||temai.snssdk.com^
 ||temai.taobao.com^
 ||temails.productnotice.thomsonreuters.com^
@@ -87249,6 +87280,7 @@
 ||tentyboma.top^
 ||teogagsmm.com^
 ||teojnbkldbyddi.com^
+||tepatonol.com^
 ||terabigyellowmotha.info^
 ||terabytemedia.com^
 ||teracent.net^
@@ -91423,6 +91455,7 @@
 ||trampphotographer.com^
 ||trampplantacre.com^
 ||tran.news.so.com^
+||trandgid.com^
 ||trandlife.info^
 ||tranquilamulet.com^
 ||tranquilarchipelago.com^
@@ -95006,6 +95039,7 @@
 ||veosfi.woonexpress.nl^
 ||veoxa.com^
 ||veoxphl.com^
+||veozn3f.com^
 ||vephowcpyvncm.com^
 ||veqvek.bnnbloomberg.ca^
 ||veqvek.ctv.ca^
@@ -95762,6 +95796,7 @@
 ||vmvajwc.com^
 ||vmwody.seibu-k.co.jp^
 ||vmxqgmefynoep.xyz^
+||vmzqqmlpwwmazjnio.com^
 ||vmzqwz.cn^
 ||vn543.com^
 ||vnbyclsboyoya.com^
@@ -100165,6 +100200,7 @@
 ||yaefddu.com^
 ||yaeigtmhvsibf.com^
 ||yafabu.uno^
+||yaffedtwindle.com^
 ||yafmqibivbuu.com^
 ||yaggergiher.top^
 ||yagoqv.smartbuyglasses.ca^
